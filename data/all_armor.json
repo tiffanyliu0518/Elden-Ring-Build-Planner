@@ -1,0 +1,6406 @@
+[
+  {
+    "id": "17f696e0685l0i0nblzy58h0qvewk",
+    "name": "All-knowing Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f696e0685l0i0nblzy58h0qvewk.png",
+    "description": "Greaves set with countless eyes and ears. Worn by Gideon Ofnir, the All-Knowing. Knowledge begins with the recognition of one's ignorance. The realization that the search for knowledge is unending. But when Gideon glimpsed into the will of Queen Marika, he shuddered in fear. At the end that should not be.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 17
+      },
+      {
+        "name": "Robustness",
+        "amount": 29
+      },
+      {
+        "name": "Focus",
+        "amount": 13
+      },
+      {
+        "name": "Vitality",
+        "amount": 13
+      },
+      {
+        "name": "Poise",
+        "amount": 10
+      }
+    ],
+    "weight": 6.6
+  },
+  {
+    "id": "17f69515b49l0i0nbno079cqzlskebf",
+    "name": "All-knowing Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69515b49l0i0nbno079cqzlskebf.png",
+    "description": "Armor set with countless eyes and ears. Worn by Gideon Ofnir, the All-Knowing. Knowledge begins with the recognition of one's ignorance. The realization that the search for knowledge is unending. But when Gideon glimpsed into the will of Queen Marika, he shuddered in fear. At the end that should not be.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 12
+      },
+      {
+        "name": "Strike",
+        "amount": 11
+      },
+      {
+        "name": "Slash",
+        "amount": 13
+      },
+      {
+        "name": "Pierce",
+        "amount": 11
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 9
+      },
+      {
+        "name": "Ligt",
+        "amount": 10
+      },
+      {
+        "name": "Holy",
+        "amount": 8
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 28
+      },
+      {
+        "name": "Robustness",
+        "amount": 46
+      },
+      {
+        "name": "Focus",
+        "amount": 21
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 16
+      }
+    ],
+    "weight": 10.6
+  },
+  {
+    "id": "17f69751613l0i0nbp9nsdqjza4rxf",
+    "name": "All-knowing Helm",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69751613l0i0nbp9nsdqjza4rxf.png",
+    "description": "Helm set with countless eyes and ears. Worn by Gideon Ofnir, the All-Knowing. Knowledge begins with the recognition of one's ignorance. The realization that the search for knowledge is unending. But when Gideon glimpsed into the will of Queen Marika, he shuddered in fear. At the end that should not be.",
+    "category": "Helm",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 4
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 12
+      },
+      {
+        "name": "Robustness",
+        "amount": 20
+      },
+      {
+        "name": "Focus",
+        "amount": 9
+      },
+      {
+        "name": "Vitality",
+        "amount": 9
+      },
+      {
+        "name": "Poise",
+        "amount": 5
+      }
+    ],
+    "weight": 4.6
+  },
+  {
+    "id": "17f696221c3l0i0nbrxr4gcdi7uag",
+    "name": "Alberich's Robe (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f696221c3l0i0nbrxr4gcdi7uag.png",
+    "description": "Lighter version of the Mad Tongue Alberich's robe.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 11
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 32
+      },
+      {
+        "name": "Robustness",
+        "amount": 19
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 61
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 3.2
+  },
+  {
+    "id": "17f69b8efedl0i0nbtfdfkxtl7iqc",
+    "name": "All-knowing Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b8efedl0i0nbtfdfkxtl7iqc.png",
+    "description": "Lighter version of the All-knowing Armor.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 12
+      },
+      {
+        "name": "Strike",
+        "amount": 10
+      },
+      {
+        "name": "Slash",
+        "amount": 12
+      },
+      {
+        "name": "Pierce",
+        "amount": 11
+      },
+      {
+        "name": "Magic",
+        "amount": 11
+      },
+      {
+        "name": "Fire",
+        "amount": 8
+      },
+      {
+        "name": "Ligt",
+        "amount": 9
+      },
+      {
+        "name": "Holy",
+        "amount": 8
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 38
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 16
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 9.3
+  },
+  {
+    "id": "17f69623cf1l0i0nbutr05ucarsvt",
+    "name": "Aristocrat Coat",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69623cf1l0i0nbutr05ucarsvt.png",
+    "description": "Tanned leather coat adorned with fine gold embroidery. Travel attire worn by nobles in the capital, and the belonging of a family which claims a knight as an ancestor. Abandoning their birthplace after the Shattering, these undead wanderers are the pitiful product of unending life. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 8
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 8
+      },
+      {
+        "name": "Pierce",
+        "amount": 8
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 10
+      },
+      {
+        "name": "Holy",
+        "amount": 8
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 50
+      },
+      {
+        "name": "Robustness",
+        "amount": 32
+      },
+      {
+        "name": "Focus",
+        "amount": 42
+      },
+      {
+        "name": "Vitality",
+        "amount": 46
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 7.1
+  },
+  {
+    "id": "17f692d6b5al0i0nbvb3a2bhklmel9",
+    "name": "Aristocrat Garb",
+    "image": "https://eldenring.fanapis.com/images/armors/17f692d6b5al0i0nbvb3a2bhklmel9.png",
+    "description": "High quality garb adorned with fine golden embroidery. Travel attire worn by nobles in the capital. Terribly faded and tattered. Abandoning their birthplace after the Shattering, these undead wanderers are the pitiful product of unending life.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 47
+      },
+      {
+        "name": "Robustness",
+        "amount": 33
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 30
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 4.9
+  },
+  {
+    "id": "17f697ac6cal0i0nbwibax7uqbwu4d",
+    "name": "Aristocrat Garb (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f697ac6cal0i0nbwibax7uqbwu4d.png",
+    "description": "Lighter version of the Aristocrat Garb.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 42
+      },
+      {
+        "name": "Robustness",
+        "amount": 29
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 25
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 4.1
+  },
+  {
+    "id": "17f6984f152l0i0nc38cztqhxqc6rw",
+    "name": "All-knowing Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6984f152l0i0nc38cztqhxqc6rw.png",
+    "description": "Gauntlets set with countless eyes and ears. Worn by Gideon Ofnir, the All-Knowing. Knowledge begins with the recognition of one's ignorance. The realization that the search for knowledge is unending. But when Gideon glimpsed into the will of Queen Marika, he shuddered in fear. At the end that should not be.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 9
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 7
+      },
+      {
+        "name": "Vitality",
+        "amount": 7
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.5
+  },
+  {
+    "id": "17f6995f6eal0i0nc3hn7d7pl7mx",
+    "name": "Alberich's Robe",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6995f6eal0i0nc3hn7d7pl7mx.png",
+    "description": "Mad Tongue Alberich's robe.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 5
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 38
+      },
+      {
+        "name": "Robustness",
+        "amount": 23
+      },
+      {
+        "name": "Focus",
+        "amount": 67
+      },
+      {
+        "name": "Vitality",
+        "amount": 71
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 4.1
+  },
+  {
+    "id": "17f694ffd2el0i0ndf0zrwzni9hv1",
+    "name": "Azur's Glintstone Robe",
+    "image": "https://eldenring.fanapis.com/images/armors/17f694ffd2el0i0ndf0zrwzni9hv1.png",
+    "description": "A robe reserved for grant masters at the Academy of Raya Lucaria. Corroded by blue-green glintstones.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 15
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Light",
+        "amount": 13
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 50
+      },
+      {
+        "name": "Robustness",
+        "amount": 28
+      },
+      {
+        "name": "Focus",
+        "amount": 99
+      },
+      {
+        "name": "Vitality",
+        "amount": 83
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 7.1
+  },
+  {
+    "id": "17f69965516l0i0ndhqx8pi2kbhe8d",
+    "name": "Battlemage Robe",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69965516l0i0ndhqx8pi2kbhe8d.png",
+    "description": "Robe worn by scholars of the Raya Lucaria Academy scholar, tattered from being worn on the battlefield.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 42
+      },
+      {
+        "name": "Robustness",
+        "amount": 23
+      },
+      {
+        "name": "Focus",
+        "amount": 63
+      },
+      {
+        "name": "Vitality",
+        "amount": 71
+      },
+      {
+        "name": "Poise",
+        "amount": 2
+      }
+    ],
+    "weight": 4.1
+  },
+  {
+    "id": "17f69ba0a8al0i0ndi7y4hl33hny4",
+    "name": "Banished Knight Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69ba0a8al0i0ndi7y4hl33hny4.png",
+    "description": "Lighter version of the Banished Knight Armor.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 18
+      },
+      {
+        "name": "Strike",
+        "amount": 14
+      },
+      {
+        "name": "Slash",
+        "amount": 18
+      },
+      {
+        "name": "Pierce",
+        "amount": 17
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 13
+      },
+      {
+        "name": "Ligt",
+        "amount": 13
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 52
+      },
+      {
+        "name": "Robustness",
+        "amount": 69
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 34
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 16.5
+  },
+  {
+    "id": "17f696dc24el0i0ndj4er6v25jkwqd",
+    "name": "Astrologer Robe",
+    "image": "https://eldenring.fanapis.com/images/armors/17f696dc24el0i0ndj4er6v25jkwqd.png",
+    "description": "Robe fashioned from supple cloth. Worn by those who look to the cosmos above. They read fate in the stars, and are said to be heirs of the glintstone sorcerers. But alas, the night sky no longer cradles fate.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 13
+      },
+      {
+        "name": "Ligt",
+        "amount": 13
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 50
+      },
+      {
+        "name": "Robustness",
+        "amount": 24
+      },
+      {
+        "name": "Focus",
+        "amount": 90
+      },
+      {
+        "name": "Vitality",
+        "amount": 76
+      },
+      {
+        "name": "Poise",
+        "amount": 5
+      }
+    ],
+    "weight": 6.3
+  },
+  {
+    "id": "17f69989b5bl0i0ndk23xuv2wasv77",
+    "name": "Bandit Garb",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69989b5bl0i0ndk23xuv2wasv77.png",
+    "description": "Leather garb worn by bandits.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 8
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 9
+      },
+      {
+        "name": "Pierce",
+        "amount": 9
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 10
+      },
+      {
+        "name": "Ligt",
+        "amount": 10
+      },
+      {
+        "name": "Holy",
+        "amount": 9
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 57
+      },
+      {
+        "name": "Robustness",
+        "amount": 35
+      },
+      {
+        "name": "Focus",
+        "amount": 60
+      },
+      {
+        "name": "Vitality",
+        "amount": 60
+      },
+      {
+        "name": "Poise",
+        "amount": 5
+      }
+    ],
+    "weight": 7.7
+  },
+  {
+    "id": "17f694e487fl0i0ndlkf15nkhfpgah",
+    "name": "Astrologer Robe (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f694e487fl0i0ndlkf15nkhfpgah.png",
+    "description": "Lighter version of the Astrologer Robe",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 5
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 13
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 42
+      },
+      {
+        "name": "Robustness",
+        "amount": 21
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 64
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 5.3
+  },
+  {
+    "id": "17f694178c9l0i0ndn4e10pcg63tee",
+    "name": "Beast Champion Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f694178c9l0i0ndn4e10pcg63tee.png",
+    "description": "Silver armor engraved with tiny beasts. Worn by Bernahl the Recusant. Beasts are drawn to champions, and to lords. And this armor befits a champion worthy of becoming a lord. And that is what Bernahl was. Until his maiden threw herself into the fire. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 16
+      },
+      {
+        "name": "Strike",
+        "amount": 15
+      },
+      {
+        "name": "Slash",
+        "amount": 18
+      },
+      {
+        "name": "Pierce",
+        "amount": 18
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 13
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 55
+      },
+      {
+        "name": "Robustness",
+        "amount": 83
+      },
+      {
+        "name": "Focus",
+        "amount": 38
+      },
+      {
+        "name": "Vitality",
+        "amount": 35
+      },
+      {
+        "name": "Poise",
+        "amount": 28
+      }
+    ],
+    "weight": 16
+  },
+  {
+    "id": "17f696d739fl0i0ndpwqkk3g89lpk",
+    "name": "Black Knife Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f696d739fl0i0ndpwqkk3g89lpk.png",
+    "description": "Scale armor used by the Black Knife Assassins, forged to make no sound. Traces of power yet remain in its concealing veil, which muffles the sound of footsteps. The assassins that carried out the deeds of the Night of the Black Knives were all women, and rumored to be Numen who had close ties with Marika herself. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 11
+      },
+      {
+        "name": "Strike",
+        "amount": 10
+      },
+      {
+        "name": "Slash",
+        "amount": 12
+      },
+      {
+        "name": "Pierce",
+        "amount": 12
+      },
+      {
+        "name": "Magic",
+        "amount": 8
+      },
+      {
+        "name": "Fire",
+        "amount": 9
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 11
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 28
+      },
+      {
+        "name": "Robustness",
+        "amount": 46
+      },
+      {
+        "name": "Focus",
+        "amount": 23
+      },
+      {
+        "name": "Vitality",
+        "amount": 23
+      },
+      {
+        "name": "Poise",
+        "amount": 14
+      }
+    ],
+    "weight": 9.2
+  },
+  {
+    "id": "17f69391b3bl0i0ndt4c0it6kwlyag",
+    "name": "Beast Champion Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69391b3bl0i0ndt4c0it6kwlyag.png",
+    "description": "Lighter version of the  Best Champion Armor",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 17
+      },
+      {
+        "name": "Strike",
+        "amount": 16
+      },
+      {
+        "name": "Slash",
+        "amount": 18
+      },
+      {
+        "name": "Pierce",
+        "amount": 18
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 13
+      },
+      {
+        "name": "Ligt",
+        "amount": 13
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 50
+      },
+      {
+        "name": "Robustness",
+        "amount": 75
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 32
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 16.4
+  },
+  {
+    "id": "17f6935585fl0i0ne8s2gcl84asvoi",
+    "name": "Banished Knight Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6935585fl0i0ne8s2gcl84asvoi.png",
+    "description": "Thick, full set of armor covering the entire body. This armor was worn by knights who, whether by misfortune or misdeed, were forced to abandon their homes. These fierce warriors were each and all accomplished. Perhaps that is why, despite their territorial losses, they were still named knights.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 17
+      },
+      {
+        "name": "Strike",
+        "amount": 16
+      },
+      {
+        "name": "Slash",
+        "amount": 18
+      },
+      {
+        "name": "Pierce",
+        "amount": 18
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 13
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 63
+      },
+      {
+        "name": "Robustness",
+        "amount": 90
+      },
+      {
+        "name": "Focus",
+        "amount": 42
+      },
+      {
+        "name": "Vitality",
+        "amount": 42
+      },
+      {
+        "name": "Poise",
+        "amount": 28
+      }
+    ],
+    "weight": 17.5
+  },
+  {
+    "id": "17f6937143al0i0neejcyw9x5dlcff",
+    "name": "Black Knife Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6937143al0i0neejcyw9x5dlcff.png",
+    "description": "Lighter version of the Black Knife Armor",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 11
+      },
+      {
+        "name": "Strike",
+        "amount": 10
+      },
+      {
+        "name": "Slash",
+        "amount": 12
+      },
+      {
+        "name": "Pierce",
+        "amount": 12
+      },
+      {
+        "name": "Magic",
+        "amount": 8
+      },
+      {
+        "name": "Fire",
+        "amount": 9
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 11
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 25
+      },
+      {
+        "name": "Robustness",
+        "amount": 42
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 9
+  },
+  {
+    "id": "17f694aa574l0i0nfrfjfovdfsmoob",
+    "name": "Bloodsoaked Tabard",
+    "image": "https://eldenring.fanapis.com/images/armors/17f694aa574l0i0nfrfjfovdfsmoob.png",
+    "description": "Padded cloth armor with indelible bloodstains around the neck. Worn by headless foot soldiers who endlessly guard the Wandering Mausoleum.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 9
+      },
+      {
+        "name": "Strike",
+        "amount": 9
+      },
+      {
+        "name": "Slash",
+        "amount": 10
+      },
+      {
+        "name": "Pierce",
+        "amount": 9
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 10
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 11
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 63
+      },
+      {
+        "name": "Robustness",
+        "amount": 38
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 50
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 8.3
+  },
+  {
+    "id": "17f6930b5f4l0i0nfs4e48erx5y37e",
+    "name": "Bloodhound Knight Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6930b5f4l0i0nfs4e48erx5y37e.png",
+    "description": "Lighter version of the Bloodhound Knight Armor",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 12
+      },
+      {
+        "name": "Strike",
+        "amount": 11
+      },
+      {
+        "name": "Slash",
+        "amount": 13
+      },
+      {
+        "name": "Pierce",
+        "amount": 13
+      },
+      {
+        "name": "Magic",
+        "amount": 9
+      },
+      {
+        "name": "Fire",
+        "amount": 9
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 9
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 29
+      },
+      {
+        "name": "Robustness",
+        "amount": 45
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 9.6
+  },
+  {
+    "id": "17f695d4d39l0i0nfv30z1i34pnvzqf",
+    "name": "Blaidd's Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695d4d39l0i0nfv30z1i34pnvzqf.png",
+    "description": "Lighter version of the Blaidd's Armor",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 14
+      },
+      {
+        "name": "Strike",
+        "amount": 12
+      },
+      {
+        "name": "Slash",
+        "amount": 14
+      },
+      {
+        "name": "Pierce",
+        "amount": 14
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 9
+      },
+      {
+        "name": "Holy",
+        "amount": 11
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 32
+      },
+      {
+        "name": "Robustness",
+        "amount": 57
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 12.5
+  },
+  {
+    "id": "17f69756830l0i0nfv30b2rsq1b3p5",
+    "name": "Bloodhound Knight Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69756830l0i0nfv30b2rsq1b3p5.png",
+    "description": "Metal armor with a jutting breastplate.  Worn by the Bloodhound Knights. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 12
+      },
+      {
+        "name": "Strike",
+        "amount": 11
+      },
+      {
+        "name": "Slash",
+        "amount": 14
+      },
+      {
+        "name": "Pierce",
+        "amount": 13
+      },
+      {
+        "name": "Magic",
+        "amount": 9
+      },
+      {
+        "name": "Fire",
+        "amount": 10
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 10
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 32
+      },
+      {
+        "name": "Robustness",
+        "amount": 50
+      },
+      {
+        "name": "Focus",
+        "amount": 23
+      },
+      {
+        "name": "Vitality",
+        "amount": 23
+      },
+      {
+        "name": "Poise",
+        "amount": 14
+      }
+    ],
+    "weight": 10.6
+  },
+  {
+    "id": "17f6978a0d3l0i0nfv5cv59797t18",
+    "name": "Blackflame Monk Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6978a0d3l0i0nfv5cv59797t18.png",
+    "description": "Black iron armor adorned with ashen cloth.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 13
+      },
+      {
+        "name": "Strike",
+        "amount": 11
+      },
+      {
+        "name": "Slash",
+        "amount": 14
+      },
+      {
+        "name": "Pierce",
+        "amount": 12
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 13
+      },
+      {
+        "name": "Ligt",
+        "amount": 8
+      },
+      {
+        "name": "Holy",
+        "amount": 10
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 32
+      },
+      {
+        "name": "Robustness",
+        "amount": 55
+      },
+      {
+        "name": "Focus",
+        "amount": 21
+      },
+      {
+        "name": "Vitality",
+        "amount": 32
+      },
+      {
+        "name": "Poise",
+        "amount": 19
+      }
+    ],
+    "weight": 11.8
+  },
+  {
+    "id": "17f6960eae6l0i0nfy8iinlzz27",
+    "name": "Blaidd's Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6960eae6l0i0nfy8iinlzz27.png",
+    "description": "Well-worn black armor of the man-wolf Blaidd",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 14
+      },
+      {
+        "name": "Strike",
+        "amount": 12
+      },
+      {
+        "name": "Slash",
+        "amount": 14
+      },
+      {
+        "name": "Pierce",
+        "amount": 15
+      },
+      {
+        "name": "Magic",
+        "amount": 11
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 10
+      },
+      {
+        "name": "Holy",
+        "amount": 11
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 38
+      },
+      {
+        "name": "Robustness",
+        "amount": 76
+      },
+      {
+        "name": "Focus",
+        "amount": 25
+      },
+      {
+        "name": "Vitality",
+        "amount": 25
+      },
+      {
+        "name": "Poise",
+        "amount": 24
+      }
+    ],
+    "weight": 13.7
+  },
+  {
+    "id": "17f69b8ac34l0i0ng1cl9m395exm9",
+    "name": "Blue Silver Mail Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b8ac34l0i0ng1cl9m395exm9.png",
+    "description": "Lighter version of the Blue Silver Mail Armor",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 12
+      },
+      {
+        "name": "Strike",
+        "amount": 9
+      },
+      {
+        "name": "Slash",
+        "amount": 12
+      },
+      {
+        "name": "Pierce",
+        "amount": 11
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 9
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 21
+      },
+      {
+        "name": "Robustness",
+        "amount": 52
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 10
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 8.5
+  },
+  {
+    "id": "17f697cd43al0i0ng1v05yt93pykiy",
+    "name": "Blue Festive Garb",
+    "image": "https://eldenring.fanapis.com/images/armors/17f697cd43al0i0ng1v05yt93pykiy.png",
+    "description": "Ceremonial garb worn by dancers at the festivities in Dominula, the village of windmills. Use of this garb, dyed in a stunning blue, is only permitted for the young maids who play the central role in the festival.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 46
+      },
+      {
+        "name": "Robustness",
+        "amount": 21
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 63
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 4.1
+  },
+  {
+    "id": "17f692f8268l0i0ng2x7ww9rwst8uv",
+    "name": "Blue Cloth Vest",
+    "image": "https://eldenring.fanapis.com/images/armors/17f692f8268l0i0ng2x7ww9rwst8uv.png",
+    "description": "Vest of a nomadic warrior. The blue color of its fabric symbolizes brisk waters, as fluid and flowing as the sword in the hand of its wearer. Just as still waters turn foul, stagnation leads to decay. Warriors must remain ever drifting. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 9
+      },
+      {
+        "name": "Strike",
+        "amount": 9
+      },
+      {
+        "name": "Slash",
+        "amount": 8
+      },
+      {
+        "name": "Pierce",
+        "amount": 8
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 10
+      },
+      {
+        "name": "Ligt",
+        "amount": 11
+      },
+      {
+        "name": "Holy",
+        "amount": 9
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 63
+      },
+      {
+        "name": "Robustness",
+        "amount": 42
+      },
+      {
+        "name": "Focus",
+        "amount": 50
+      },
+      {
+        "name": "Vitality",
+        "amount": 50
+      },
+      {
+        "name": "Pose",
+        "amount": 6
+      }
+    ],
+    "weight": 7.7
+  },
+  {
+    "id": "17f69470de4l0i0ng3qcwe0r963svq",
+    "name": "Blue Silver Mail Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69470de4l0i0ng3qcwe0r963svq.png",
+    "description": "Chainmail armor crafted with blue silver. Worn by the wolf-riding Albinauric archers. Blue silver is a metal born from the same mother as the archers themselves, and provides protection from magic and frost.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 12
+      },
+      {
+        "name": "Strike",
+        "amount": 9
+      },
+      {
+        "name": "Slash",
+        "amount": 12
+      },
+      {
+        "name": "Pierce",
+        "amount": 11
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 10
+      },
+      {
+        "name": "Ligt",
+        "amount": 8
+      },
+      {
+        "name": "Holy",
+        "amount": 8
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 25
+      },
+      {
+        "name": "Robustness",
+        "amount": 60
+      },
+      {
+        "name": "Focus",
+        "amount": 18
+      },
+      {
+        "name": "Vitality",
+        "amount": 18
+      },
+      {
+        "name": "Poise",
+        "amount": 14
+      }
+    ],
+    "weight": 9.2
+  },
+  {
+    "id": "17f69afe5b2l0i0nhch0j37nxu532xb",
+    "name": "Brave's Battlewear",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69afe5b2l0i0nhch0j37nxu532xb.png",
+    "description": "Battlewear fashioned from leather armor adorned with a large sheet of cloth. Garb worn by warriors of the frigid uplands The red cloth signifies participation in the Long March long, long ago and this ceremonial garb beseeches the favor of the Warrior King who led them.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 5
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 42
+      },
+      {
+        "name": "Robustness",
+        "amount": 23
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 67
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 4.1
+  },
+  {
+    "id": "17f69a0b826l0i0nhemarkphpvbzxt",
+    "name": "Briar Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a0b826l0i0nhemarkphpvbzxt.png",
+    "description": "Lighter version of the Briar Armor",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 12
+      },
+      {
+        "name": "Strike",
+        "amount": 10
+      },
+      {
+        "name": "Slash",
+        "amount": 12
+      },
+      {
+        "name": "Pierce",
+        "amount": 11
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 9
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 29
+      },
+      {
+        "name": "Robustness",
+        "amount": 61
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 10.7
+  },
+  {
+    "id": "17f6971b296l0i0nhfp8qwuekeaesn",
+    "name": "Carian Knight Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6971b296l0i0nhfp8qwuekeaesn.png",
+    "description": "Armor of the enchanted knights that once served the Carian royal family. The enchanted knights, anointed by the Lunar Queen, were heroes of the highest honors, but fell into disarray with the decline of the royal family.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 11
+      },
+      {
+        "name": "Strike",
+        "amount": 10
+      },
+      {
+        "name": "Slash",
+        "amount": 12
+      },
+      {
+        "name": "Pierce",
+        "amount": 11
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 9
+      },
+      {
+        "name": "Holy",
+        "amount": 11
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 28
+      },
+      {
+        "name": "Robustness",
+        "amount": 46
+      },
+      {
+        "name": "Focus",
+        "amount": 21
+      },
+      {
+        "name": "Vitality",
+        "amount": 23
+      },
+      {
+        "name": "Poise",
+        "amount": 12
+      }
+    ],
+    "weight": 10.6
+  },
+  {
+    "id": "17f69bd3117l0i0nhi5aujkgurxk7s",
+    "name": "Briar Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69bd3117l0i0nhi5aujkgurxk7s.png",
+    "description": "Battered iron armor from a foreign land. Worn by Elemer of the Briar. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 12
+      },
+      {
+        "name": "Strike",
+        "amount": 11
+      },
+      {
+        "name": "Slash",
+        "amount": 13
+      },
+      {
+        "name": "Pierce",
+        "amount": 12
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 10
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 35
+      },
+      {
+        "name": "Robustness",
+        "amount": 71
+      },
+      {
+        "name": "Focus",
+        "amount": 24
+      },
+      {
+        "name": "Vitality",
+        "amount": 24
+      },
+      {
+        "name": "Poise",
+        "amount": 15
+      }
+    ],
+    "weight": 11.8
+  },
+  {
+    "id": "17f697f035fl0i0nhj9wfzbt4cchj",
+    "name": "Carian Knight Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f697f035fl0i0nhj9wfzbt4cchj.png",
+    "description": "Lighter version of the Carian Knight Armor",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 11
+      },
+      {
+        "name": "Strike",
+        "amount": 9
+      },
+      {
+        "name": "Slash",
+        "amount": 12
+      },
+      {
+        "name": "Pierce",
+        "amount": 11
+      },
+      {
+        "name": "Magic",
+        "amount": 11
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 9
+      },
+      {
+        "name": "Holy",
+        "amount": 11
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 38
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 19
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 9.7
+  },
+  {
+    "id": "17f6997525al0i0nhjhufowjmfwto",
+    "name": "Brave's Battlewear (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6997525al0i0nhjhufowjmfwto.png",
+    "description": "Lighter version of the Brave's Battlewear",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 5
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 38
+      },
+      {
+        "name": "Robustness",
+        "amount": 21
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 61
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 4.1
+  },
+  {
+    "id": "17f69a89e68l0i0nhk83o7u0bpk91k",
+    "name": "Chain Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a89e68l0i0nhk83o7u0bpk91k.png",
+    "description": "Armor made of woven chain. Standard issue for ordinary soldiers. Though plain in appearance, it offers dependable protection.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 11
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 12
+      },
+      {
+        "name": "Pierce",
+        "amount": 11
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 10
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 8
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 25
+      },
+      {
+        "name": "Robustness",
+        "amount": 42
+      },
+      {
+        "name": "Focus",
+        "amount": 11
+      },
+      {
+        "name": "Vitality",
+        "amount": 18
+      },
+      {
+        "name": "Poise",
+        "amount": 12
+      }
+    ],
+    "weight": 8.8
+  },
+  {
+    "id": "17f69aac7del0i0nhkvop92drjzgq",
+    "name": "Champion Pauldron",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69aac7del0i0nhkvop92drjzgq.png",
+    "description": "Pauldron reserved for the badlands' bravest. Proof that the wearer has slaughtered countless foes. Following the example of their chieftain Hoarah Loux, the brave warriors of the badlands shun excess adornment.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 8
+      },
+      {
+        "name": "Ligt",
+        "amount": 9
+      },
+      {
+        "name": "Holy",
+        "amount": 8
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 46
+      },
+      {
+        "name": "Robustness",
+        "amount": 28
+      },
+      {
+        "name": "Focus",
+        "amount": 38
+      },
+      {
+        "name": "Vitality",
+        "amount": 35
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      },
+      {
+        "name": "",
+        "amount": 0
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "id": "17f69a8a3f0l0i0nhqn02vvk1xgq65q",
+    "name": "Bull-goat Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a8a3f0l0i0nhqn02vvk1xgq65q.png",
+    "description": "Great Horned Tragoth's armor. Covers its wearer with a pair of giant horns, providing staunch poise. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 20
+      },
+      {
+        "name": "Strike",
+        "amount": 20
+      },
+      {
+        "name": "Slash",
+        "amount": 18
+      },
+      {
+        "name": "Pierce",
+        "amount": 18
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 13
+      },
+      {
+        "name": "Ligt",
+        "amount": 13
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 71
+      },
+      {
+        "name": "Robustness",
+        "amount": 83
+      },
+      {
+        "name": "Focus",
+        "amount": 46
+      },
+      {
+        "name": "Vitality",
+        "amount": 55
+      },
+      {
+        "name": "Poise",
+        "amount": 47
+      }
+    ],
+    "weight": 26.5
+  },
+  {
+    "id": "17f69396920l0i0nhqr4mk5q440elb",
+    "name": "Chain-draped Tabard",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69396920l0i0nhqr4mk5q440elb.png",
+    "description": "Padded cloth armor with a chainmail shawl draped over the shoulders. Widely issued to foot soldiers in a lord's army. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 9
+      },
+      {
+        "name": "Strike",
+        "amount": 10
+      },
+      {
+        "name": "Slash",
+        "amount": 9
+      },
+      {
+        "name": "Pierce",
+        "amount": 9
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 11
+      },
+      {
+        "name": "Holy",
+        "amount": 10
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 63
+      },
+      {
+        "name": "Robustness",
+        "amount": 42
+      },
+      {
+        "name": "Focus",
+        "amount": 55
+      },
+      {
+        "name": "Vitality",
+        "amount": 55
+      },
+      {
+        "name": "Poise",
+        "amount": 8
+      }
+    ],
+    "weight": 8.3
+  },
+  {
+    "id": "17f69be686fl0i0nizg2fcjv8u31em",
+    "name": "Cloth Garb",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69be686fl0i0nizg2fcjv8u31em.png",
+    "description": "Clothing made of coarse material, commonly worn in the Lands Between. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 11
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 42
+      },
+      {
+        "name": "Robustness",
+        "amount": 23
+      },
+      {
+        "name": "Focus",
+        "amount": 60
+      },
+      {
+        "name": "Vitality",
+        "amount": 60
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 3.2
+  },
+  {
+    "id": "17f69aaa630l0i0nj3bpfc2hdtz6bd",
+    "name": "Cleanrot Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69aaa630l0i0nj3bpfc2hdtz6bd.png",
+    "description": "Lighter version of the Cleanrot Armor",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 13
+      },
+      {
+        "name": "Strike",
+        "amount": 12
+      },
+      {
+        "name": "Slash",
+        "amount": 14
+      },
+      {
+        "name": "Pierce",
+        "amount": 16
+      },
+      {
+        "name": "Magic",
+        "amount": 11
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 10
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 52
+      },
+      {
+        "name": "Robustness",
+        "amount": 54
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 22
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 13.7
+  },
+  {
+    "id": "17f69b1dc9cl0i0nj8l9fmv72bzrsi",
+    "name": "Commoner's Garb (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b1dc9cl0i0nj8l9fmv72bzrsi.png",
+    "description": "Lighter version of the Commoner's Garb",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 34
+      },
+      {
+        "name": "Robustness",
+        "amount": 21
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 64
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 4.1
+  },
+  {
+    "id": "17f69574f29l0i0nj8lj0vaeprdgq",
+    "name": "Cleanrot Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69574f29l0i0nj8lj0vaeprdgq.png",
+    "description": "Armor of the Cleanrot Knights, celebrated for their undefeated campaign in the Shattering. The Cleanrot Knights vowed to fight alongside Malenia, despite the inevitable, if gradual, putrefaction of their flesh. Their acceptance of their fate made these battles fiercest of all.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 14
+      },
+      {
+        "name": "Strike",
+        "amount": 13
+      },
+      {
+        "name": "Slash",
+        "amount": 16
+      },
+      {
+        "name": "Pierce",
+        "amount": 17
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 11
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 63
+      },
+      {
+        "name": "Robustness",
+        "amount": 67
+      },
+      {
+        "name": "Focus",
+        "amount": 28
+      },
+      {
+        "name": "Vitality",
+        "amount": 32
+      },
+      {
+        "name": "Poise",
+        "amount": 23
+      }
+    ],
+    "weight": 15
+  },
+  {
+    "id": "17f69bf382el0i0njdautt61bo7uj",
+    "name": "Commoner's Garb",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69bf382el0i0njdautt61bo7uj.png",
+    "description": "Garb with a thick embroidered cape attached. Standard wear for commoners of the Lands Between.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 42
+      },
+      {
+        "name": "Robustness",
+        "amount": 25
+      },
+      {
+        "name": "Focus",
+        "amount": 76
+      },
+      {
+        "name": "Vitality",
+        "amount": 83
+      },
+      {
+        "name": "Poise",
+        "amount": 2
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "id": "17f69804d5fl0i0njgjdpbczm2va3d",
+    "name": "Confessor Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69804d5fl0i0njgjdpbczm2va3d.png",
+    "description": "Lighter version of the Confessor Armor",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 9
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 8
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 10
+      },
+      {
+        "name": "Ligt",
+        "amount": 11
+      },
+      {
+        "name": "Holy",
+        "amount": 9
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 54
+      },
+      {
+        "name": "Robustness",
+        "amount": 42
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 45
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 7.3
+  },
+  {
+    "id": "17f69854218l0i0njgqjqpsw5xkvfa",
+    "name": "Confessor Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69854218l0i0njgqjqpsw5xkvfa.png",
+    "description": "Black leather armor for blending in with the darkness. Worn by church confessors. The churches outside the Lands Between, dedicated to the teachings of the Two Fingers, send confessors out to follow the guidance of grace. The confessors are loyal servants to the Two Fingers, ready to hunt down and quietly dispose of their enemies.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 8
+      },
+      {
+        "name": "Strike",
+        "amount": 10
+      },
+      {
+        "name": "Slash",
+        "amount": 8
+      },
+      {
+        "name": "Pierce",
+        "amount": 9
+      },
+      {
+        "name": "Magic",
+        "amount": 11
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 10
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 63
+      },
+      {
+        "name": "Robustness",
+        "amount": 50
+      },
+      {
+        "name": "Focus",
+        "amount": 50
+      },
+      {
+        "name": "Vitality",
+        "amount": 55
+      },
+      {
+        "name": "Poise",
+        "amount": 6
+      }
+    ],
+    "weight": 8.3
+  },
+  {
+    "id": "17f695d1369l0i0njkocj642d4zzl",
+    "name": "Commoner's Simple Garb",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695d1369l0i0njkocj642d4zzl.png",
+    "description": "Garb with a modest cloth cape attached. Standard wear for commoners of the Lands Between. The board hung from the neck depicts a sprawling tree, its roots and branches forming two holes. This is a self-imposed shackle, a voluntary display of allegiance to the Erdtree that increases faith. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 46
+      },
+      {
+        "name": "Robustness",
+        "amount": 24
+      },
+      {
+        "name": "Focus",
+        "amount": 76
+      },
+      {
+        "name": "Vitality",
+        "amount": 83
+      },
+      {
+        "name": "Poise",
+        "amount": 2
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "id": "17f69ac8a94l0i0njlvxak0kr6y9r",
+    "name": "Commoner's Simple Garb (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69ac8a94l0i0njlvxak0kr6y9r.png",
+    "description": "Lighter version of the Commoner's Simple Garb",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 38
+      },
+      {
+        "name": "Robustness",
+        "amount": 21
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 64
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 4.1
+  },
+  {
+    "id": "17f694d25a9l0i0njnlc9axlanhtan",
+    "name": "Consort's Robe",
+    "image": "https://eldenring.fanapis.com/images/armors/17f694d25a9l0i0njnlc9axlanhtan.png",
+    "description": "Fine robe of white silk worn by Tanith, Lady of the Volcano Manor.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 46
+      },
+      {
+        "name": "Robustness",
+        "amount": 25
+      },
+      {
+        "name": "Focus",
+        "amount": 67
+      },
+      {
+        "name": "Vitality",
+        "amount": 63
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 4.1
+  },
+  {
+    "id": "17f69c07710l0i0nkbcxuu9u5cmd9",
+    "name": "Crucible Axe Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69c07710l0i0nkbcxuu9u5cmd9.png",
+    "description": "Armor of the Crucible Knights who served Godfrey, the first Elden Lord. Worn by the knight Ordovis and his men. Holds the power of the crucible of life, the primordial form of the Erdtree. Strengthens Aspects of the Crucible incantations. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 17
+      },
+      {
+        "name": "Strike",
+        "amount": 13
+      },
+      {
+        "name": "Slash",
+        "amount": 16
+      },
+      {
+        "name": "Pierce",
+        "amount": 16
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 11
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 40
+      },
+      {
+        "name": "Robustness",
+        "amount": 71
+      },
+      {
+        "name": "Focus",
+        "amount": 35
+      },
+      {
+        "name": "Vitality",
+        "amount": 35
+      },
+      {
+        "name": "Poise",
+        "amount": 27
+      }
+    ],
+    "weight": 15.5
+  },
+  {
+    "id": "17f69bd8054l0i0nkxr3clw4f1za97",
+    "name": "Corhyn's Robe",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69bd8054l0i0nkxr3clw4f1za97.png",
+    "description": "Robe of Corhyn the cleric. Even after exile, Corhyn refused to recant his prophecies. And for this, he was blessed with the guidance of grace. Since then, the cart wheel draped on his neck has served as a reminder. That true guidance awaits those with iron wills. Those with unwavering faith.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 46
+      },
+      {
+        "name": "Robustness",
+        "amount": 24
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 76
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 6.3
+  },
+  {
+    "id": "17f694aeec6l0i0nlb2yczejblw3fs",
+    "name": "Crucible Tree Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f694aeec6l0i0nlb2yczejblw3fs.png",
+    "description": "Armor of the Crucible Knights who served Godfrey, the first Elden Lord. Worn by the knight Siluria and her men. Holds the power of the crucible of life, the primordial form of the Erdtree. Strengthens Aspects of the Crucible incantations. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 17
+      },
+      {
+        "name": "Strike",
+        "amount": 13
+      },
+      {
+        "name": "Slash",
+        "amount": 17
+      },
+      {
+        "name": "Pierce",
+        "amount": 15
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 11
+      },
+      {
+        "name": "Holy",
+        "amount": 14
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 50
+      },
+      {
+        "name": "Robustness",
+        "amount": 71
+      },
+      {
+        "name": "Focus",
+        "amount": 35
+      },
+      {
+        "name": "Vitality",
+        "amount": 35
+      },
+      {
+        "name": "Poise",
+        "amount": 27
+      }
+    ],
+    "weight": 15.5
+  },
+  {
+    "id": "17f6977b703l0i0nlg5t37m2ncrcgg",
+    "name": "Crucible Axe Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6977b703l0i0nlg5t37m2ncrcgg.png",
+    "description": "Lighter version of the Crucible Axe Armor",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 16
+      },
+      {
+        "name": "Strike",
+        "amount": 13
+      },
+      {
+        "name": "Slash",
+        "amount": 16
+      },
+      {
+        "name": "Pierce",
+        "amount": 16
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 10
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 42
+      },
+      {
+        "name": "Robustness",
+        "amount": 61
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 29
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 14.9
+  },
+  {
+    "id": "17f6962d71bl0i0nlgnf87vzelcqvb",
+    "name": "Crucible Tree Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6962d71bl0i0nlgnf87vzelcqvb.png",
+    "description": "Lighter version of the Crucible Tree Armor",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 17
+      },
+      {
+        "name": "Strike",
+        "amount": 13
+      },
+      {
+        "name": "Slash",
+        "amount": 16
+      },
+      {
+        "name": "Pierce",
+        "amount": 15
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 10
+      },
+      {
+        "name": "Holy",
+        "amount": 14
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 42
+      },
+      {
+        "name": "Robustness",
+        "amount": 61
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 29
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 14.9
+  },
+  {
+    "id": "17f696e2a6el0i0nlhjp412cuyw1b",
+    "name": "Cuckoo Surcoat",
+    "image": "https://eldenring.fanapis.com/images/armors/17f696e2a6el0i0nlhjp412cuyw1b.png",
+    "description": "Armor worn by Raya Lucaria Academy soldiers. The surcoat depicts twinned cuckoos peering into a flourishing mass of glintstone. To a glintstone sorcerer, the body is a transient thing. The Cuckoo alone knows its insignificance, yet watches over it all the same.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 12
+      },
+      {
+        "name": "Strike",
+        "amount": 10
+      },
+      {
+        "name": "Slash",
+        "amount": 13
+      },
+      {
+        "name": "Pierce",
+        "amount": 12
+      },
+      {
+        "name": "Magic",
+        "amount": 11
+      },
+      {
+        "name": "Fire",
+        "amount": 10
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 8
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 28
+      },
+      {
+        "name": "Robustness",
+        "amount": 55
+      },
+      {
+        "name": "Focus",
+        "amount": 23
+      },
+      {
+        "name": "Vitality",
+        "amount": 23
+      },
+      {
+        "name": "Poise",
+        "amount": 16
+      }
+    ],
+    "weight": 10.6
+  },
+  {
+    "id": "17f69ad695cl0i0nlk7zosw17m45i",
+    "name": "Cuckoo Knight Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69ad695cl0i0nlk7zosw17m45i.png",
+    "description": "Armor worn by Raya Lucaria Academy knights.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 13
+      },
+      {
+        "name": "Strike",
+        "amount": 11
+      },
+      {
+        "name": "Slash",
+        "amount": 14
+      },
+      {
+        "name": "Pierce",
+        "amount": 13
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 8
+      },
+      {
+        "name": "Holy",
+        "amount": 10
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 32
+      },
+      {
+        "name": "Robustness",
+        "amount": 57
+      },
+      {
+        "name": "Focus",
+        "amount": 24
+      },
+      {
+        "name": "Vitality",
+        "amount": 24
+      },
+      {
+        "name": "Poise",
+        "amount": 19
+      }
+    ],
+    "weight": 11.8
+  },
+  {
+    "id": "17f69924cd5l0i0nlqxpvm0jwhqpqq",
+    "name": "Cuckoo Knight Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69924cd5l0i0nlqxpvm0jwhqpqq.png",
+    "description": "Lighter version of the Cuckoo Knight Armor",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 13
+      },
+      {
+        "name": "Strike",
+        "amount": 11
+      },
+      {
+        "name": "Slash",
+        "amount": 14
+      },
+      {
+        "name": "Pierce",
+        "amount": 13
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 8
+      },
+      {
+        "name": "Holy",
+        "amount": 9
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 29
+      },
+      {
+        "name": "Robustness",
+        "amount": 52
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 10.8
+  },
+  {
+    "id": "17f693e9142l0i0nlr04j56c87ebi7",
+    "name": "Deathbed Dress",
+    "image": "https://eldenring.fanapis.com/images/armors/17f693e9142l0i0nlr04j56c87ebi7.png",
+    "description": "Extremely thin and sheer white dress worn by the Deathbed Companion as she embraces the dead. Slowly replenishes the HP of nearby allies, but not that of the wearer. The touch of the fabric is exceedingly soft, so as not to harm even the most withered corpse, while still sharing her warmth. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 0
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 0
+      },
+      {
+        "name": "Pierce",
+        "amount": 0
+      },
+      {
+        "name": "Magic",
+        "amount": 11
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 11
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 38
+      },
+      {
+        "name": "Robustness",
+        "amount": 11
+      },
+      {
+        "name": "Focus",
+        "amount": 63
+      },
+      {
+        "name": "Vitality",
+        "amount": 107
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 3.2
+  },
+  {
+    "id": "17f69862df3l0i0nlxyv0dkfqf5tj",
+    "name": "Depraved Perfumer Robe",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69862df3l0i0nlxyv0dkfqf5tj.png",
+    "description": "Robe worn by depraved perfumers. The embroidery on the apron is itself a curse upon the Erdtree. These heresy-inclined perfumers imbibe their own spices to alter body and mind. Their slow descent into self-destruction is  what earned them their name.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 5
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 65
+      },
+      {
+        "name": "Robustness",
+        "amount": 22
+      },
+      {
+        "name": "Focus",
+        "amount": 58
+      },
+      {
+        "name": "Vitality",
+        "amount": 80
+      },
+      {
+        "name": "Poise",
+        "amount": 2
+      }
+    ],
+    "weight": 5
+  },
+  {
+    "id": "17f696d7404l0i0nn7va4d6abbcotb",
+    "name": "Drake Knight Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f696d7404l0i0nn7va4d6abbcotb.png",
+    "description": "Black iron armor worn by drake knights. Features the spoils of a dragon catch as an emblem of pride as both dragon hunter and partake of communion. The cape is crafted with dragon wing membrane.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 11
+      },
+      {
+        "name": "Strike",
+        "amount": 9
+      },
+      {
+        "name": "Slash",
+        "amount": 11
+      },
+      {
+        "name": "Pierce",
+        "amount": 11
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 8
+      },
+      {
+        "name": "Holy",
+        "amount": 10
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 25
+      },
+      {
+        "name": "Robustness",
+        "amount": 46
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 9.2
+  },
+  {
+    "id": "17f699b9043l0i0nn83d0h57urk7fk",
+    "name": "Drake Knight Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f699b9043l0i0nn83d0h57urk7fk.png",
+    "description": "Lighter version of the Drake Knight Armor",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 11
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 11
+      },
+      {
+        "name": "Pierce",
+        "amount": 10
+      },
+      {
+        "name": "Magic",
+        "amount": 8
+      },
+      {
+        "name": "Fire",
+        "amount": 9
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 8
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 21
+      },
+      {
+        "name": "Robustness",
+        "amount": 34
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 10
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 8.3
+  },
+  {
+    "id": "17f69909573l0i0nn85bvv7mliw69r",
+    "name": "Depraved Perfumer Robe (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69909573l0i0nn85bvv7mliw69r.png",
+    "description": "Lighter version of the Depraved Perfumer Robe",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 63
+      },
+      {
+        "name": "Robustness",
+        "amount": 18
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 63
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 4
+  },
+  {
+    "id": "17f6973b5c4l0i0nnb11yezcgr5rfzi",
+    "name": "Elden Lord Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6973b5c4l0i0nnb11yezcgr5rfzi.png",
+    "description": "Lighter version of the Elden Lord Armor",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 11
+      },
+      {
+        "name": "Strike",
+        "amount": 9
+      },
+      {
+        "name": "Slash",
+        "amount": 10
+      },
+      {
+        "name": "Pierce",
+        "amount": 11
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 10
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 45
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 16
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 8.4
+  },
+  {
+    "id": "17f693e09b8l0i0nndffutsb6b4e8k",
+    "name": "Elden Lord Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f693e09b8l0i0nndffutsb6b4e8k.png",
+    "description": "Armor of Godfrey the first Elden Lord. The age of the Erdtree began amongst conflict, when Godfrey was lord of the battlefield. He led the War against the Giants. Faced the Storm Lord, alone. And then, there came a moment. When his last worthy enemy fell. And it was then, as the story is told, that the hue of Lord Godfrey's eyes faded.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 11
+      },
+      {
+        "name": "Strike",
+        "amount": 10
+      },
+      {
+        "name": "Slash",
+        "amount": 11
+      },
+      {
+        "name": "Pierce",
+        "amount": 12
+      },
+      {
+        "name": "Magic",
+        "amount": 8
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 8
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 32
+      },
+      {
+        "name": "Robustness",
+        "amount": 55
+      },
+      {
+        "name": "Focus",
+        "amount": 18
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 14
+      }
+    ],
+    "weight": 9.2
+  },
+  {
+    "id": "17f699fe52el0i0nne4l5nr3ut897n",
+    "name": "Dirty Chainmail",
+    "image": "https://eldenring.fanapis.com/images/armors/17f699fe52el0i0nne4l5nr3ut897n.png",
+    "description": "Chainmail worn by young Albinaurics. The appearance of a protruding belly provides no benefits worthy of note.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 11
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 11
+      },
+      {
+        "name": "Pierce",
+        "amount": 11
+      },
+      {
+        "name": "Magic",
+        "amount": 8
+      },
+      {
+        "name": "Fire",
+        "amount": 8
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 8
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 25
+      },
+      {
+        "name": "Robustness",
+        "amount": 50
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 8.8
+  },
+  {
+    "id": "17f69798ccbl0i0nnfvcte1t2jfs1b",
+    "name": "Errant Sorcerer Robe",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69798ccbl0i0nnfvcte1t2jfs1b.png",
+    "description": "Commonplace robe made of thick cloth. Worn by the Errant Sorcerer Wilhelm, one of the first Tarnished to visit Roundtable Hold. A silent seeker of sorcery, who had gone so far as to make contact with the primeval current, Wilhelm was led by guidance into confrontation with his friend Vargram, and it is said that he was then taken prisoner in Roundtable Hold.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 35
+      },
+      {
+        "name": "Robustness",
+        "amount": 23
+      },
+      {
+        "name": "Focus",
+        "amount": 67
+      },
+      {
+        "name": "Vitality",
+        "amount": 71
+      },
+      {
+        "name": "Poise",
+        "amount": 2
+      }
+    ],
+    "weight": 4.1
+  },
+  {
+    "id": "17f6990e711l0i0nnhe1vsvmoy5cxi",
+    "name": "Erdtree Surcoat",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6990e711l0i0nnhe1vsvmoy5cxi.png",
+    "description": "Armor worn by soldiers sworn to defend the royal capital of Leyndell. The surcoat bears a majestic likeness of the Erdtree. Its golden backing is an honor bestowed on no other soldiers.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 12
+      },
+      {
+        "name": "Strike",
+        "amount": 11
+      },
+      {
+        "name": "Slash",
+        "amount": 12
+      },
+      {
+        "name": "Pierce",
+        "amount": 12
+      },
+      {
+        "name": "Magic",
+        "amount": 9
+      },
+      {
+        "name": "Fire",
+        "amount": 10
+      },
+      {
+        "name": "Ligt",
+        "amount": 8
+      },
+      {
+        "name": "Holy",
+        "amount": 9
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 32
+      },
+      {
+        "name": "Robustness",
+        "amount": 55
+      },
+      {
+        "name": "Focus",
+        "amount": 23
+      },
+      {
+        "name": "Vitality",
+        "amount": 23
+      },
+      {
+        "name": "Poise",
+        "amount": 16
+      }
+    ],
+    "weight": 10.6
+  },
+  {
+    "id": "17f693c8f84l0i0nnir4iotp5rvfb3",
+    "name": "Eccentric's Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f693c8f84l0i0nnir4iotp5rvfb3.png",
+    "description": "Unusually colorful armor. Worn by the knight Jerren. Jerren preferred a nomadic existence, but after spending time as guest of the Carian royals, he became a guest commander for General Radahn. And for the first time, the restless tumbleweed would be bound by honorable oath",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 12
+      },
+      {
+        "name": "Strike",
+        "amount": 10
+      },
+      {
+        "name": "Slash",
+        "amount": 12
+      },
+      {
+        "name": "Pierce",
+        "amount": 12
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 10
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 9
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 35
+      },
+      {
+        "name": "Robustness",
+        "amount": 60
+      },
+      {
+        "name": "Focus",
+        "amount": 23
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 15
+      }
+    ],
+    "weight": 10.6
+  },
+  {
+    "id": "17f69b81b0fl0i0nox6k1sywembhx8",
+    "name": "Eye Surcoat",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b81b0fl0i0nox6k1sywembhx8.png",
+    "description": "Brown surcoat draped over chainmail. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 12
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 12
+      },
+      {
+        "name": "Pierce",
+        "amount": 11
+      },
+      {
+        "name": "Magic",
+        "amount": 8
+      },
+      {
+        "name": "Fire",
+        "amount": 10
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 8
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 25
+      },
+      {
+        "name": "Robustness",
+        "amount": 55
+      },
+      {
+        "name": "Focus",
+        "amount": 21
+      },
+      {
+        "name": "Vitality",
+        "amount": 18
+      },
+      {
+        "name": "Poise",
+        "amount": 15
+      }
+    ],
+    "weight": 9.2
+  },
+  {
+    "id": "17f69b9d0d3l0i0np1ewinq79w2phd",
+    "name": "Festive Garb",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b9d0d3l0i0np1ewinq79w2phd.png",
+    "description": "Ceremonial garb worn by dancers at the festivities in Dominula, the village of windmills. Faintly bloodstained.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 42
+      },
+      {
+        "name": "Robustness",
+        "amount": 21
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 67
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 4.1
+  },
+  {
+    "id": "17f69809c2cl0i0np1gybgyzscj0p",
+    "name": "Errant Sorcerer Robe (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69809c2cl0i0np1gybgyzscj0p.png",
+    "description": "Lighter version of the Errant Sorcerer Robe.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 32
+      },
+      {
+        "name": "Robustness",
+        "amount": 21
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 64
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 4.1
+  },
+  {
+    "id": "17f692d489al0i0np20nfmvw8ku9t",
+    "name": "Festive Garb (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f692d489al0i0np20nfmvw8ku9t.png",
+    "description": "Lighter version of the  Festive Garb.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 5
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 11
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 34
+      },
+      {
+        "name": "Robustness",
+        "amount": 16
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 57
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 3.2
+  },
+  {
+    "id": "17f69bcba02l0i0np2hg16z35gtvl",
+    "name": "Fia's Robe",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69bcba02l0i0np2hg16z35gtvl.png",
+    "description": "Robe of black cloth that covers the entire body. Worn by Fia, the Deathbed Companion, on her journey after being exiled from her home.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 5
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 46
+      },
+      {
+        "name": "Robustness",
+        "amount": 21
+      },
+      {
+        "name": "Focus",
+        "amount": 76
+      },
+      {
+        "name": "Vitality",
+        "amount": 108
+      },
+      {
+        "name": "Poise",
+        "amount": 2
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "id": "17f69745003l0i0np2q18wxhgem49z",
+    "name": "Fell Omen Cloak",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69745003l0i0np2q18wxhgem49z.png",
+    "description": "\"A cloak of ragged fur worn about the exposed body of Margit, the Fell Omen.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 42
+      },
+      {
+        "name": "Robustness",
+        "amount": 25
+      },
+      {
+        "name": "Focus",
+        "amount": 71
+      },
+      {
+        "name": "Vitality",
+        "amount": 83
+      },
+      {
+        "name": "Poise",
+        "amount": 2
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "id": "17f6947679al0i0np87exprtde60f",
+    "name": "Exile Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6947679al0i0np87exprtde60f.png",
+    "description": "Damaged armor draped with a large deep-red cloth. Worn by soldiers sent to the penal colonies.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 12
+      },
+      {
+        "name": "Strike",
+        "amount": 9
+      },
+      {
+        "name": "Slash",
+        "amount": 12
+      },
+      {
+        "name": "Pierce",
+        "amount": 12
+      },
+      {
+        "name": "Magic",
+        "amount": 8
+      },
+      {
+        "name": "Fire",
+        "amount": 10
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 9
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 28
+      },
+      {
+        "name": "Robustness",
+        "amount": 55
+      },
+      {
+        "name": "Focus",
+        "amount": 21
+      },
+      {
+        "name": "Vitality",
+        "amount": 18
+      },
+      {
+        "name": "Poise",
+        "amount": 14
+      }
+    ],
+    "weight": 9.2
+  },
+  {
+    "id": "17f697bc348l0i0npao8lh55tj2dwt",
+    "name": "Finger Maiden Robe (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f697bc348l0i0npao8lh55tj2dwt.png",
+    "description": "Lighter version of the Finger Maiden Robe.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 0
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 32
+      },
+      {
+        "name": "Robustness",
+        "amount": 16
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 54
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 3.7
+  },
+  {
+    "id": "17f69a076eel0i0npawdixarnezf9r",
+    "name": "Finger Maiden Robe",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a076eel0i0npawdixarnezf9r.png",
+    "description": "Robe worn by maidens who serve the Two Fingers. The maidens live to serve a chosen Tarnished, sharing their guidance and the wisdom of the Two Fingers. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 38
+      },
+      {
+        "name": "Robustness",
+        "amount": 21
+      },
+      {
+        "name": "Focus",
+        "amount": 63
+      },
+      {
+        "name": "Vitality",
+        "amount": 63
+      },
+      {
+        "name": "Poise",
+        "amount": 2
+      }
+    ],
+    "weight": 4.1
+  },
+  {
+    "id": "17f69b6df92l0i0npbev39ka5gaueh",
+    "name": "Fingerprint Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b6df92l0i0npbev39ka5gaueh.png",
+    "description": "Iron armor singed and blistered by fingers. Worn by Vyke, knight of the Roundtable Hold. No other Tarnished was closer to the throne of the Elden Lord than Vyke. But without announcement, Vyke traveled far below the capital, and was scorched by the flame of frenzy. Did he make his choice for his maiden, or did some other force lure him with suggestion?",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 13
+      },
+      {
+        "name": "Strike",
+        "amount": 11
+      },
+      {
+        "name": "Slash",
+        "amount": 11
+      },
+      {
+        "name": "Pierce",
+        "amount": 11
+      },
+      {
+        "name": "Magic",
+        "amount": 9
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 9
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 32
+      },
+      {
+        "name": "Robustness",
+        "amount": 60
+      },
+      {
+        "name": "Focus",
+        "amount": 11
+      },
+      {
+        "name": "Vitality",
+        "amount": 23
+      },
+      {
+        "name": "Poise",
+        "amount": 19
+      }
+    ],
+    "weight": 10.6
+  },
+  {
+    "id": "17f692e48a9l0i0nq4invtcj4xoxg",
+    "name": "Fingerprint Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f692e48a9l0i0nq4invtcj4xoxg.png",
+    "description": "Lighter version of the Fingerprint Armor.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 13
+      },
+      {
+        "name": "Strike",
+        "amount": 11
+      },
+      {
+        "name": "Slash",
+        "amount": 11
+      },
+      {
+        "name": "Pierce",
+        "amount": 11
+      },
+      {
+        "name": "Magic",
+        "amount": 9
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 9
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 29
+      },
+      {
+        "name": "Robustness",
+        "amount": 54
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 10
+  },
+  {
+    "id": "17f69aaaa13l0i0nqk3jcpdpwb00yg",
+    "name": "Fur Raiment",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69aaaa13l0i0nqk3jcpdpwb00yg.png",
+    "description": "Raiment fashioned from a bristly pelt. Worn by ancestral follower warriors. The ancestral followers keep their distance from the Erdtree, awaiting new buds. They are certain to sprout from their very flesh, and indeed, their souls.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "6.1",
+        "amount": 0
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 8
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 63
+      },
+      {
+        "name": "Robustness",
+        "amount": 42
+      },
+      {
+        "name": "Focus",
+        "amount": 55
+      },
+      {
+        "name": "Vitality",
+        "amount": 38
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "id": "17f695e41e2l0i0nqlnzqhrds6de4",
+    "name": "Gelmir Knight Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695e41e2l0i0nqlnzqhrds6de4.png",
+    "description": "Armor worn by knights once royal to Praector Rykard.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 13
+      },
+      {
+        "name": "Strike",
+        "amount": 11
+      },
+      {
+        "name": "Slash",
+        "amount": 14
+      },
+      {
+        "name": "Pierce",
+        "amount": 13
+      },
+      {
+        "name": "Mag",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 10
+      },
+      {
+        "name": "Holy",
+        "amount": 10
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 35
+      },
+      {
+        "name": "Robustness",
+        "amount": 55
+      },
+      {
+        "name": "Focus",
+        "amount": 24
+      },
+      {
+        "name": "Vitality",
+        "amount": 23
+      },
+      {
+        "name": "Poise",
+        "amount": 19
+      }
+    ],
+    "weight": 11.8
+  },
+  {
+    "id": "17f69ac51bfl0i0nqnn5hwqbyhej9f",
+    "name": "Gelmir Knight Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69ac51bfl0i0nqnn5hwqbyhej9f.png",
+    "description": "Lighter version of the Gelmir Knight Armor.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 13
+      },
+      {
+        "name": "Strike",
+        "amount": 11
+      },
+      {
+        "name": "Slash",
+        "amount": 13
+      },
+      {
+        "name": "Pierce",
+        "amount": 13
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 12
+      },
+      {
+        "name": "Ligt",
+        "amount": 9
+      },
+      {
+        "name": "Holy",
+        "amount": 10
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 32
+      },
+      {
+        "name": "Robustness",
+        "amount": 50
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 10.8
+  },
+  {
+    "id": "17f698fce7fl0i0nqodwfje5g7qdem",
+    "name": "Fire Prelate Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f698fce7fl0i0nqodwfje5g7qdem.png",
+    "description": "Black iron armor adorned with a red cloth. Attire of the Fire Prelates, commanders of the Fire Monks.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 19
+      },
+      {
+        "name": "Strike",
+        "amount": 17
+      },
+      {
+        "name": "Slash",
+        "amount": 18
+      },
+      {
+        "name": "Pierce",
+        "amount": 18
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 19
+      },
+      {
+        "name": "Ligt",
+        "amount": 13
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 67
+      },
+      {
+        "name": "Robustness",
+        "amount": 63
+      },
+      {
+        "name": "Focus",
+        "amount": 90
+      },
+      {
+        "name": "Vitality",
+        "amount": 50
+      },
+      {
+        "name": "Poise",
+        "amount": 40
+      }
+    ],
+    "weight": 24.7
+  },
+  {
+    "id": "17f69ad1925l0i0nqpxhwptd5dkycf",
+    "name": "Godrick Knight Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69ad1925l0i0nqpxhwptd5dkycf.png",
+    "description": "Armor worn by knights loyal to Godrick The Grafted.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 13
+      },
+      {
+        "name": "Strike",
+        "amount": 11
+      },
+      {
+        "name": "Slash",
+        "amount": 14
+      },
+      {
+        "name": "Pierce",
+        "amount": 12
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 9
+      },
+      {
+        "name": "Holy",
+        "amount": 10
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 35
+      },
+      {
+        "name": "Robustness",
+        "amount": 57
+      },
+      {
+        "name": "Focus",
+        "amount": 24
+      },
+      {
+        "name": "Vitality",
+        "amount": 24
+      },
+      {
+        "name": "Poise",
+        "amount": 19
+      }
+    ],
+    "weight": 11.8
+  },
+  {
+    "id": "17f697838dbl0i0nqpyyrpkl1polw",
+    "name": "Godksin Noble Robe",
+    "image": "https://eldenring.fanapis.com/images/armors/17f697838dbl0i0nqpyyrpkl1polw.png",
+    "description": "Robe made by sewing together patches of smooth skin. Subcutaneous fat makes it plump and soft. Worn by Godskin Nobles known for their seven-face aprons. Strengthens the Noble Presence incantation. Nobles are the most ancient apostles who are said to have assimilated inhuman physiology. Not unlike the crucible, the Erdtree in its primordial form.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6.1
+      },
+      {
+        "name": "Strike",
+        "amount": 9.5
+      },
+      {
+        "name": "Slash",
+        "amount": 6.7
+      },
+      {
+        "name": "Pierce",
+        "amount": 6.1
+      },
+      {
+        "name": "Magic",
+        "amount": 13
+      },
+      {
+        "name": "Fire",
+        "amount": 12.4
+      },
+      {
+        "name": "Ligt",
+        "amount": 12.6
+      },
+      {
+        "name": "Holy",
+        "amount": 14.1
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 46
+      },
+      {
+        "name": "Robustness",
+        "amount": 25
+      },
+      {
+        "name": "Focus",
+        "amount": 76
+      },
+      {
+        "name": "Vitality",
+        "amount": 83
+      },
+      {
+        "name": "Poise",
+        "amount": 5
+      }
+    ],
+    "weight": 6.3
+  },
+  {
+    "id": "17f6983f317l0i0nqr76b932gq1eoj",
+    "name": "Fire Prelate Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6983f317l0i0nqr76b932gq1eoj.png",
+    "description": "Lighter version of the Fire Prelate Armor.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 18
+      },
+      {
+        "name": "Strike",
+        "amount": 15
+      },
+      {
+        "name": "Slash",
+        "amount": 19
+      },
+      {
+        "name": "Pierce",
+        "amount": 17
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 15
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 50
+      },
+      {
+        "name": "Robustness",
+        "amount": 75
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 32
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 17.5
+  },
+  {
+    "id": "17f693c5636l0i0nqs80ibau41zw46",
+    "name": "Foot Soldier Tabard",
+    "image": "https://eldenring.fanapis.com/images/armors/17f693c5636l0i0nqs80ibau41zw46.png",
+    "description": "Padded cloth armor with more than a few stains. Widely issued to foot soldiers in a lord's army.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 9
+      },
+      {
+        "name": "Strike",
+        "amount": 9
+      },
+      {
+        "name": "Slash",
+        "amount": 10
+      },
+      {
+        "name": "Pierce",
+        "amount": 10
+      },
+      {
+        "name": "Magic",
+        "amount": 11
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 11
+      },
+      {
+        "name": "Holy",
+        "amount": 10
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 63
+      },
+      {
+        "name": "Robustness",
+        "amount": 42
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 55
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 8.3
+  },
+  {
+    "id": "17f69708cd7l0i0nqs88hzvrpj80p7",
+    "name": "Fire Monk Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69708cd7l0i0nqs88hzvrpj80p7.png",
+    "description": "Black iron armor adorned with a red cloth. Attire of the Fire Monks. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 14
+      },
+      {
+        "name": "Strike",
+        "amount": 12
+      },
+      {
+        "name": "Slash",
+        "amount": 13
+      },
+      {
+        "name": "Pierce",
+        "amount": 12
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 13
+      },
+      {
+        "name": "Ligt",
+        "amount": 9
+      },
+      {
+        "name": "Holy",
+        "amount": 9
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 32
+      },
+      {
+        "name": "Robustness",
+        "amount": 55
+      },
+      {
+        "name": "Focus",
+        "amount": 24
+      },
+      {
+        "name": "Vitality",
+        "amount": 24
+      },
+      {
+        "name": "Poise",
+        "amount": 16
+      }
+    ],
+    "weight": 11.8
+  },
+  {
+    "id": "17f6975d8a6l0i0nr44oj398jnk4qd",
+    "name": "Godrick Knight Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6975d8a6l0i0nr44oj398jnk4qd.png",
+    "description": "Lighter version of the Godric Knight Armor.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 13
+      },
+      {
+        "name": "Strike",
+        "amount": 11
+      },
+      {
+        "name": "Slash",
+        "amount": 13
+      },
+      {
+        "name": "Pierce",
+        "amount": 12
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 9
+      },
+      {
+        "name": "Holy",
+        "amount": 10
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 32
+      },
+      {
+        "name": "Robustness",
+        "amount": 52
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 10.8
+  },
+  {
+    "id": "17f69843734l0i0nrk3pzlcqfpqsj",
+    "name": "Goldmask's Rags",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69843734l0i0nrk3pzlcqfpqsj.png",
+    "description": "Worn rags that just barely cover the body. Lord Goldmask felt no draw to the vain excess of clothing; what use is finery to one who seeks greater brilliance?",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 0
+      },
+      {
+        "name": "Magic",
+        "amount": 11
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 11
+      },
+      {
+        "name": "Holy",
+        "amount": 12
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 38
+      },
+      {
+        "name": "Robustness",
+        "amount": 11
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 60
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 2.4
+  },
+  {
+    "id": "17f6936f1b2l0i0nrszrfarx7jjsn",
+    "name": "Gravekeeper Cloak",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6936f1b2l0i0nrszrfarx7jjsn.png",
+    "description": "Defensive wear encircled by bronze snakes. Worn by gladiators who were driven from the colosseum. The wearer becomes a slightly easier target for foes. The snake is viewed as a traitor to the Erdtree, and the audience delighted in seeing these bronze effigies beaten and battered.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 8
+      },
+      {
+        "name": "Fire",
+        "amount": 9
+      },
+      {
+        "name": "Ligt",
+        "amount": 10
+      },
+      {
+        "name": "Holy",
+        "amount": 8
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 63
+      },
+      {
+        "name": "Robustness",
+        "amount": 25
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 42
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 6.3
+  },
+  {
+    "id": "17f69587918l0i0nrw5hhe7jpirj1l",
+    "name": "Godskin Apostle Robe",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69587918l0i0nrw5hhe7jpirj1l.png",
+    "description": "Robe made by sewing together patches of smooth skin.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 5
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 12
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 12
+      },
+      {
+        "name": "Holy",
+        "amount": 13
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 42
+      },
+      {
+        "name": "Robustness",
+        "amount": 21
+      },
+      {
+        "name": "Focus",
+        "amount": 67
+      },
+      {
+        "name": "Vitality",
+        "amount": 63
+      },
+      {
+        "name": "Poise",
+        "amount": 2
+      }
+    ],
+    "weight": 4.1
+  },
+  {
+    "id": "17f697b1dc8l0i0nrz9dme9tiyu7a",
+    "name": "Haligtree Crest Surcoat",
+    "image": "https://eldenring.fanapis.com/images/armors/17f697b1dc8l0i0nrz9dme9tiyu7a.png",
+    "description": "Armor worn by soldiers sworn to the Haligtree. The surcoat bears the crest of the Haligtree. Though watered with Miquella's own blood since it was a sapling, the Haligtree ultimately failed to grow into an Erdtree. ",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 12
+      },
+      {
+        "name": "Strike",
+        "amount": 11
+      },
+      {
+        "name": "Slash",
+        "amount": 12
+      },
+      {
+        "name": "Pierce",
+        "amount": 12
+      },
+      {
+        "name": "Magic",
+        "amount": 9
+      },
+      {
+        "name": "Fire",
+        "amount": 10
+      },
+      {
+        "name": "Ligt",
+        "amount": 8
+      },
+      {
+        "name": "Holy",
+        "amount": 10
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 32
+      },
+      {
+        "name": "Robustness",
+        "amount": 55
+      },
+      {
+        "name": "Focus",
+        "amount": 23
+      },
+      {
+        "name": "Vitality",
+        "amount": 24
+      },
+      {
+        "name": "Poise",
+        "amount": 15
+      }
+    ],
+    "weight": 10.6
+  },
+  {
+    "id": "17f69543723l0i0nrzqwqnk37jx86q",
+    "name": "Gravekeeper Cloak (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69543723l0i0nrzqwqnk37jx86q.png",
+    "description": "Lighter version of the Gravekeeper Cloak.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 8
+      },
+      {
+        "name": "Ligt",
+        "amount": 9
+      },
+      {
+        "name": "Holy",
+        "amount": 8
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 54
+      },
+      {
+        "name": "Robustness",
+        "amount": 22
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 34
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "id": "17f69816a34l0i0ns0d76sqqs8yds9",
+    "name": "Guardian Garb",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69816a34l0i0ns0d76sqqs8yds9.png",
+    "description": "Engraved golden garb. Worn by guardians of the Minor Erdtree.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 9
+      },
+      {
+        "name": "Strike",
+        "amount": 9
+      },
+      {
+        "name": "Slash",
+        "amount": 8
+      },
+      {
+        "name": "Pierce",
+        "amount": 8
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 10
+      },
+      {
+        "name": "Ligt",
+        "amount": 10
+      },
+      {
+        "name": "Holy",
+        "amount": 10
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 61
+      },
+      {
+        "name": "Robustness",
+        "amount": 38
+      },
+      {
+        "name": "Focus",
+        "amount": 50
+      },
+      {
+        "name": "Vitality",
+        "amount": 42
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 7.7
+  },
+  {
+    "id": "17f693542bdl0i0ns0zp2tfb88ycs8",
+    "name": "Haligtree Knight Armor",
+    "image": "https://eldenring.fanapis.com/images/armors/17f693542bdl0i0ns0zp2tfb88ycs8.png",
+    "description": "Armor worn by knights sworn the Haligtree.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 13
+      },
+      {
+        "name": "Strike",
+        "amount": 12
+      },
+      {
+        "name": "Slash",
+        "amount": 13
+      },
+      {
+        "name": "Pierce",
+        "amount": 13
+      },
+      {
+        "name": "Magic",
+        "amount": 10
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 9
+      },
+      {
+        "name": "Holy",
+        "amount": 11
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 35
+      },
+      {
+        "name": "Robustness",
+        "amount": 57
+      },
+      {
+        "name": "Focus",
+        "amount": 24
+      },
+      {
+        "name": "Vitality",
+        "amount": 25
+      },
+      {
+        "name": "Poise",
+        "amount": 16
+      }
+    ],
+    "weight": 11.8
+  },
+  {
+    "id": "17f69862c2dl0i0ns8mbesz9lp03d",
+    "name": "Guardian Garb (full Bloom)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69862c2dl0i0ns8mbesz9lp03d.png",
+    "description": "Engraved golden garb. Worn by the guardians of the Minor Erdtrees. Raises the HP recovery effects of the Flask of Crimson Tears, but greatly lowers fire damage negation. It is said that the blood-red flowers blooming on their backs mark the senescence of their ancient pact. Perhaps the guardians are part tree already",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 10
+      },
+      {
+        "name": "Strike",
+        "amount": 10
+      },
+      {
+        "name": "Slash",
+        "amount": 9
+      },
+      {
+        "name": "Pierce",
+        "amount": 9
+      },
+      {
+        "name": "Magic",
+        "amount": 11
+      },
+      {
+        "name": "Fire",
+        "amount": -2
+      },
+      {
+        "name": "Ligt",
+        "amount": 11
+      },
+      {
+        "name": "Holy",
+        "amount": 11
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 71
+      },
+      {
+        "name": "Robustness",
+        "amount": 46
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 55
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 8.8
+  },
+  {
+    "id": "17f69929f49l0i0ns9wsqy4m97c0fp",
+    "name": "Haligtree Knight Armor (altered)",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69929f49l0i0ns9wsqy4m97c0fp.png",
+    "description": "Lighter version of the Haligtree Knight Armor.",
+    "category": "Chest Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 13
+      },
+      {
+        "name": "Strike",
+        "amount": 12
+      },
+      {
+        "name": "Slash",
+        "amount": 13
+      },
+      {
+        "name": "Pierce",
+        "amount": 13
+      },
+      {
+        "name": "Magic",
+        "amount": 9
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 9
+      },
+      {
+        "name": "Holy",
+        "amount": 11
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 32
+      },
+      {
+        "name": "Robustness",
+        "amount": 52
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 22
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 10.8
+  }
+]
