@@ -1,0 +1,5954 @@
+[
+  {
+    "id": "17f6984f152l0i0nc38cztqhxqc6rw",
+    "name": "All-knowing Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6984f152l0i0nc38cztqhxqc6rw.png",
+    "description": "Gauntlets set with countless eyes and ears. Worn by Gideon Ofnir, the All-Knowing. Knowledge begins with the recognition of one's ignorance. The realization that the search for knowledge is unending. But when Gideon glimpsed into the will of Queen Marika, he shuddered in fear. At the end that should not be.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 9
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 7
+      },
+      {
+        "name": "Vitality",
+        "amount": 7
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.5
+  },
+  {
+    "id": "17f69569ff4l0i0o5u2wskq7pesy49",
+    "name": "Azur's Manchettes",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69569ff4l0i0o5u2wskq7pesy49.png",
+    "description": "Manchettes corroded by blue-green glintstones. Worn by Azur, primeval current sorcerer.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 0
+      },
+      {
+        "name": "Slash",
+        "amount": 0
+      },
+      {
+        "name": "Pierce",
+        "amount": 0
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 12
+      },
+      {
+        "name": "Robustness",
+        "amount": 8
+      },
+      {
+        "name": "Focus",
+        "amount": 22
+      },
+      {
+        "name": "Vitality",
+        "amount": 20
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 1.1
+  },
+  {
+    "id": "17f695766c8l0i0o5wasui4pl06qia",
+    "name": "Battlemage Manchettes",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695766c8l0i0o5wasui4pl06qia.png",
+    "description": "Manchettes worn by scholars of the Raya Lucaria Academy, tattered from being worn on the battlefield.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 0
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 13
+      },
+      {
+        "name": "Robustness",
+        "amount": 7
+      },
+      {
+        "name": "Focus",
+        "amount": 20
+      },
+      {
+        "name": "Vitality",
+        "amount": 22
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 1.1
+  },
+  {
+    "id": "17f69652c6fl0i0o5x1bsdx0d6pona",
+    "name": "Astrologer Gloves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69652c6fl0i0o5x1bsdx0d6pona.png",
+    "description": "Gloves fashioned from fine, supple cloth. Worn by those who look to the cosmos above. They read fate in the stars, and are said to be heirs of the glintstone sorcerers. But alas, the night sky no longer cradles fate.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 14
+      },
+      {
+        "name": "Robustness",
+        "amount": 7
+      },
+      {
+        "name": "Focus",
+        "amount": 24
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 1.4
+  },
+  {
+    "id": "17f695f7dfcl0i0o5xe2kug0vg0iiz",
+    "name": "Bandit Manchettes",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695f7dfcl0i0o5xe2kug0vg0iiz.png",
+    "description": "Manchettes made by simple wrapping dirty cloth around the arms. Worn by bandits.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 1
+      },
+      {
+        "name": "Fire",
+        "amount": 1
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 1
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 15
+      },
+      {
+        "name": "Robustness",
+        "amount": 8
+      },
+      {
+        "name": "Focus",
+        "amount": 17
+      },
+      {
+        "name": "Vitality",
+        "amount": 17
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 1
+  },
+  {
+    "id": "17f69862434l0i0o5z4v0cvfozbd5",
+    "name": "Banished Knight Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69862434l0i0o5z4v0cvfozbd5.png",
+    "description": "Thick, full set of armor covering the entire body. These gauntlets were worn by knights who, whether by misfortune or misdeed, were forced to abandon their homes. These fierce warriors were each and all accomplished. Perhaps that is why, despite their territorial losses, they were still named knights.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 28
+      },
+      {
+        "name": "Focus",
+        "amount": 13
+      },
+      {
+        "name": "Vitality",
+        "amount": 14
+      },
+      {
+        "name": "Poise",
+        "amount": 6
+      }
+    ],
+    "weight": 5.8
+  },
+  {
+    "id": "17f69b16a3dl0i0o66ah0178yiaqiq",
+    "name": "Alberich's Bracers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b16a3dl0i0o66ah0178yiaqiq.png",
+    "description": "Mad Tongue Alberich's bracers.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 13
+      },
+      {
+        "name": "Robustness",
+        "amount": 8
+      },
+      {
+        "name": "Focus",
+        "amount": 22
+      },
+      {
+        "name": "Vitality",
+        "amount": 24
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 1.4
+  },
+  {
+    "id": "17f695c02ebl0i0o6gegz5qdy7kztd",
+    "name": "Beast Champion Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695c02ebl0i0o6gegz5qdy7kztd.png",
+    "description": "Silver gauntlets engraved with tiny beasts. Worn by Bernahl the Recusant. Beasts are drawn to champions, and to lords. And this armor befits a champion worthy of becoming a lord. And that is what Bernahl was. Until his maiden threw herself into the fire.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 19
+      },
+      {
+        "name": "Robustness",
+        "amount": 30
+      },
+      {
+        "name": "Focus",
+        "amount": 14
+      },
+      {
+        "name": "Vitality",
+        "amount": 13
+      },
+      {
+        "name": "Poise",
+        "amount": 6
+      }
+    ],
+    "weight": 5.8
+  },
+  {
+    "id": "17f69727c7el0i0o6hgopjq1dozrl",
+    "name": "Black Knife Gauntlets",
+    "image": null,
+    "description": "Gauntlets used by the Black Knife Assassins. Crafted with scale armor that makes no sound. The assassins that carried out the deeds of the Night of the Black Knives were all women, and rumored to be Numen who had close ties with Marika herself. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 9
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 3.1
+  },
+  {
+    "id": "17f694f3eadl0i0o7mtggrz1ofisub",
+    "name": "Blackflame Monk Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f694f3eadl0i0o7mtggrz1ofisub.png",
+    "description": "Black iron gauntlets featuring a flame motif. Attire of the Blackflame Monks.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 11
+      },
+      {
+        "name": "Robustness",
+        "amount": 18
+      },
+      {
+        "name": "Focus",
+        "amount": 7
+      },
+      {
+        "name": "Vitality",
+        "amount": 11
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.9
+  },
+  {
+    "id": "17f695d9337l0i0o7r1gta915accj",
+    "name": "Blaidd's Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695d9337l0i0o7r1gta915accj.png",
+    "description": "Well-worn black gauntlets of the man-wolf Blaidd.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 13
+      },
+      {
+        "name": "Robustness",
+        "amount": 21
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 5
+      }
+    ],
+    "weight": 4.6
+  },
+  {
+    "id": "17f6958f14el0i0o7rcnxhisq53oq8",
+    "name": "Brave's Bracer",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6958f14el0i0o7rcnxhisq53oq8.png",
+    "description": "Gauntlets wrapped in thick leather. Garb worn by warriors of the frigid uplands. Has a fur lining which excels at keeping the cold at bay.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 0
+      },
+      {
+        "name": "Strike",
+        "amount": 0
+      },
+      {
+        "name": "Slash",
+        "amount": 0
+      },
+      {
+        "name": "Pierce",
+        "amount": 0
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 12
+      },
+      {
+        "name": "Robustness",
+        "amount": 6
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 20
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 0.8
+  },
+  {
+    "id": "17f693143a2l0i0o7sb9iurg2imsc",
+    "name": "Briar Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f693143a2l0i0o7sb9iurg2imsc.png",
+    "description": "Battered iron gauntlets from a foreign land. Worn by Elemer of the Briar. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 12
+      },
+      {
+        "name": "Robustness",
+        "amount": 24
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 3.9
+  },
+  {
+    "id": "17f69a9b4adl0i0o7ta34gq0aep43h",
+    "name": "Bull-goat Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a9b4adl0i0o7ta34gq0aep43h.png",
+    "description": "Great Horned Tragoth's gauntlets. Covers its wearer with a pair of giant horns, providing staunch poise. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 24
+      },
+      {
+        "name": "Robustness",
+        "amount": 28
+      },
+      {
+        "name": "Focus",
+        "amount": 15
+      },
+      {
+        "name": "Vitality",
+        "amount": 18
+      },
+      {
+        "name": "Poise",
+        "amount": 10
+      }
+    ],
+    "weight": 8.8
+  },
+  {
+    "id": "17f69b9eb6bl0i0o7tl4067pzud217",
+    "name": "Bloodsoaked Manchettes",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b9eb6bl0i0o7tl4067pzud217.png",
+    "description": "Manchettes formed from tightly-wound bandages soaked through with blood. Any protection is welcome for the festering arms beneath.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 0
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 14
+      },
+      {
+        "name": "Robustness",
+        "amount": 9
+      },
+      {
+        "name": "Focus",
+        "amount": 24
+      },
+      {
+        "name": "Vitality",
+        "amount": 22
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 1.4
+  },
+  {
+    "id": "17f69600773l0i0o7unm0v4n59mz9d",
+    "name": "Bloodhound Knight Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69600773l0i0o7unm0v4n59mz9d.png",
+    "description": "Metal gauntlets of the Bloodhound Knights. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 11
+      },
+      {
+        "name": "Robustness",
+        "amount": 17
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 3.5
+  },
+  {
+    "id": "17f69b50907l0i0o7utskwb58lgaii",
+    "name": "Blue Silver Bracelets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b50907l0i0o7utskwb58lgaii.png",
+    "description": "Bracelets crafted with blue silver. Worn by the wolf-riding Albinauric archers.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 1
+      },
+      {
+        "name": "Fire",
+        "amount": 1
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 1
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 4
+      },
+      {
+        "name": "Robustness",
+        "amount": 14
+      },
+      {
+        "name": "Focus",
+        "amount": 1
+      },
+      {
+        "name": "Vitality",
+        "amount": 4
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.1
+  },
+  {
+    "id": "17f69b923f1l0i0o7wiqlqbak2haqc",
+    "name": "Carian Knight Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b923f1l0i0o7wiqlqbak2haqc.png",
+    "description": "Gauntlets of the enchanted knights that once served the Carian royal family. The enchanted knights, anointed by the Lunar Queen,  were heroes of the highest honors, but fell into disarray with the decline of the royal family.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 9
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 7
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 3.5
+  },
+  {
+    "id": "17f697c8d05l0i0o81mkc86pyw8tdh",
+    "name": "Chain Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f697c8d05l0i0o81mkc86pyw8tdh.png",
+    "description": "Gauntlets made of woven chain. Standard issue for ordinary soldiers. Though plain in appearance, they offer dependable protection.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 1
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 1
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 8
+      },
+      {
+        "name": "Robustness",
+        "amount": 14
+      },
+      {
+        "name": "Focus",
+        "amount": 4
+      },
+      {
+        "name": "Vitality",
+        "amount": 6
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 2.9
+  },
+  {
+    "id": "17f697642d0l0i0o98xc24ahp9u15s",
+    "name": "Cuckoo Knight Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f697642d0l0i0o98xc24ahp9u15s.png",
+    "description": "Gauntlets worn by Raya Lucaria Academy knights. Time has yet to dull their luster.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 11
+      },
+      {
+        "name": "Robustness",
+        "amount": 19
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.9
+  },
+  {
+    "id": "17f69a6ec0bl0i0o99uudum2zc466g",
+    "name": "Confessor Gloves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a6ec0bl0i0o99uudum2zc466g.png",
+    "description": "Black leather gloves of the church confessors. The churches outside the Lands Between, dedicated to the teachings of the Two Fingers, send confessors out to follow the guidance of grace. The confessors are loyal servants to the Two Fingers, ready to hunt down and quietly dispose of their enemies.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 21
+      },
+      {
+        "name": "Robustness",
+        "amount": 17
+      },
+      {
+        "name": "Focus",
+        "amount": 17
+      },
+      {
+        "name": "Vitality",
+        "amount": 18
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.8
+  },
+  {
+    "id": "17f69aed2ffl0i0o9a404fc0nm7z59o",
+    "name": "Cleanrot Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69aed2ffl0i0o9a404fc0nm7z59o.png",
+    "description": "Gauntlets of the Cleanrot Knights, celebrated for their undefeated campaign in the Shattering. The Cleanrot Knights vowed to fight alongside Malenia, despite the inevitable, if gradual, putrefaction of their flesh. Their acceptance of their fate made these battles fiercest of all.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 21
+      },
+      {
+        "name": "Robustness",
+        "amount": 22
+      },
+      {
+        "name": "Focus",
+        "amount": 9
+      },
+      {
+        "name": "Vitality",
+        "amount": 11
+      },
+      {
+        "name": "Poise",
+        "amount": 5
+      }
+    ],
+    "weight": 5
+  },
+  {
+    "id": "17f69c14bf9l0i0o9a50murdvyr8wg",
+    "name": "Champion Bracers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69c14bf9l0i0o9a50murdvyr8wg.png",
+    "description": "Bracers reserved for the bandlands' bravest.  Proof that the wearer has slaughtered countless foes.  Following the example of their chieftain Hoarah Loux, the brave warriors of the badlands shun excess adornment. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 1
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 17
+      },
+      {
+        "name": "Robustness",
+        "amount": 11
+      },
+      {
+        "name": "Focus",
+        "amount": 14
+      },
+      {
+        "name": "Vitality",
+        "amount": 13
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.1
+  },
+  {
+    "id": "17f69c157acl0i0o9atkpuufsohrii",
+    "name": "Depraved Perfumer Gloves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69c157acl0i0o9atkpuufsohrii.png",
+    "description": "Gloves worn by depraved perfumers.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 23
+      },
+      {
+        "name": "Robustness",
+        "amount": 8
+      },
+      {
+        "name": "Focus",
+        "amount": 20
+      },
+      {
+        "name": "Vitality",
+        "amount": 28
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2
+  },
+  {
+    "id": "17f69a5c5bbl0i0o9b3mzby0ky19w",
+    "name": "Champion Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a5c5bbl0i0o9b3mzby0ky19w.png",
+    "description": "Gauntlets reserved for the badlands' bravest. Proof that the wearer has slaughtered countless foes. Following the example of their chieftain Hoarah Loux, the brave warriors of the badlands shun excess adornment.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "StrEldenike",
+        "amount": 0
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 1
+      },
+      {
+        "name": "Fire",
+        "amount": 1
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 1
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 16
+      },
+      {
+        "name": "Focus",
+        "amount": 21
+      },
+      {
+        "name": "Vitality",
+        "amount": 0
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 1
+  },
+  {
+    "id": "17f699ef9dal0i0o9b5uipzj8nilf",
+    "name": "Elden Lord Bracers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f699ef9dal0i0o9b5uipzj8nilf.png",
+    "description": "Bracers of Godfrey the first Elden Lord. The age of the Erdtree began amongst conflict, when Godfrey was lord of the battlefield. He led the War against the Giants. Faced the Storm Lord, alone. And then, there came a moment. When his last worthy enemy fell. And it was then, as the story is told, that the hue of Lord Godfrey's eyes faded.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 1
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 11
+      },
+      {
+        "name": "Robustness",
+        "amount": 18
+      },
+      {
+        "name": "Focus",
+        "amount": 6
+      },
+      {
+        "name": "Vitality",
+        "amount": 7
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 3.1
+  },
+  {
+    "id": "17f69564c64l0i0o9bzue4p82jaqx",
+    "name": "Eccentric's Manchettes",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69564c64l0i0o9bzue4p82jaqx.png",
+    "description": "The knight Jerren's manchettes. Jerren preferred a nomadic existence, but after spending time as a guest of the Carian royals, he became the guest commander for General Radahn. And for the first time, the restless tumbleweed would be bound by honorable oath.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 1
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 8
+      },
+      {
+        "name": "Robustness",
+        "amount": 18
+      },
+      {
+        "name": "Focus",
+        "amount": 6
+      },
+      {
+        "name": "Vitality",
+        "amount": 4
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 2.9
+  },
+  {
+    "id": "17f693ad5d9l0i0o9cknym209rdqu",
+    "name": "Drake Knight Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f693ad5d9l0i0o9cknym209rdqu.png",
+    "description": "Black iron gauntlets worn by drake knights. Features the spoils of a dragon catch as an emblem of pride as both dragon hunter and partaker of communion. From birth, drake knights speak not a word. They spend their lives pursuing the strength of dragons, for its sublime beauty and inspiration of awe",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 8
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 7
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 3.1
+  },
+  {
+    "id": "17f699674a7l0i0o9cphpbh7jo0gv7",
+    "name": "Crucible Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f699674a7l0i0o9cphpbh7jo0gv7.png",
+    "description": "Gauntlets of the Crucible Knights who served Godfrey, the first Elden Lord. Hold the power of the crucible of life, the primordial form of the Erdtree. Strengthen Aspects of the Crucible incantations. In time, the strength shown by these knights, and even their appearance, was seen as chaotic and deserving of scorn. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 17
+      },
+      {
+        "name": "Robustness",
+        "amount": 24
+      },
+      {
+        "name": "Focus",
+        "amount": 12
+      },
+      {
+        "name": "Vitality",
+        "amount": 12
+      },
+      {
+        "name": "Poise",
+        "amount": 6
+      }
+    ],
+    "weight": 5.2
+  },
+  {
+    "id": "17f699ad810l0i0oaoz2ac2zvdty1n",
+    "name": "Errant Sorcerer Manchettes",
+    "image": "https://eldenring.fanapis.com/images/armors/17f699ad810l0i0oaoz2ac2zvdty1n.png",
+    "description": "Commonplace leather manchettes. Their hands are inlaid with dulled glintstone.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 0
+      },
+      {
+        "name": "Strike",
+        "amount": 0
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 0
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 11
+      },
+      {
+        "name": "Robustness",
+        "amount": 7
+      },
+      {
+        "name": "Focus",
+        "amount": 21
+      },
+      {
+        "name": "Vitality",
+        "amount": 22
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 1.1
+  },
+  {
+    "id": "17f6994bd42l0i0oap9tgxmdz4rsmd",
+    "name": "Fire Monk Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6994bd42l0i0oap9tgxmdz4rsmd.png",
+    "description": "Black iron gauntlets featuring a flame motif. Attire of the Fire Monks.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 11
+      },
+      {
+        "name": "Robustness",
+        "amount": 18
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.9
+  },
+  {
+    "id": "17f69655c81l0i0oarbwusjaln8dq9",
+    "name": "Godrick Knight Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69655c81l0i0oarbwusjaln8dq9.png",
+    "description": "Gauntlets worn by knights loyal to Godrick the Grafted. Time has yet to dull their luster.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "StrEldenike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 12
+      },
+      {
+        "name": "Robustness",
+        "amount": 19
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.9
+  },
+  {
+    "id": "17f696b459bl0i0oarls7aeninpc4m",
+    "name": "Gelmir Knight Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f696b459bl0i0oarls7aeninpc4m.png",
+    "description": "Gauntlets worn by knights once loyal to Praetor Rykard. Time has yet to dull their luster. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 12
+      },
+      {
+        "name": "Robustness",
+        "amount": 18
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.9
+  },
+  {
+    "id": "17f69a12d9cl0i0oarplwe9hm6wjv",
+    "name": "Foot Soldier Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a12d9cl0i0oarplwe9hm6wjv.png",
+    "description": "Metal gauntlets covered in nicks and dents. Widely issued to foot soldiers in a lord's army.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 13
+      },
+      {
+        "name": "Focus",
+        "amount": 17
+      },
+      {
+        "name": "Vitality",
+        "amount": 17
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.6
+  },
+  {
+    "id": "17f69a09a71l0i0oarrl7u2hkrar9p",
+    "name": "Exile Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a09a71l0i0oarrl7u2hkrar9p.png",
+    "description": "Damaged iron gauntlets. Worn by soldiers sent to the penal colonies.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 1
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 8
+      },
+      {
+        "name": "Robustness",
+        "amount": 17
+      },
+      {
+        "name": "Focus",
+        "amount": 6
+      },
+      {
+        "name": "Vitality",
+        "amount": 4
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 2.9
+  },
+  {
+    "id": "17f695372c3l0i0oarsspg4ejbh4x",
+    "name": "Fingerprint Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695372c3l0i0oarsspg4ejbh4x.png",
+    "description": "Iron gauntlets singed and blistered by fingers. Worn by Vyke, knight of the Roundtable Hold. No other Tarnished was closer to the throne of the Elden Lord than Vyke. But without announcement, Vyke traveled far below the capital, and was scorched by the flame of frenzy. Did he make his choice for his maiden, or did some other force lure him with suggestion?",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 11
+      },
+      {
+        "name": "Robustness",
+        "amount": 20
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 3.5
+  },
+  {
+    "id": "17f69932fbdl0i0oaxc7lwu7prd3kd",
+    "name": "Godrick Soldier Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69932fbdl0i0oaxc7lwu7prd3kd.png",
+    "description": "Gauntlets worn by soldiers loyal to Godrick the Grafted. Rust-worn and stained through unending conflict.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Physical",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 11
+      },
+      {
+        "name": "Robustness",
+        "amount": 18
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.5
+  },
+  {
+    "id": "17f69adc730l0i0oayoby83p8xiwnl",
+    "name": "Fire Prelate Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69adc730l0i0oayoby83p8xiwnl.png",
+    "description": "Black iron gauntlets with the appearance of flames. Attire of the Fire Prelates, commanders of the Fire Monks.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 21
+      },
+      {
+        "name": "Focus",
+        "amount": 30
+      },
+      {
+        "name": "Vitality",
+        "amount": 17
+      },
+      {
+        "name": "Poise",
+        "amount": 9
+      }
+    ],
+    "weight": 8.2
+  },
+  {
+    "id": "17f69552966l0i0oazfa77xdvanncu",
+    "name": "Godskin Apostle Bracelets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69552966l0i0oazfa77xdvanncu.png",
+    "description": "Black bracelets of the Godskin Apostles.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 17
+      },
+      {
+        "name": "Robustness",
+        "amount": 8
+      },
+      {
+        "name": "Focus",
+        "amount": 28
+      },
+      {
+        "name": "Vitality",
+        "amount": 25
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.1
+  },
+  {
+    "id": "17f69654affl0i0oc85nksgx9drm8",
+    "name": "Highwayman Gauntlets",
+    "image": null,
+    "description": "Hideously stained and dented gauntlets. Worn by former foot soldiers who have turned to banditry.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 19
+      },
+      {
+        "name": "Robustness",
+        "amount": 12
+      },
+      {
+        "name": "Focus",
+        "amount": 17
+      },
+      {
+        "name": "Vitality",
+        "amount": 17
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.6
+  },
+  {
+    "id": "17f6945fca2l0i0ocbqlthlf2ve9ng",
+    "name": "Godskin Noble Bracelets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6945fca2l0i0ocbqlthlf2ve9ng.png",
+    "description": "Black bracelets of the Godskin Nobles. Nobles are the most ancient apostles who are said to have assimilated inhuman physiology. Not unlike the crucible, the Erdtree in its primordial form.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "StrEldenike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 14
+      },
+      {
+        "name": "Robustness",
+        "amount": 8
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 25
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 1.7
+  },
+  {
+    "id": "17f69823d53l0i0occko5j66qlc4tm",
+    "name": "Haligtree Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69823d53l0i0occko5j66qlc4tm.png",
+    "description": "Gauntlets worn by soldiers sworn to the Haligtree. Rust-worn and stained through unending conflict. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Str",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 11
+      },
+      {
+        "name": "Robustness",
+        "amount": 18
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 3.5
+  },
+  {
+    "id": "17f69c275c9l0i0ocdyuhcyebjccc",
+    "name": "Haligtree Knight Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69c275c9l0i0ocdyuhcyebjccc.png",
+    "description": "Gauntlets worn by knights sworn to the Haligtree. Time has yet to dull their luster.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 12
+      },
+      {
+        "name": "Robustness",
+        "amount": 19
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.9
+  },
+  {
+    "id": "17f69633e9el0i0ocfz1gvzw0dagvj",
+    "name": "Hoslow's Gauntlets",
+    "image": null,
+    "description": "Garish silver gauntlets decorated with red embellishments. Passed down through the Hoslow family.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 13
+      },
+      {
+        "name": "Robustness",
+        "amount": 20
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.9
+  },
+  {
+    "id": "17f6956de05l0i0ocg5j3bh9loxbym",
+    "name": "Kaiden Gauntlets",
+    "image": null,
+    "description": "Gauntlets worn by Kaiden sellswords.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 1
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 1
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 8
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 6
+      },
+      {
+        "name": "Vitality",
+        "amount": 6
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 2.9
+  },
+  {
+    "id": "17f69421b99l0i0ocgf1zewmzfqhb5",
+    "name": "Iron Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69421b99l0i0ocgf1zewmzfqhb5.png",
+    "description": "Ordinary iron gauntlets.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 1
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 8
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 6
+      },
+      {
+        "name": "Vitality",
+        "amount": 4
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 2.9
+  },
+  {
+    "id": "17f6978cc9el0i0ochs0lykeqg1oay9",
+    "name": "Gold Bracelets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6978cc9el0i0ochs0lykeqg1oay9.png",
+    "description": "Bracelets made in the image of Erdtree branches. Minimal adornments made my Lord Goldmask's disciples. Those disciples have long since left him.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 0
+      },
+      {
+        "name": "Slash",
+        "amount": 0
+      },
+      {
+        "name": "Pierce",
+        "amount": 0
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 13
+      },
+      {
+        "name": "Robustness",
+        "amount": 4
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 20
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 0.8
+  },
+  {
+    "id": "17f69a01c9cl0i0oci9vixulbuoexe",
+    "name": "Guardian Bracers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a01c9cl0i0oci9vixulbuoexe.png",
+    "description": "Engraved golden bracers. Worn by the guardians of the Minor Erdtree.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 25
+      },
+      {
+        "name": "Robustness",
+        "amount": 17
+      },
+      {
+        "name": "Focus",
+        "amount": 20
+      },
+      {
+        "name": "Vitality",
+        "amount": 19
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.9
+  },
+  {
+    "id": "17f695058d7l0i0ocivy48k7k9l11k",
+    "name": "Golden Prosthetic",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695058d7l0i0ocivy48k7k9l11k.png",
+    "description": "Golden prosthetic forged using ancient techniques",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 15
+      },
+      {
+        "name": "Robustness",
+        "amount": 8
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 25
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 2.8
+  },
+  {
+    "id": "17f69adf4c2l0i0odlid8lejwstaeu",
+    "name": "Knight Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69adf4c2l0i0odlid8lejwstaeu.png",
+    "description": "Iron gauntlets of an unknown knight. It is made of thin iron plate. Such metal armor is heavy, but provides considerable damage negation. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 9
+      },
+      {
+        "name": "Robustness",
+        "amount": 17
+      },
+      {
+        "name": "Focus",
+        "amount": 6
+      },
+      {
+        "name": "Vitality",
+        "amount": 6
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.5
+  },
+  {
+    "id": "17f69647ef1l0i0odt2cfmif5045ua",
+    "name": "Land Of Reeds Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69647ef1l0i0odt2cfmif5045ua.png",
+    "description": "Gauntlets wrapped in tough leather. Worn by the warriors of the Land of Reeds",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 17
+      },
+      {
+        "name": "Focus",
+        "amount": 17
+      },
+      {
+        "name": "Vitality",
+        "amount": 18
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.8
+  },
+  {
+    "id": "17f695c3ff9l0i0odvnq2v5kiezuxo",
+    "name": "Lusat's Manchettes",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695c3ff9l0i0odvnq2v5kiezuxo.png",
+    "description": "Manchettes corroded by blue glintstones. Worn by Lusat, primeval current sorcerer.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 0
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 0
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 12
+      },
+      {
+        "name": "Robustness",
+        "amount": 6
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 22
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 1.1
+  },
+  {
+    "id": "17f69345295l0i0odvo3gukydx02yf",
+    "name": "Maliketh's Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69345295l0i0odvo3gukydx02yf.png",
+    "description": "Beast's gauntlets made of black iron and decorated with gold. Worn by Maliketh the Black Blade. Maliketh, Queen Marika's loyral half-brother, bore a blade imbued with Destined Death, and there was not one demigod who did not fear him. Champions knew what was at stake. Indeed, that is what made them champions",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 12
+      },
+      {
+        "name": "Robustness",
+        "amount": 19
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 17
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 4.3
+  },
+  {
+    "id": "17f69743431l0i0odwtjw9ktch75jr",
+    "name": "Leyndell Soldier Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69743431l0i0odwtjw9ktch75jr.png",
+    "description": "Gauntlets worn by soldiers sworn to defend the royal capital of Leyndell. Rust-worn and stained through unending conflict.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 11
+      },
+      {
+        "name": "Robustness",
+        "amount": 18
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.5
+  },
+  {
+    "id": "17f698690e2l0i0odxho9jo3dx4m2t",
+    "name": "Leather Gloves",
+    "image": null,
+    "description": "Lightweight and battle-proven leather gloves worn by a savvy soldier. Many admire the wearer of this armor for his chivalrous and forthright spirit.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 12
+      },
+      {
+        "name": "Focus",
+        "amount": 14
+      },
+      {
+        "name": "Vitality",
+        "amount": 17
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.4
+  },
+  {
+    "id": "17f69654184l0i0odyh0dtdavp394v",
+    "name": "Lionel's Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69654184l0i0odyh0dtdavp394v.png",
+    "description": "Founded iron gauntlets. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 21
+      },
+      {
+        "name": "Robustness",
+        "amount": 33
+      },
+      {
+        "name": "Focus",
+        "amount": 14
+      },
+      {
+        "name": "Vitality",
+        "amount": 17
+      },
+      {
+        "name": "Poise",
+        "amount": 8
+      }
+    ],
+    "weight": 7.1
+  },
+  {
+    "id": "17f69aa91d7l0i0oe1pj6fo1o9vsx",
+    "name": "Malenia's Gauntlet",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69aa91d7l0i0oe1pj6fo1o9vsx.png",
+    "description": "Gauntlet made of unalloyed gold. Worn by Malenia, Blade of Miquella. Malenia awaited Miquella at the foot of the husk. \"My brother will keep his promise. He possesses the wisdom, the allure, of a god—he is the most fearsome Empyrean of all.\"",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 1
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 17
+      },
+      {
+        "name": "Robustness",
+        "amount": 14
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 6
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 3.1
+  },
+  {
+    "id": "17f6974ca8bl0i0oe3tld3ayug66kf",
+    "name": "Malformed Dragon Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6974ca8bl0i0oe3tld3ayug66kf.png",
+    "description": "Malformed golden gauntlets.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 19
+      },
+      {
+        "name": "Robustness",
+        "amount": 25
+      },
+      {
+        "name": "Focus",
+        "amount": 13
+      },
+      {
+        "name": "Vitality",
+        "amount": 13
+      },
+      {
+        "name": "Poise",
+        "amount": 6
+      }
+    ],
+    "weight": 5.3
+  },
+  {
+    "id": "17f695bb780l0i0oe3tjfx58cget0s",
+    "name": "Leyndell Knight Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695bb780l0i0oe3tjfx58cget0s.png",
+    "description": "Gauntlets worn by knights sworn to defend the royal capital of Leyndell. Time has yet to dull their luster",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 12
+      },
+      {
+        "name": "Robustness",
+        "amount": 19
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.9
+  },
+  {
+    "id": "17f6988983cl0i0of7tbik91hvj0rj",
+    "name": "Omen Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6988983cl0i0of7tbik91hvj0rj.png",
+    "description": "Malformed Gauntlets resembling an Omen with its horns cut off.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 21
+      },
+      {
+        "name": "Focus",
+        "amount": 19
+      },
+      {
+        "name": "Vitality",
+        "amount": 25
+      },
+      {
+        "name": "Poise",
+        "amount": 9
+      }
+    ],
+    "weight": 7.7
+  },
+  {
+    "id": "17f6952d31fl0i0ofc3j9nf2llq7yi",
+    "name": "Mushroom Arms",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6952d31fl0i0ofc3j9nf2llq7yi.png",
+    "description": "Mushrooms found growing all over the body. These overgrown mushroom have colonized the arms. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 0
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 1
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 34
+      },
+      {
+        "name": "Robustness",
+        "amount": 8
+      },
+      {
+        "name": "Focus",
+        "amount": 30
+      },
+      {
+        "name": "Vitality",
+        "amount": 25
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 1.7
+  },
+  {
+    "id": "17f692c707bl0i0ofc3oguearc3gzo",
+    "name": "Mausoleum Knight Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f692c707bl0i0ofc3oguearc3gzo.png",
+    "description": "Gauntlets worn by headless knights who endlessly guard the Walking Mausoleum. Time has yet to dull their luster.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 12
+      },
+      {
+        "name": "Robustness",
+        "amount": 18
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.9
+  },
+  {
+    "id": "17f696b894el0i0ofdbtcjix5qajrp",
+    "name": "Mausoleum Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f696b894el0i0ofdbtcjix5qajrp.png",
+    "description": "Gauntlets worn by headless soldiers who endlessly guard the Wandering Mausoleum. Rust-worn and stained through unending conflict.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 11
+      },
+      {
+        "name": "Robustness",
+        "amount": 17
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 7
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.5
+  },
+  {
+    "id": "17f69a7eb92l0i0ofelpljitl8hw9s",
+    "name": "Millicent's Gloves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a7eb92l0i0ofelpljitl8hw9s.png",
+    "description": "Gloves worn by Millicent the Rotting",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 0
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 13
+      },
+      {
+        "name": "Robustness",
+        "amount": 7
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 1.1
+  },
+  {
+    "id": "17f693fc837l0i0off9ln8pmeyhp0g",
+    "name": "Nox Monk Bracelets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f693fc837l0i0off9ln8pmeyhp0g.png",
+    "description": "Bracelets worn by the monks of the Eternal City. Long ago, the Nox invoked the ire of the Greater Will, and were banished deep underground. Now they live under a false night sky, in eternal anticipation of their liege. Of the coming age of the stars. And their Lord of Night.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2.1
+      },
+      {
+        "name": "StrEldenike",
+        "amount": 2.3
+      },
+      {
+        "name": "Slash",
+        "amount": 2.1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1.9
+      },
+      {
+        "name": "Magic",
+        "amount": 2.9
+      },
+      {
+        "name": "Fire",
+        "amount": 2.8
+      },
+      {
+        "name": "Ligt",
+        "amount": 2.8
+      },
+      {
+        "name": "Holy",
+        "amount": 2.3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 13
+      },
+      {
+        "name": "Focus",
+        "amount": 15
+      },
+      {
+        "name": "Vitality",
+        "amount": 15
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.6
+  },
+  {
+    "id": "17f69b16c57l0i0ofgwwi9eoabz75h",
+    "name": "Noble's Gloves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b16c57l0i0ofgwwi9eoabz75h.png",
+    "description": "Gloves of plush leather. Worn by expatriated royalty. A gift of such rare beauty, a royal wouldn't disgrace their illustrious heritage even if found dead, in a ditch, in the middle of nowhere, while wearing such splendid raiment.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 15
+      },
+      {
+        "name": "Robustness",
+        "amount": 8
+      },
+      {
+        "name": "Focus",
+        "amount": 25
+      },
+      {
+        "name": "Vitality",
+        "amount": 28
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.1
+  },
+  {
+    "id": "17f69959ba1l0i0ofnm4hp9r73aakd",
+    "name": "Perfumer Gloves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69959ba1l0i0ofnm4hp9r73aakd.png",
+    "description": "Gloves of an Erdtree Capital perfumer.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 6
+      },
+      {
+        "name": "Focus",
+        "amount": 21
+      },
+      {
+        "name": "Vitality",
+        "amount": 22
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 1.4
+  },
+  {
+    "id": "17f6948f4adl0i0ofnyfaygrek4ks9",
+    "name": "Night's Cavalry Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6948f4adl0i0ofnyfaygrek4ks9.png",
+    "description": "Pitch-black gauntlets thinly painted with dried blood. Worn by the Night's Cavalry who ride funeral steeds.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 13
+      },
+      {
+        "name": "Robustness",
+        "amount": 19
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 4.3
+  },
+  {
+    "id": "17f698eeb10l0i0ofo0efh0z69hbud",
+    "name": "Omenkiller Long Gloves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f698eeb10l0i0ofo0efh0z69hbud.png",
+    "description": "Long,stiff leather gloves worn by the Omenkillers.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 9
+      },
+      {
+        "name": "Focus",
+        "amount": 15
+      },
+      {
+        "name": "Vitality",
+        "amount": 15
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.4
+  },
+  {
+    "id": "17f696136efl0i0ogu3uw8ly0921xa",
+    "name": "Preceptor's Gloves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f696136efl0i0ogu3uw8ly0921xa.png",
+    "description": "Trousers of the magic preceptors who serve the Carian royals. Black and perfectly discreet. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 17
+      },
+      {
+        "name": "Robustness",
+        "amount": 8
+      },
+      {
+        "name": "Focus",
+        "amount": 28
+      },
+      {
+        "name": "Vitality",
+        "amount": 25
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.1
+  },
+  {
+    "id": "17f6961d885l0i0ogv0ohqr5fp3eh",
+    "name": "Raya Lucarian Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6961d885l0i0ogv0ohqr5fp3eh.png",
+    "description": "Gauntlets worn by Raya Lucaria Academy soldiers. Rust-worn and stained through unending conflict. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 11
+      },
+      {
+        "name": "Robustness",
+        "amount": 18
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.5
+  },
+  {
+    "id": "17f6935b153l0i0ogyoj212pfkjsqo",
+    "name": "Ragged Gloves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6935b153l0i0ogyoj212pfkjsqo.png",
+    "description": "Gauntlets pieced together from scavenged metal.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 21
+      },
+      {
+        "name": "Robustness",
+        "amount": 14
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 18
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 2.9
+  },
+  {
+    "id": "17f69b773e3l0i0ogypin7yhii9kfj",
+    "name": "Radahn Soldier Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b773e3l0i0ogypin7yhii9kfj.png",
+    "description": "Gauntlets worn by soldiers who fought by General Radahn's side. Rust-worn and stained through unending conflict.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 11
+      },
+      {
+        "name": "Robustness",
+        "amount": 17
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.5
+  },
+  {
+    "id": "17f6965bc45l0i0ogypt00zh5h9xs",
+    "name": "Radahn's Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6965bc45l0i0ogypt00zh5h9xs.png",
+    "description": "Gauntlets depicting the golden lion. Worn by General Radahn. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 33
+      },
+      {
+        "name": "Focus",
+        "amount": 14
+      },
+      {
+        "name": "Vitality",
+        "amount": 13
+      },
+      {
+        "name": "Poise",
+        "amount": 6
+      }
+    ],
+    "weight": 5.8
+  },
+  {
+    "id": "17f69c1e97bl0i0oh39wplhaw02cqa",
+    "name": "Royal Knight Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69c1e97bl0i0oh39wplhaw02cqa.png",
+    "description": "Silver gauntlets of Loretta, a knight who served Miquella's Haligtree. Loretta, once a royal Carian knight, went on a journey in search of a haven for Albinaurics, and determined that the Haligtree was their best chance for eventual salvation.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 17
+      },
+      {
+        "name": "Robustness",
+        "amount": 22
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 12
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 5.2
+  },
+  {
+    "id": "17f6951b093l0i0oh3ytmwlknn9uvf",
+    "name": "Ronin's Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6951b093l0i0oh3ytmwlknn9uvf.png",
+    "description": "Gauntlets of the man who calls himself Shabriri. Highly functional and heavily worn.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 25
+      },
+      {
+        "name": "Robustness",
+        "amount": 19
+      },
+      {
+        "name": "Focus",
+        "amount": 20
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 2
+      }
+    ],
+    "weight": 3.1
+  },
+  {
+    "id": "17f693ced0bl0i0oh402gmm7bjbdty",
+    "name": "Redmane Knight Helm",
+    "image": "https://eldenring.fanapis.com/images/armors/17f693ced0bl0i0oh402gmm7bjbdty.png",
+    "description": null,
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 12
+      },
+      {
+        "name": "Robustness",
+        "amount": 18
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.9
+  },
+  {
+    "id": "17f6965e1c4l0i0oh5u13b51hwsrb6i",
+    "name": "Queen's Bracelets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6965e1c4l0i0oh5u13b51hwsrb6i.png",
+    "description": "Bracelets indicating the highest order of sorcerer. Worn by Rennala, Queen of the Full Moon. When Rennala, head of both the Academy of Raya Lucaria and the Carian royal family, lost her husband Radagon, her heart went along with him. And then, those at the academy realized. That Rennala was no champion, after all. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 14
+      },
+      {
+        "name": "Robustness",
+        "amount": 8
+      },
+      {
+        "name": "Focus",
+        "amount": 24
+      },
+      {
+        "name": "Vitality",
+        "amount": 28
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 1.7
+  },
+  {
+    "id": "17f69444171l0i0oh899jhls75u4of",
+    "name": "Royal Remains Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69444171l0i0oh899jhls75u4of.png",
+    "description": "Gauntlets graces with gold human bones. Worn by the unspeaking adherent of Sir Gideon the All-Knowing.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 12
+      },
+      {
+        "name": "Robustness",
+        "amount": 19
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 4
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 3.5
+  },
+  {
+    "id": "17f699b7af3l0i0oipdsndvnog1dpo",
+    "name": "Traveler's Gloves",
+    "image": null,
+    "description": "Gloves of a traveling perfumer of no renown. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 0
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 18
+      },
+      {
+        "name": "Robustness",
+        "amount": 7
+      },
+      {
+        "name": "Focus",
+        "amount": 22
+      },
+      {
+        "name": "Vitality",
+        "amount": 21
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 1.4
+  },
+  {
+    "id": "17f696aafc4l0i0oirnrri0ir86n0g",
+    "name": "Tree Sentinel Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f696aafc4l0i0oirnrri0ir86n0g.png",
+    "description": "Golden gauntlets of the heavy cavalry Tree Sentinels who serve the Erdtree.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 4
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 30
+      },
+      {
+        "name": "Focus",
+        "amount": 14
+      },
+      {
+        "name": "Vitality",
+        "amount": 15
+      },
+      {
+        "name": "Poise",
+        "amount": 6
+      }
+    ],
+    "weight": 6.3
+  },
+  {
+    "id": "17f6973b069l0i0oivkiyy71sjzt3f",
+    "name": "Traveler's Manchettes",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6973b069l0i0oivkiyy71sjzt3f.png",
+    "description": "Light yet sturdy leather manchettes.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 13
+      },
+      {
+        "name": "Robustness",
+        "amount": 8
+      },
+      {
+        "name": "Focus",
+        "amount": 25
+      },
+      {
+        "name": "Vitality",
+        "amount": 25
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 1.7
+  },
+  {
+    "id": "17f69b2e1f0l0i0oivw4at5v3v4x2z",
+    "name": "Sorcerer Manchettes",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b2e1f0l0i0oivw4at5v3v4x2z.png",
+    "description": "Manchettes worn by Raya Lucaria's magic scholars. Made by wrapping a simple cloth around the forearms.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 0
+      },
+      {
+        "name": "Strike",
+        "amount": 0
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 0
+      },
+      {
+        "name": "Magic",
+        "amount": 1
+      },
+      {
+        "name": "Fire",
+        "amount": 1
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 1
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 16
+      },
+      {
+        "name": "Focus",
+        "amount": 42
+      },
+      {
+        "name": "Death",
+        "amount": 17
+      },
+      {
+        "name": "",
+        "amount": 0
+      }
+    ],
+    "weight": 1
+  },
+  {
+    "id": "17f69beb172l0i0oiwxuzup65qtki",
+    "name": "Twinned Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69beb172l0i0oiwxuzup65qtki.png",
+    "description": "Gauntlets depicting entwined twins of gold and silver. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 11
+      },
+      {
+        "name": "Robustness",
+        "amount": 18
+      },
+      {
+        "name": "Focus",
+        "amount": 7
+      },
+      {
+        "name": "Vitality",
+        "amount": 18
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.9
+  },
+  {
+    "id": "17f699b52e3l0i0oiwychjvbbb6kl",
+    "name": "Traveling Maiden Gloves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f699b52e3l0i0oiwychjvbbb6kl.png",
+    "description": "Gloves worn by traveling maidens.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 15
+      },
+      {
+        "name": "Robustness",
+        "amount": 8
+      },
+      {
+        "name": "Focus",
+        "amount": 25
+      },
+      {
+        "name": "Vitality",
+        "amount": 28
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 1.7
+  },
+  {
+    "id": "17f69ac481fl0i0oixc66oi6ytj1ek",
+    "name": "Vagabond Knight Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69ac481fl0i0oixc66oi6ytj1ek.png",
+    "description": "Gauntlets of a knight banished form their motherland. Dirty and battered after enduring a lengthy vagabond journey. Metal armor is heavy, but also sturdy, offering significant damage negation. ",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 12
+      },
+      {
+        "name": "Robustness",
+        "amount": 19
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 3.5
+  },
+  {
+    "id": "17f69601d4al0i0oiyy2ixfq183jgb",
+    "name": "Veteran's Gauntlets",
+    "image": null,
+    "description": "Old gauntlets that has seen many battles. Worn by Niall, the veteran general of Sol.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 21
+      },
+      {
+        "name": "Robustness",
+        "amount": 30
+      },
+      {
+        "name": "Focus",
+        "amount": 15
+      },
+      {
+        "name": "Vitality",
+        "amount": 15
+      },
+      {
+        "name": "Poise",
+        "amount": 8
+      }
+    ],
+    "weight": 6.3
+  },
+  {
+    "id": "17f69394600l0i0oiyz8qmiiuhz2ra",
+    "name": "Scaled Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69394600l0i0oiyz8qmiiuhz2ra.png",
+    "description": "Gauntlets worn by Old Knight Istvan. The corroded metal is reinforced with rock-hard scales, making it high effective against non-physical attacks. Istvan is one of a few wizened Tarnished who survived to this day.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 19
+      },
+      {
+        "name": "Robustness",
+        "amount": 28
+      },
+      {
+        "name": "Focus",
+        "amount": 13
+      },
+      {
+        "name": "Vitality",
+        "amount": 13
+      },
+      {
+        "name": "Poise",
+        "amount": 6
+      }
+    ],
+    "weight": 5.3
+  },
+  {
+    "id": "17f693a7860l0i0oknl7694p0mh7v",
+    "name": "Vulgar Militia Gauntlets",
+    "image": null,
+    "description": "Gauntlets worn by lean, mean, and filthy militiamen.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Str",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 9
+      },
+      {
+        "name": "Focus",
+        "amount": 14
+      },
+      {
+        "name": "Vitality",
+        "amount": 14
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.1
+  },
+  {
+    "id": "17f697896bel0i0okxiwm6mnh3zz6j",
+    "name": "Warrior Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f697896bel0i0okxiwm6mnh3zz6j.png",
+    "description": "Gauntlets of a nomadic warrior. Crafted from sturdy leather.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 21
+      },
+      {
+        "name": "Robustness",
+        "amount": 14
+      },
+      {
+        "name": "Focus",
+        "amount": 17
+      },
+      {
+        "name": "Vitality",
+        "amount": 17
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.6
+  },
+  {
+    "id": "17f6931bed0l0i0ol1tlx0aiheggu",
+    "name": "War Surgeon Gloves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6931bed0l0i0ol1tlx0aiheggu.png",
+    "description": "Bloodstained white gloves of the war surgeons who were effectively mercy killers. Of the surgeons that were abducted by the Lord of Blood none were able to tame the accursed blood. None but Varré, that is; though he was an exception",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 18
+      },
+      {
+        "name": "Robustness",
+        "amount": 13
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 17
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 2.3
+  },
+  {
+    "id": "17f69a8afbbl0i0ol3s36b3idrf5x5",
+    "name": "Zamor Bracelets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a8afbbl0i0ol3s36b3idrf5x5.png",
+    "description": "Bracelets worn by knights of Zamor, hailed as heroes in the War against the Giants. These long-lived warriors, clad in biting, freezing winds, are said to have been the mortal enemies of the Fire Giants since time immemorial.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 1
+      },
+      {
+        "name": "Fire",
+        "amount": 1
+      },
+      {
+        "name": "Ligt",
+        "amount": 1
+      },
+      {
+        "name": "Holy",
+        "amount": 1
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 6
+      },
+      {
+        "name": "Robustness",
+        "amount": 20
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 4
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 2.8
+  },
+  {
+    "id": "17f692edc25l0i0ol5e2s17vq7v4wq",
+    "name": "White Reed Gauntlets",
+    "image": "https://eldenring.fanapis.com/images/armors/17f692edc25l0i0ol5e2s17vq7v4wq.png",
+    "description": "Gauntlets of the White Reeds, fashioned from banded iron plates. Worn by the Inabam head disciples of the great swordsman Okina. The Inaba traveled in pursuit of not only the master who abandoned them, but also proper deaths, won honorably through hard-fought combat. To be a White Reed is to seek death; fitting for the Inaba, who desired nothingmore than to die by the sword.",
+    "category": "Gauntlets",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 2
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 14
+      },
+      {
+        "name": "Focus",
+        "amount": 18
+      },
+      {
+        "name": "Vitality",
+        "amount": 17
+      },
+      {
+        "name": "Poise",
+        "amount": 2
+      }
+    ],
+    "weight": 2.8
+  }
+]

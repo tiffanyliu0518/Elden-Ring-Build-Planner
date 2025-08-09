@@ -1,0 +1,6654 @@
+[
+  {
+    "id": "17f696e0685l0i0nblzy58h0qvewk",
+    "name": "All-knowing Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f696e0685l0i0nblzy58h0qvewk.png",
+    "description": "Greaves set with countless eyes and ears. Worn by Gideon Ofnir, the All-Knowing. Knowledge begins with the recognition of one's ignorance. The realization that the search for knowledge is unending. But when Gideon glimpsed into the will of Queen Marika, he shuddered in fear. At the end that should not be.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 17
+      },
+      {
+        "name": "Robustness",
+        "amount": 29
+      },
+      {
+        "name": "Focus",
+        "amount": 13
+      },
+      {
+        "name": "Vitality",
+        "amount": 13
+      },
+      {
+        "name": "Poise",
+        "amount": 10
+      }
+    ],
+    "weight": 6.6
+  },
+  {
+    "id": "17f6975004bl0i0pf2ymcptcjn4xmk",
+    "name": "Astrologer Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6975004bl0i0pf2ymcptcjn4xmk.png",
+    "description": "Trousers worn inside a robe. Worn by those who look to the cosmos above. They read fate in the stars, and are said to be heirs of the glintstone sorcerers. But alas, the night sky no longer cradles fate. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 31
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 56
+      },
+      {
+        "name": "Vitality",
+        "amount": 47
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 3.9
+  },
+  {
+    "id": "17f6942cf80l0i0pf31ce2r8w9laqo",
+    "name": "Bandit Boots",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6942cf80l0i0pf31ce2r8w9laqo.png",
+    "description": "Leather boots worn by bandits.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 5
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 34
+      },
+      {
+        "name": "Robustness",
+        "amount": 20
+      },
+      {
+        "name": "Focus",
+        "amount": 35
+      },
+      {
+        "name": "Vitality",
+        "amount": 35
+      },
+      {
+        "name": "Poise",
+        "amount": 2
+      }
+    ],
+    "weight": 4.4
+  },
+  {
+    "id": "17f6939586bl0i0pf342a1vm5kkewl",
+    "name": "Battlemage Legwraps",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6939586bl0i0pf342a1vm5kkewl.png",
+    "description": "Legwraps worn by the scholars of the Raya Lucaria Academy, tattered from being worn on the battlefield.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 26
+      },
+      {
+        "name": "Robustness",
+        "amount": 14
+      },
+      {
+        "name": "Focus",
+        "amount": 39
+      },
+      {
+        "name": "Vitality",
+        "amount": 44
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.5
+  },
+  {
+    "id": "17f695b346dl0i0pf3f1fg240whfqc",
+    "name": "Alberich's Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695b346dl0i0pf3f1fg240whfqc.png",
+    "description": "Mad Tongue Alberich's trousers.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 26
+      },
+      {
+        "name": "Robustness",
+        "amount": 14
+      },
+      {
+        "name": "Focus",
+        "amount": 41
+      },
+      {
+        "name": "Vitality",
+        "amount": 44
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.5
+  },
+  {
+    "id": "17f6947003bl0i0pf3kslr4ap1hce",
+    "name": "Aristocrat Boots",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6947003bl0i0pf3kslr4ap1hce.png",
+    "description": "Boots made from tanned leather. Travel attire worn by nobles in the capital. Abandoning their birthplace after the shattering, these undead wanderers are the pitiful product of unending life.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 4
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 29
+      },
+      {
+        "name": "Robustness",
+        "amount": 21
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 19
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 2.9
+  },
+  {
+    "id": "17f6971934fl0i0pf3xzqx2bx77g49",
+    "name": "Banished Knight Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6971934fl0i0pf3xzqx2bx77g49.png",
+    "description": "Thick, full set of armor covering the entire body. These greaves were worn by knights who, whether by misfortune or misdeed, were forced to abandon their homes. These fierce warriors were each and all accomplished. Perhaps that is why, despite their territorial losses, they were still named knights. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 10
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 11
+      },
+      {
+        "name": "Pierce",
+        "amount": 10
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 37
+      },
+      {
+        "name": "Robustness",
+        "amount": 51
+      },
+      {
+        "name": "Focus",
+        "amount": 24
+      },
+      {
+        "name": "Vitality",
+        "amount": 26
+      },
+      {
+        "name": "Poise",
+        "amount": 17
+      }
+    ],
+    "weight": 10.8
+  },
+  {
+    "id": "17f692d4de3l0i0pf68kg5ine04x3",
+    "name": "Blackflame Monk Greave",
+    "image": "https://eldenring.fanapis.com/images/armors/17f692d4de3l0i0pf68kg5ine04x3.png",
+    "description": "Black iron greaves featuring a flame motif.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 8
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 4
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 34
+      },
+      {
+        "name": "Focus",
+        "amount": 13
+      },
+      {
+        "name": "Vitality",
+        "amount": 20
+      },
+      {
+        "name": "Poise",
+        "amount": 11
+      }
+    ],
+    "weight": 7.3
+  },
+  {
+    "id": "17f69be35f5l0i0pf697dz3w77lres",
+    "name": "Beast Champion Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69be35f5l0i0pf697dz3w77lres.png",
+    "description": "Silver greaves engraved with tiny beasts. Worn by Bernahl the Recusant.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 10
+      },
+      {
+        "name": "Strike",
+        "amount": 9
+      },
+      {
+        "name": "Slash",
+        "amount": 10
+      },
+      {
+        "name": "Pierce",
+        "amount": 10
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 35
+      },
+      {
+        "name": "Robustness",
+        "amount": 56
+      },
+      {
+        "name": "Focus",
+        "amount": 26
+      },
+      {
+        "name": "Vitality",
+        "amount": 24
+      },
+      {
+        "name": "Poise",
+        "amount": 17
+      }
+    ],
+    "weight": 10.8
+  },
+  {
+    "id": "17f697e7b70l0i0pf7qlnt28ojl0nh",
+    "name": "Black Knife Greaves",
+    "image": null,
+    "description": "Greaves used by the Black Knife Assassins. Crafted with scale armor that makes no sound. The assassins that carried out the deeds of the Night of the Black Knives were all women, and rumored to be Numen who had close ties with Marika herself.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 17
+      },
+      {
+        "name": "Robustness",
+        "amount": 29
+      },
+      {
+        "name": "Focus",
+        "amount": 14
+      },
+      {
+        "name": "Vitality",
+        "amount": 14
+      },
+      {
+        "name": "Poise",
+        "amount": 8
+      }
+    ],
+    "weight": 5.7
+  },
+  {
+    "id": "17f698db294l0i0pfbl9pw0tl3d08i",
+    "name": "Blaidd's Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f698db294l0i0pfbl9pw0tl3d08i.png",
+    "description": "Well-worn black greaves of the man-wolf Blaidd.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 8
+      },
+      {
+        "name": "Strike",
+        "amount": 7
+      },
+      {
+        "name": "Slash",
+        "amount": 8
+      },
+      {
+        "name": "Pierce",
+        "amount": 8
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 24
+      },
+      {
+        "name": "Robustness",
+        "amount": 39
+      },
+      {
+        "name": "Focus",
+        "amount": 16
+      },
+      {
+        "name": "Vitality",
+        "amount": 16
+      },
+      {
+        "name": "Poise",
+        "amount": 14
+      }
+    ],
+    "weight": 8.5
+  },
+  {
+    "id": "17f69692d7dl0i0pgo4addilqmudug",
+    "name": "Cleanrot Greaves",
+    "image": null,
+    "description": "Greaves of the Cleanrot Knights, celebrated for their undefeated campaign in the Shattering.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 8
+      },
+      {
+        "name": "Strike",
+        "amount": 7
+      },
+      {
+        "name": "Slash",
+        "amount": 9
+      },
+      {
+        "name": "Pierce",
+        "amount": 10
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 39
+      },
+      {
+        "name": "Robustness",
+        "amount": 41
+      },
+      {
+        "name": "Focus",
+        "amount": 17
+      },
+      {
+        "name": "Vitality",
+        "amount": 20
+      },
+      {
+        "name": "Poise",
+        "amount": 13
+      }
+    ],
+    "weight": 9.3
+  },
+  {
+    "id": "17f69a9a3c2l0i0pgoafeupih2koyi",
+    "name": "Blue Silver Mail Skirt",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a9a3c2l0i0pgoafeupih2koyi.png",
+    "description": "Chainmail skirt crafted with blue silver. Worn by the wolf-riding Albinauric archers. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 4
+      },
+      {
+        "name": "Holy",
+        "amount": 4
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 15
+      },
+      {
+        "name": "Robustness",
+        "amount": 35
+      },
+      {
+        "name": "Focus",
+        "amount": 7
+      },
+      {
+        "name": "Vitality",
+        "amount": 7
+      },
+      {
+        "name": "Poise",
+        "amount": 7
+      }
+    ],
+    "weight": 5.5
+  },
+  {
+    "id": "17f69372895l0i0pgognb3zh05oyi",
+    "name": "Briar Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69372895l0i0pgognb3zh05oyi.png",
+    "description": "Battered iron greaves from a foreign land. Worn by Elemer of the Briar. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 44
+      },
+      {
+        "name": "Focus",
+        "amount": 15
+      },
+      {
+        "name": "Vitality",
+        "amount": 15
+      },
+      {
+        "name": "Poise",
+        "amount": 9
+      }
+    ],
+    "weight": 7.3
+  },
+  {
+    "id": "17f6955d1bbl0i0pgoujy78n1z704",
+    "name": "Brave's Legwraps",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6955d1bbl0i0pgoujy78n1z704.png",
+    "description": "Greaves wrapped in thick leather. Garb worn by warriors of the frigid uplands. Has a fur lining which excels at keeping the cold at bay.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 29
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 47
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 3.1
+  },
+  {
+    "id": "17f692f026el0i0pgqn9h69g38vkus",
+    "name": "Commoner's Shoes",
+    "image": "https://eldenring.fanapis.com/images/armors/17f692f026el0i0pgqn9h69g38vkus.png",
+    "description": "Modest shoes made of cloth. Standard wear for commoners of the Lands Between. Only, there are no commoners remaining with their wits about them.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 14
+      },
+      {
+        "name": "Focus",
+        "amount": 39
+      },
+      {
+        "name": "Vitality",
+        "amount": 41
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2
+  },
+  {
+    "id": "17f699dacd9l0i0pgr5dfa76ma68sc",
+    "name": "Carian Knight Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f699dacd9l0i0pgr5dfa76ma68sc.png",
+    "description": "Greaves of the enchanted knights that once served the Carian royal family. The enchanted knights, anointed by the Lunar Queen, were all decorated heroes, were heroes of the highest honors, but fell into disarray with the decline of the royal family.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 17
+      },
+      {
+        "name": "Robustness",
+        "amount": 29
+      },
+      {
+        "name": "Focus",
+        "amount": 13
+      },
+      {
+        "name": "Vitality",
+        "amount": 14
+      },
+      {
+        "name": "Poise",
+        "amount": 7
+      }
+    ],
+    "weight": 6.6
+  },
+  {
+    "id": "17f69b52568l0i0pgs8kizirn11qd",
+    "name": "Cloth Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b52568l0i0pgs8kizirn11qd.png",
+    "description": "Trousers made of coarse material, commonly worn in the Lands Between. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 26
+      },
+      {
+        "name": "Robustness",
+        "amount": 14
+      },
+      {
+        "name": "Focus",
+        "amount": 37
+      },
+      {
+        "name": "Vitality",
+        "amount": 37
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2
+  },
+  {
+    "id": "17f697261e6l0i0pgtgsp709nb4xsa",
+    "name": "Chain Leggings",
+    "image": "https://eldenring.fanapis.com/images/armors/17f697261e6l0i0pgtgsp709nb4xsa.png",
+    "description": "Leggings made of woven chain. Standard issue for ordinary soldiers. Though plain in appearance, they offer dependable protection.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 4
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 4
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 16
+      },
+      {
+        "name": "Robustness",
+        "amount": 26
+      },
+      {
+        "name": "Focus",
+        "amount": 7
+      },
+      {
+        "name": "Vitality",
+        "amount": 11
+      },
+      {
+        "name": "Poise",
+        "amount": 7
+      }
+    ],
+    "weight": 5.5
+  },
+  {
+    "id": "17f69b0ad55l0i0pgu633svhfssih",
+    "name": "Bloodhound Knight Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b0ad55l0i0pgu633svhfssih.png",
+    "description": "Metal greaves of the Bloodhound Knights. The Bloodhound Knights are trained as hunters and known to be unshakable trackers. Without the use of language, each knight chooses his own master. Once the decision has been made the knight stays loyal for life.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 8
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 4
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 31
+      },
+      {
+        "name": "Focus",
+        "amount": 14
+      },
+      {
+        "name": "Vitality",
+        "amount": 14
+      },
+      {
+        "name": "Poise",
+        "amount": 8
+      }
+    ],
+    "weight": 6.6
+  },
+  {
+    "id": "17f69387d24l0i0ph15szdiegzloyc",
+    "name": "Bull-goat Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69387d24l0i0ph15szdiegzloyc.png",
+    "description": "Great Horned Tragoth's greaves. Covers its wearer with a pair of giant horns, providing staunch poise. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 11
+      },
+      {
+        "name": "Strike",
+        "amount": 11
+      },
+      {
+        "name": "Slash",
+        "amount": 10
+      },
+      {
+        "name": "Pierce",
+        "amount": 10
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 8
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 44
+      },
+      {
+        "name": "Robustness",
+        "amount": 51
+      },
+      {
+        "name": "Focus",
+        "amount": 29
+      },
+      {
+        "name": "Vitality",
+        "amount": 34
+      },
+      {
+        "name": "Poise",
+        "amount": 28
+      }
+    ],
+    "weight": 16.4
+  },
+  {
+    "id": "17f69aef4b1l0i0phzyvuy1qjp4oel",
+    "name": "Cuckoo Knight Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69aef4b1l0i0phzyvuy1qjp4oel.png",
+    "description": "Greaves worn by Raya Lucaria Academy knights. Time has yet to dull their luster.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 8
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 35
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 15
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 7.3
+  },
+  {
+    "id": "17f69549e50l0i0pi11yunxsy375d",
+    "name": "Crucible Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69549e50l0i0pi11yunxsy375d.png",
+    "description": "Greaves of the Crucible Knights who served Godfrey, the first Elden Lord. Hold the power of the crucible of life, the primordial form of the Erdtree. Strengthen Aspects of the Crucible incantations. In time, the strength shown by these knights, and even their appearance, was seen as chaotic and deserving of scorn.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 10
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 9
+      },
+      {
+        "name": "Pierce",
+        "amount": 9
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 31
+      },
+      {
+        "name": "Robustness",
+        "amount": 44
+      },
+      {
+        "name": "Focus",
+        "amount": 22
+      },
+      {
+        "name": "Vitality",
+        "amount": 22
+      },
+      {
+        "name": "Poise",
+        "amount": 16
+      }
+    ],
+    "weight": 9.6
+  },
+  {
+    "id": "17f698d5444l0i0pi1ulnm1rc5qch",
+    "name": "Confessor Boots",
+    "image": "https://eldenring.fanapis.com/images/armors/17f698d5444l0i0pi1ulnm1rc5qch.png",
+    "description": "Leather boots of the church confessors. The churches outside the Lands Between, dedicated to the teachings of the Two Fingers, send confessors out to follow the guidance of grace. The confessors are loyal servants to the Two Fingers, ready to hunt down and quietly dispose of their enemies.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 37
+      },
+      {
+        "name": "Robustness",
+        "amount": 29
+      },
+      {
+        "name": "Focus",
+        "amount": 29
+      },
+      {
+        "name": "Vitality",
+        "amount": 31
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 4.8
+  },
+  {
+    "id": "17f698f9c24l0i0pi3v7okod63kwvu",
+    "name": "Drake Knight Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f698f9c24l0i0pi3v7okod63kwvu.png",
+    "description": "Greaves wrapped in thick leather. Garb worn by warriors of the frigid uplands. Has a fur lining which excels at keeping the cold at bay.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 16
+      },
+      {
+        "name": "Robustness",
+        "amount": 29
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 13
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 5.7
+  },
+  {
+    "id": "17f698f1219l0i0pi4a55qcqe1rcw3",
+    "name": "Consort's Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f698f1219l0i0pi4a55qcqe1rcw3.png",
+    "description": "Fine white trousers, perfectly suited for wearing beneath a silk robe. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 29
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 41
+      },
+      {
+        "name": "Vitality",
+        "amount": 39
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.5
+  },
+  {
+    "id": "17f6946190el0i0pi558gumllwjgl3",
+    "name": "Deathbed Smalls",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6946190el0i0pi558gumllwjgl3.png",
+    "description": "Skirt worn by Phia, the Deathbed Companion.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 24
+      },
+      {
+        "name": "Robustness",
+        "amount": 7
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 66
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 2
+  },
+  {
+    "id": "17f69b4f744l0i0pi68q3ihx2ageaq",
+    "name": "Eccentric's Breeches",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b4f744l0i0pi68q3ihx2ageaq.png",
+    "description": "The knight Jerren's breeches. Jerren preferred a nomadic existence, but after spending time as a guest of the Carian royals, he became the guest commander for General Radahn. And for the first time, the restless tumbleweed would be bound by honorable oath.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 4
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 4
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 15
+      },
+      {
+        "name": "Robustness",
+        "amount": 31
+      },
+      {
+        "name": "Focus",
+        "amount": 7
+      },
+      {
+        "name": "Vitality",
+        "amount": 7
+      },
+      {
+        "name": "Poise",
+        "amount": 6
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "id": "17f69c55725l0i0pi6oba1dev4bbv9",
+    "name": "Duelist Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69c55725l0i0pi6oba1dev4bbv9.png",
+    "description": "Greaves encircles by bronze snakes. Worn by gladiators who were driven from the colosseum. The wearer becomes a slightly easier target for foes. The snake is viewed as a traitor to the Erdtree, and the audience delighted in seeing these bronze effigies beaten and battered.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 8
+      },
+      {
+        "name": "Strike",
+        "amount": 7
+      },
+      {
+        "name": "Slash",
+        "amount": 8
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 29
+      },
+      {
+        "name": "Robustness",
+        "amount": 31
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 15
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 7.3
+  },
+  {
+    "id": "17f699c49edl0i0pi88zl49rrgngf",
+    "name": "Elden Lord Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f699c49edl0i0pi88zl49rrgngf.png",
+    "description": "Greaves of Godfrey, the first Elden Lord. The age of the Erdtree began amongst conflict, when Godfrey was lord of the battlefield. He led the War against the Giants. Faced the Storm Lord, alone. And then, there came a moment. When his last worthy enemy fell. And it was then, as the story is told, that the hue of Lord Godfrey's eyes faded.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 4
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 4
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 16
+      },
+      {
+        "name": "Robustness",
+        "amount": 31
+      },
+      {
+        "name": "Focus",
+        "amount": 7
+      },
+      {
+        "name": "Vitality",
+        "amount": 11
+      },
+      {
+        "name": "Poise",
+        "amount": 7
+      }
+    ],
+    "weight": 5.5
+  },
+  {
+    "id": "17f6955c5eal0i0piah1du5rhvge9q",
+    "name": "Depraved Perfumer Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6955c5eal0i0piah1du5rhvge9q.png",
+    "description": "Trousers worn by depraved perfumers.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 46
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 40
+      },
+      {
+        "name": "Vitality",
+        "amount": 58
+      },
+      {
+        "name": "Poise",
+        "amount": 2
+      }
+    ],
+    "weight": 4.3
+  },
+  {
+    "id": "17f699ef203l0i0pis7tqxak4y1zve",
+    "name": "Errant Sorcerer Boots",
+    "image": "https://eldenring.fanapis.com/images/armors/17f699ef203l0i0pis7tqxak4y1zve.png",
+    "description": "Commonplace leather boots, sturdy enough to withstand a long journey.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 24
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 47
+      },
+      {
+        "name": "Vitality",
+        "amount": 51
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 3.1
+  },
+  {
+    "id": "17f69622f6cl0i0pjc05js9m9o7wja",
+    "name": "Fire Prelate Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69622f6cl0i0pjc05js9m9o7wja.png",
+    "description": "Black iron greaves with the appearance of flames. Attire of the Fire Prelates, commanders of the Fire Monks.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 11
+      },
+      {
+        "name": "Strike",
+        "amount": 9
+      },
+      {
+        "name": "Slash",
+        "amount": 10
+      },
+      {
+        "name": "Pierce",
+        "amount": 10
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 11
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 41
+      },
+      {
+        "name": "Robustness",
+        "amount": 39
+      },
+      {
+        "name": "Focus",
+        "amount": 56
+      },
+      {
+        "name": "Vitality",
+        "amount": 31
+      },
+      {
+        "name": "Poise",
+        "amount": 24
+      }
+    ],
+    "weight": 15.3
+  },
+  {
+    "id": "17f699f81a1l0i0pjcgq6p492zwoh",
+    "name": "Fur Leggings",
+    "image": "https://eldenring.fanapis.com/images/armors/17f699f81a1l0i0pjcgq6p492zwoh.png",
+    "description": "Leggings fashioned from bristly pelts. Worn by ancestral follower warriors. The ancestral followers keep their distance from the Erdtree, awaiting new buds. They are certain to sprout from their very flesh, and indeed, their souls. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 3
+      },
+      {
+        "name": "Fire",
+        "amount": 4
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 4
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 39
+      },
+      {
+        "name": "Robustness",
+        "amount": 26
+      },
+      {
+        "name": "Focus",
+        "amount": 34
+      },
+      {
+        "name": "Vitality",
+        "amount": 24
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 3.1
+  },
+  {
+    "id": "17f69508987l0i0pjd92xk2a5xm7lm",
+    "name": "Fingerprint Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69508987l0i0pjd92xk2a5xm7lm.png",
+    "description": "Iron greaves singed and blistered by fingers. Worn by Vyke, knight of the Roundtable Hold. No other Tarnished was closer to the throne of the Elden Lord than Vyke. But without announcement, Vyke traveled far below the capital, and was scorched by the flame of frenzy. Did he make his choice for his maiden, or did some other force lure him with suggestion?",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 37
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 14
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 6.6
+  },
+  {
+    "id": "17f69a90f49l0i0pjdktrpgmf8dtki",
+    "name": "Finger Maiden Shoes",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a90f49l0i0pjdktrpgmf8dtki.png",
+    "description": "Shoes worn by maidens who serve the Two Fingers. The maidens live to serve a chosen Tarnished, sharing their guidance and the wisdom of the Two Fingers. The guidance of grace would ensure that the pair be brought together. Or at least, such was the promise long ago.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 24
+      },
+      {
+        "name": "Robustness",
+        "amount": 13
+      },
+      {
+        "name": "Focus",
+        "amount": 39
+      },
+      {
+        "name": "Vitality",
+        "amount": 39
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.5
+  },
+  {
+    "id": "17f699f6cc4l0i0pje4benasznz9h",
+    "name": "Exile Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f699f6cc4l0i0pje4benasznz9h.png",
+    "description": "Damaged iron greaves. Worn by soldiers sent to the penal colonies.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 4
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 17
+      },
+      {
+        "name": "Robustness",
+        "amount": 34
+      },
+      {
+        "name": "Focus",
+        "amount": 13
+      },
+      {
+        "name": "Vitality",
+        "amount": 11
+      },
+      {
+        "name": "Poise",
+        "amount": 8
+      }
+    ],
+    "weight": 5.7
+  },
+  {
+    "id": "17f695faf97l0i0pjg6918xct5zqg",
+    "name": "Foot Soldier Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695faf97l0i0pjg6918xct5zqg.png",
+    "description": "Metal Graves that have already been mended countless times. Widely issued to foot soldiers in a lord's army.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 5
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 39
+      },
+      {
+        "name": "Robustness",
+        "amount": 26
+      },
+      {
+        "name": "Focus",
+        "amount": 34
+      },
+      {
+        "name": "Vitality",
+        "amount": 34
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "id": "17f6994cf13l0i0pjgx7fo0ts37s86",
+    "name": "Gelmir Knight Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6994cf13l0i0pjgx7fo0ts37s86.png",
+    "description": "Greaves worn by knights once loyal to Praetor Rykard. Time has yet to dull their luster.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 8
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 34
+      },
+      {
+        "name": "Focus",
+        "amount": 15
+      },
+      {
+        "name": "Vitality",
+        "amount": 14
+      },
+      {
+        "name": "Poise",
+        "amount": 11
+      }
+    ],
+    "weight": 7.3
+  },
+  {
+    "id": "17f697afca0l0i0pjke1nw6n59j3iy",
+    "name": "Godrick Knight Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f697afca0l0i0pjke1nw6n59j3iy.png",
+    "description": "Greaves worn by knights loyal to Godrick the Grafted. Time has yet to dull their luster.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 8
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 35
+      },
+      {
+        "name": "Focus",
+        "amount": 15
+      },
+      {
+        "name": "Vitality",
+        "amount": 15
+      },
+      {
+        "name": "Poise",
+        "amount": 11
+      }
+    ],
+    "weight": 7.3
+  },
+  {
+    "id": "17f697daf0dl0i0pjmfakgpsp5901d",
+    "name": "Fire Monk Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f697daf0dl0i0pjmfakgpsp5901d.png",
+    "description": "Black iron greaves featuring a flame motif. Attire of the Fire Monks.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 2
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 2
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 11
+      },
+      {
+        "name": "Robustness",
+        "amount": 18
+      },
+      {
+        "name": "Focus",
+        "amount": 8
+      },
+      {
+        "name": "Vitality",
+        "amount": 8
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 3.9
+  },
+  {
+    "id": "17f69403682l0i0pjpag5hfhptfu1v",
+    "name": "Godrick Soldier Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69403682l0i0pjpag5hfhptfu1v.png",
+    "description": "Greaves worn by soldiers loyal to Godrick the Grafted. Rust-worn and stained through unending conflict.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Physical",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 4
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 34
+      },
+      {
+        "name": "Focus",
+        "amount": 14
+      },
+      {
+        "name": "Vitality",
+        "amount": 14
+      },
+      {
+        "name": "Poise",
+        "amount": 10
+      }
+    ],
+    "weight": 6.6
+  },
+  {
+    "id": "17f695a1a38l0i0pkr8gy43eps1rb8",
+    "name": "Gold Waistwrap",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695a1a38l0i0pkr8gy43eps1rb8.png",
+    "description": "Waistwrap made in the image of Erdtree branches. A minimal adornment made by Lord Goldmask's disciples. Those disciples have long since left him.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 8
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 35
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 56
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 4.4
+  },
+  {
+    "id": "17f69ba4982l0i0pkrcelbkbzjuebo",
+    "name": "Haligtree Knight Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69ba4982l0i0pkrcelbkbzjuebo.png",
+    "description": "Greaves worn by knights sworn to the Haligtree. Time has yet to dull their luster.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 7
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 35
+      },
+      {
+        "name": "Focus",
+        "amount": 15
+      },
+      {
+        "name": "Vitality",
+        "amount": 15
+      },
+      {
+        "name": "Poise",
+        "amount": 10
+      }
+    ],
+    "weight": 7.3
+  },
+  {
+    "id": "17f695cd952l0i0pkshargec6vkeul",
+    "name": "Godskin Apostle Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695cd952l0i0pkshargec6vkeul.png",
+    "description": "Trousers made by seweing together patches of smooth skin.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 26
+      },
+      {
+        "name": "Robustness",
+        "amount": 13
+      },
+      {
+        "name": "Focus",
+        "amount": 41
+      },
+      {
+        "name": "Vitality",
+        "amount": 39
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.5
+  },
+  {
+    "id": "17f69870f92l0i0pksini97stvfbt",
+    "name": "Hoslow's Greaves",
+    "image": null,
+    "description": "Garish silver greaves decorated with red embellishments. Passed down through the Hoslow family.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 8
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 24
+      },
+      {
+        "name": "Robustness",
+        "amount": 37
+      },
+      {
+        "name": "Focus",
+        "amount": 15
+      },
+      {
+        "name": "Vitality",
+        "amount": 15
+      },
+      {
+        "name": "Poise",
+        "amount": 10
+      }
+    ],
+    "weight": 7.3
+  },
+  {
+    "id": "17f69a365f1l0i0pkskdokmb4aqac9",
+    "name": "Haligtree Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a365f1l0i0pkskdokmb4aqac9.png",
+    "description": "Greaves worn by soldiers sworn to the Haligtree. Rust-worn and stained through unending conflict. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 4
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 34
+      },
+      {
+        "name": "Focus",
+        "amount": 14
+      },
+      {
+        "name": "Vitality",
+        "amount": 15
+      },
+      {
+        "name": "Poise",
+        "amount": 9
+      }
+    ],
+    "weight": 6.6
+  },
+  {
+    "id": "17f693efe45l0i0pksskfqwqpkblip",
+    "name": "Godskin Noble Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f693efe45l0i0pksskfqwqpkblip.png",
+    "description": "Trousers made by sewing together patches of smooth skin. Subcutaneous fat makes them plump and soft. Worn by Godskin Nobles. Nobles are the most ancient apostles who are said to have assimilated inhuman physiology. Not unlike the crucible, the Erdtree in its primordial form.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2.3
+      },
+      {
+        "name": "Strike",
+        "amount": 4.5
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2.3
+      },
+      {
+        "name": "Magic",
+        "amount": 7.2
+      },
+      {
+        "name": "Fire:",
+        "amount": 6.5
+      },
+      {
+        "name": "Ligt",
+        "amount": 6.8
+      },
+      {
+        "name": "Holy",
+        "amount": 7.7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 24
+      },
+      {
+        "name": "Robustness",
+        "amount": 14
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 41
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 2.5
+  },
+  {
+    "id": "17f692da083l0i0pkub9op7ur2bu7",
+    "name": "Guardian Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f692da083l0i0pkub9op7ur2bu7.png",
+    "description": "Engraved golden greaves. Worn by the guardians of the Minor Erdtrees.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 5
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 47
+      },
+      {
+        "name": "Robustness",
+        "amount": 31
+      },
+      {
+        "name": "Focus",
+        "amount": 37
+      },
+      {
+        "name": "Vitality",
+        "amount": 35
+      },
+      {
+        "name": "Poise",
+        "amount": 3
+      }
+    ],
+    "weight": 5.5
+  },
+  {
+    "id": "17f697e7e13l0i0pkvbhfo23lln9bh",
+    "name": "Kaiden Trousers",
+    "image": null,
+    "description": "Trousers worn by Kaiden sellswords.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 4
+      },
+      {
+        "name": "Fire",
+        "amount": 4
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 4
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 15
+      },
+      {
+        "name": "Robustness",
+        "amount": 26
+      },
+      {
+        "name": "Focus",
+        "amount": 7
+      },
+      {
+        "name": "Vitality",
+        "amount": 7
+      },
+      {
+        "name": "Poise",
+        "amount": 7
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "id": "17f6954422cl0i0pkw3x0jp3fcunxb",
+    "name": "Knight Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6954422cl0i0pkw3x0jp3fcunxb.png",
+    "description": "Iron greaves of an unknown knight. It is made of thin iron plate. Such metal armor is heavy, but provides considerable damage negation. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 17
+      },
+      {
+        "name": "Robustness",
+        "amount": 31
+      },
+      {
+        "name": "Focus",
+        "amount": 11
+      },
+      {
+        "name": "Vitality",
+        "amount": 11
+      },
+      {
+        "name": "Poise",
+        "amount": 11
+      }
+    ],
+    "weight": 6.6
+  },
+  {
+    "id": "17f6956f3cfl0i0pl04d031fv2ld7",
+    "name": "Land Of Reeds Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6956f3cfl0i0pl04d031fv2ld7.png",
+    "description": "Greaves wrapped in tough leather.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 37
+      },
+      {
+        "name": "Robustness",
+        "amount": 31
+      },
+      {
+        "name": "Focus",
+        "amount": 31
+      },
+      {
+        "name": "Vitality",
+        "amount": 34
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "id": "17f69c101efl0i0plwcdy4h7oe06s",
+    "name": "Leather Boots",
+    "image": null,
+    "description": "Lightweight and battle-proven leather boots worn by a savvy soldier. Many admire the wearer of this armor for his chivalrous and forthright spirit.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 37
+      },
+      {
+        "name": "Robustness",
+        "amount": 22
+      },
+      {
+        "name": "Focus",
+        "amount": 26
+      },
+      {
+        "name": "Vitality",
+        "amount": 31
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 4.4
+  },
+  {
+    "id": "17f692d6d3fl0i0plykz2nvpwtqx6q",
+    "name": "Leather Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f692d6d3fl0i0plykz2nvpwtqx6q.png",
+    "description": "Well-made leather trousers. The lower legs are each bound in cord for ease of movement.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 4
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 16
+      },
+      {
+        "name": "Robustness",
+        "amount": 29
+      },
+      {
+        "name": "Focus",
+        "amount": 11
+      },
+      {
+        "name": "Vitality",
+        "amount": 7
+      },
+      {
+        "name": "Poise",
+        "amount": 8
+      }
+    ],
+    "weight": 5.5
+  },
+  {
+    "id": "17f6942a406l0i0pm0d0tqba0zfhdu",
+    "name": "Leyndell Knight Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6942a406l0i0pm0d0tqba0zfhdu.png",
+    "description": "Greaves worn by knights sworn to defend the royal capital of Leyndell. Time has yet to dull their luster.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 7
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 35
+      },
+      {
+        "name": "Focus",
+        "amount": 15
+      },
+      {
+        "name": "Vitality",
+        "amount": 15
+      },
+      {
+        "name": "Poise",
+        "amount": 11
+      }
+    ],
+    "weight": 7.3
+  },
+  {
+    "id": "17f6941c186l0i0pm1lnb643gzk7eh",
+    "name": "Leyndell Soldier Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6941c186l0i0pm1lnb643gzk7eh.png",
+    "description": "Greaves worn by soldiers sworn to defend the royal capital of Leyndell. Rust-worn and stained through unending conflict. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 34
+      },
+      {
+        "name": "Focus",
+        "amount": 14
+      },
+      {
+        "name": "Vitality",
+        "amount": 14
+      },
+      {
+        "name": "Poise",
+        "amount": 10
+      }
+    ],
+    "weight": 6.6
+  },
+  {
+    "id": "17f6987f610l0i0pm1vzwigb76cu0m",
+    "name": "Lionel's Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6987f610l0i0pm1vzwigb76cu0m.png",
+    "description": "Rounded iron greaves. Worn by Lionel the Lionhearted. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 10
+      },
+      {
+        "name": "Strike",
+        "amount": 9
+      },
+      {
+        "name": "Slash",
+        "amount": 11
+      },
+      {
+        "name": "Pierce",
+        "amount": 11
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 8
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 39
+      },
+      {
+        "name": "Robustness",
+        "amount": 61
+      },
+      {
+        "name": "Focus",
+        "amount": 26
+      },
+      {
+        "name": "Vitality",
+        "amount": 31
+      },
+      {
+        "name": "Poise",
+        "amount": 22
+      }
+    ],
+    "weight": 13.1
+  },
+  {
+    "id": "17f6939b5a9l0i0pm2fy91us27d46j",
+    "name": "Malformed Dragon Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6939b5a9l0i0pm2fy91us27d46j.png",
+    "description": "Malformed golden greaves.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 9
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 10
+      },
+      {
+        "name": "Pierce",
+        "amount": 9
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 35
+      },
+      {
+        "name": "Robustness",
+        "amount": 47
+      },
+      {
+        "name": "Focus",
+        "amount": 24
+      },
+      {
+        "name": "Vitality",
+        "amount": 24
+      },
+      {
+        "name": "Poise",
+        "amount": 16
+      }
+    ],
+    "weight": 9.9
+  },
+  {
+    "id": "17f6995b220l0i0pm3i22h6tm82k99",
+    "name": "Malenia's Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6995b220l0i0pm3i22h6tm82k99.png",
+    "description": "Greaves made of unalloyed gold. Worn by Malenia, Blade of Miquella. Malenia awaited Miquella at the foot of the husk. \"My brother will keep his promise. He possesses the wisdom, the allure, of a god—he is the most fearsome Empyrean of all.\"",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 4
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 31
+      },
+      {
+        "name": "Robustness",
+        "amount": 26
+      },
+      {
+        "name": "Focus",
+        "amount": 11
+      },
+      {
+        "name": "Vitality",
+        "amount": 11
+      },
+      {
+        "name": "Poise",
+        "amount": 8
+      }
+    ],
+    "weight": 5.7
+  },
+  {
+    "id": "17f699a3975l0i0pm54n0l27gvvo5",
+    "name": "Maliketh's Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f699a3975l0i0pm54n0l27gvvo5.png",
+    "description": "Beast's greaves made of black iron and decorated with gold. Worn by Maliketh the Black Blade. Maliketh, Queen Marika's loyal half-brother, bore a blade imbued with Destined Death, and there was not one demigod who did not fear him. Champions knew what was at stake. Indeed, that is what made them champions.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 8
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 35
+      },
+      {
+        "name": "Focus",
+        "amount": 15
+      },
+      {
+        "name": "Vitality",
+        "amount": 31
+      },
+      {
+        "name": "Poise",
+        "amount": 11
+      }
+    ],
+    "weight": 7.9
+  },
+  {
+    "id": "17f69a056cfl0i0pm6kq7y9ufxm2t",
+    "name": "Mausoleum Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a056cfl0i0pm6kq7y9ufxm2t.png",
+    "description": "Greaves worn by headless soldiers who endlessly guard the Wandering Museum. Rust-worn and stained through unending conflict.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 31
+      },
+      {
+        "name": "Focus",
+        "amount": 14
+      },
+      {
+        "name": "Vitality",
+        "amount": 13
+      },
+      {
+        "name": "Poise",
+        "amount": 11
+      }
+    ],
+    "weight": 6.6
+  },
+  {
+    "id": "17f69a4792dl0i0pm6tuxc3efvpc5h",
+    "name": "Mausoleum Knight Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69a4792dl0i0pm6tuxc3efvpc5h.png",
+    "description": "Greaves worn by headless knights who endlessly guard the Wandering Mausoleum. Time has yet to dull their luster.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 8
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 34
+      },
+      {
+        "name": "Focus",
+        "amount": 15
+      },
+      {
+        "name": "Vitality",
+        "amount": 14
+      },
+      {
+        "name": "Poise",
+        "amount": 12
+      }
+    ],
+    "weight": 7.3
+  },
+  {
+    "id": "17f69bf199dl0i0pn8qhruxql5jeou",
+    "name": "Old Sorcerer Legwraps",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69bf199dl0i0pn8qhruxql5jeou.png",
+    "description": "Ragged waistcloth that extends to the thighs. Common amongst old-fashioned sorcerers.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 8
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 24
+      },
+      {
+        "name": "Robustness",
+        "amount": 13
+      },
+      {
+        "name": "Focus",
+        "amount": 39
+      },
+      {
+        "name": "Vitality",
+        "amount": 44
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.5
+  },
+  {
+    "id": "17f69820f0al0i0pnb1d742cf4p6ji",
+    "name": "Nox Monk Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69820f0al0i0pnb1d742cf4p6ji.png",
+    "description": "Greaves worn by the monks of the Eternal City. Long ago, the Nox invoked the ire of the Greater Will, and were banished deep underground. Now they live under a false night sky, in eternal anticipation of their liege. Of the coming age of the stars. And their Lord of Night.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5.4
+      },
+      {
+        "name": "Strike",
+        "amount": 5.8
+      },
+      {
+        "name": "Slash",
+        "amount": 5.4
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 7.1
+      },
+      {
+        "name": "Fire:",
+        "amount": 6.8
+      },
+      {
+        "name": "Ligt",
+        "amount": 6.8
+      },
+      {
+        "name": "Holy",
+        "amount": 5.8
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 39
+      },
+      {
+        "name": "Robustness",
+        "amount": 26
+      },
+      {
+        "name": "Focus",
+        "amount": 31
+      },
+      {
+        "name": "Vitality",
+        "amount": 31
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "id": "17f694ccf8bl0i0pnb11z5qi5zvmqri",
+    "name": "Omenkiller Boots",
+    "image": "https://eldenring.fanapis.com/images/armors/17f694ccf8bl0i0pnb11z5qi5zvmqri.png",
+    "description": "Long, stiff leather gloves worn by the Omenkillers.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 4
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 41
+      },
+      {
+        "name": "Robustness",
+        "amount": 17
+      },
+      {
+        "name": "Focus",
+        "amount": 29
+      },
+      {
+        "name": "Vitality",
+        "amount": 29
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 4.4
+  },
+  {
+    "id": "17f696781fbl0i0pnb8q58nbh8f7zd",
+    "name": "Nomadic Merchant's Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f696781fbl0i0pnb8q58nbh8f7zd.png",
+    "description": "Trousers of the nomadic merchants. These merchants once thrived as the Great Caravan, but after being accused of heretical beliefs, their entire clan was rounded up and buried alive far underground. Then, they chanted a curse of despair, and summoned the flame of frenzy.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 35
+      },
+      {
+        "name": "Robustness",
+        "amount": 20
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 29
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 4.4
+  },
+  {
+    "id": "17f699914dal0i0pnbd82h1myfw47k",
+    "name": "Page Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f699914dal0i0pnbd82h1myfw47k.png",
+    "description": "Trousers worn by pages who serve nobility and are mindful to keep them out of harm's way. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 24
+      },
+      {
+        "name": "Robustness",
+        "amount": 13
+      },
+      {
+        "name": "Focus",
+        "amount": 44
+      },
+      {
+        "name": "Vitality",
+        "amount": 44
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.5
+  },
+  {
+    "id": "17f69584223l0i0pnc8qfej2bqj2yh",
+    "name": "Night's Cavalry Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69584223l0i0pnc8qfej2bqj2yh.png",
+    "description": "Pitch-black greaves thinly painted with dried blood. Worn by the Night's Cavalry who ride funeral steeds.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 8
+      },
+      {
+        "name": "Strike",
+        "amount": 7
+      },
+      {
+        "name": "Slash",
+        "amount": 8
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 24
+      },
+      {
+        "name": "Robustness",
+        "amount": 35
+      },
+      {
+        "name": "Focus",
+        "amount": 15
+      },
+      {
+        "name": "Vitality",
+        "amount": 15
+      },
+      {
+        "name": "Poise",
+        "amount": 12
+      }
+    ],
+    "weight": 7.9
+  },
+  {
+    "id": "17f696ee179l0i0pne15nwa4b5cn9q",
+    "name": "Mushroom Legs",
+    "image": "https://eldenring.fanapis.com/images/armors/17f696ee179l0i0pne15nwa4b5cn9q.png",
+    "description": "Mushrooms found growing all over the body. These overgrown mushroom have colonized the Legs.  To those enraptured by the scarlet rot, they are holy vestments that root one to the earth. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 3
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 63
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 56
+      },
+      {
+        "name": "Vitality",
+        "amount": 47
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 3.1
+  },
+  {
+    "id": "17f696699bal0i0pnhqgtwbmow6dsr",
+    "name": "Omen Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f696699bal0i0pnhqgtwbmow6dsr.png",
+    "description": "Malformed greaves resembling an Omen with its horns cut off. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 10
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 10
+      },
+      {
+        "name": "Pierce",
+        "amount": 10
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 8
+      },
+      {
+        "name": "Ligt",
+        "amount": 8
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 41
+      },
+      {
+        "name": "Robustness",
+        "amount": 39
+      },
+      {
+        "name": "Focus",
+        "amount": 35
+      },
+      {
+        "name": "Vitality",
+        "amount": 47
+      },
+      {
+        "name": "Poise",
+        "amount": 24
+      }
+    ],
+    "weight": 14.3
+  },
+  {
+    "id": "17f69506269l0i0pnj7c4upe39du29",
+    "name": "Old Aristocrat Shoes",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69506269l0i0pnj7c4upe39du29.png",
+    "description": "Hard-wearing shoes made of leather. Travel attire worn by nobles in the capital. Garb favored by the aged.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 4
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 4
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 17
+      },
+      {
+        "name": "Vitality",
+        "amount": 20
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2
+  },
+  {
+    "id": "17f6951005fl0i0pnljvpplac2f0bg",
+    "name": "Noble's Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6951005fl0i0pnljvpplac2f0bg.png",
+    "description": "White trousers of superior craftsmanship. Worn by expatriated royalty. A gift of such rare beauty, a royal wouldn't disgrace their illustrious heritage even if found dead, in a ditch, in the middle of nowhere, while wearing such splendid raiment. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 29
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 47
+      },
+      {
+        "name": "Vitality",
+        "amount": 51
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 3.9
+  },
+  {
+    "id": "17f696a85bal0i0poje1hl0kjcvy48",
+    "name": "Ragged Loincloth",
+    "image": "https://eldenring.fanapis.com/images/armors/17f696a85bal0i0poje1hl0kjcvy48.png",
+    "description": "Greaves pieced together from scavenged metal.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 4
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 34
+      },
+      {
+        "name": "Robustness",
+        "amount": 20
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 26
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 3.1
+  },
+  {
+    "id": "17f6948eca0l0i0polm87e0y8owv0q",
+    "name": "Perfumer Sarong",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6948eca0l0i0polm87e0y8owv0q.png",
+    "description": "Sarong of an Erdtree Capital perfumer.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 37
+      },
+      {
+        "name": "Robustness",
+        "amount": 11
+      },
+      {
+        "name": "Focus",
+        "amount": 39
+      },
+      {
+        "name": "Vitality",
+        "amount": 41
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.5
+  },
+  {
+    "id": "17f695fa838l0i0pomm6s2dvz1m2gv",
+    "name": "Preceptor's Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695fa838l0i0pomm6s2dvz1m2gv.png",
+    "description": "Trousers of the magic preceptors who serve the Carian royals. Black and perfectly discreet. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 8
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 31
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 51
+      },
+      {
+        "name": "Vitality",
+        "amount": 47
+      },
+      {
+        "name": "Poise",
+        "amount": 2
+      }
+    ],
+    "weight": 3.9
+  },
+  {
+    "id": "17f6955fad0l0i0pomtthajgj5djj9",
+    "name": "Prophet Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6955fad0l0i0pomtthajgj5djj9.png",
+    "description": "Trousers of the exiled prophets who foresaw that their faith would end in flames — and were persecuted and driven from their homes as a result. Its fabric scrapes against their skin like a file, and the rickety cart wheel around the neck warns passers-by not to lend an ear to their meandering sermons.  ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 26
+      },
+      {
+        "name": "Robustness",
+        "amount": 14
+      },
+      {
+        "name": "Focus",
+        "amount": 47
+      },
+      {
+        "name": "Vitality",
+        "amount": 51
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 3.1
+  },
+  {
+    "id": "17f69467bb4l0i0pon23cmftuh3stj",
+    "name": "Queen's Leggings",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69467bb4l0i0pon23cmftuh3stj.png",
+    "description": "Leggings indicating the highest order of sorcerer. Worn by Rennala, Queen of the Full Moon. When Rennala, head of both the Academy of Raya Lucaria and the Carian royal family, lost her husband Radagon, her heart went along with him. And then, those at the academy realized. That Rennala was no champion, after all. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 1
+      },
+      {
+        "name": "Pierce",
+        "amount": 0
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 14
+      },
+      {
+        "name": "Focus",
+        "amount": 37
+      },
+      {
+        "name": "Vitality",
+        "amount": 41
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2
+  },
+  {
+    "id": "17f695916ael0i0poomo5zw8rgcb",
+    "name": "Raya Lucarian Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695916ael0i0poomo5zw8rgcb.png",
+    "description": "Greaves worn by Raya Lucaria Academy soldiers. Rust-worn and stained through unending conflict. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 4
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 34
+      },
+      {
+        "name": "Focus",
+        "amount": 14
+      },
+      {
+        "name": "Vitality",
+        "amount": 14
+      },
+      {
+        "name": "Poise",
+        "amount": 10
+      }
+    ],
+    "weight": 6.6
+  },
+  {
+    "id": "17f69734256l0i0pop4lrxhhalyism",
+    "name": "Prisoner Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69734256l0i0pop4lrxhhalyism.png",
+    "description": "Tattered trousers. Worn by a prisoner convicted of an appalling crime. Never once washed, every fiber is filthy. The smell is beyond belief.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 26
+      },
+      {
+        "name": "Robustness",
+        "amount": 14
+      },
+      {
+        "name": "Focus",
+        "amount": 39
+      },
+      {
+        "name": "Vitality",
+        "amount": 39
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2
+  },
+  {
+    "id": "17f69bee0bel0i0pos47sjb9zulkdo",
+    "name": "Redmane Knight Greaves",
+    "image": null,
+    "description": "Black iron greaves worn by knights who fought by General Radahn's side. Time has yet to dull their luster.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 34
+      },
+      {
+        "name": "Focus",
+        "amount": 15
+      },
+      {
+        "name": "Vitality",
+        "amount": 15
+      },
+      {
+        "name": "Poise",
+        "amount": 11
+      }
+    ],
+    "weight": 7.3
+  },
+  {
+    "id": "17f697c5049l0i0pox3ll9j2a4c9j",
+    "name": "Radahn's Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f697c5049l0i0pox3ll9j2a4c9j.png",
+    "description": "Greaves depicting the golden lion. Worn by General Radahn. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 10
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 10
+      },
+      {
+        "name": "Pierce",
+        "amount": 10
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 8
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 37
+      },
+      {
+        "name": "Robustness",
+        "amount": 61
+      },
+      {
+        "name": "Focus",
+        "amount": 26
+      },
+      {
+        "name": "Vitality",
+        "amount": 24
+      },
+      {
+        "name": "Poise",
+        "amount": 17
+      }
+    ],
+    "weight": 10.8
+  },
+  {
+    "id": "17f694275f3l0i0poxfwbsjqcjmsq",
+    "name": "Radahn Soldier Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f694275f3l0i0poxfwbsjqcjmsq.png",
+    "description": "Greaves worn by soldiers who fought by General Radahn's side. Rust-worn and stained through unending conflict.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 4
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 31
+      },
+      {
+        "name": "Focus",
+        "amount": 14
+      },
+      {
+        "name": "Vitality",
+        "amount": 15
+      },
+      {
+        "name": "Poise",
+        "amount": 10
+      }
+    ],
+    "weight": 6.6
+  },
+  {
+    "id": "17f6953773bl0i0pptul3bp3wpgwpm",
+    "name": "Royal Knight Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6953773bl0i0pptul3bp3wpgwpm.png",
+    "description": "Silver greaves of Loretta, a knight who served Miquella's Haligtree. Loretta, once a royal Carian knight, went on a journey in search of a haven for Albinaurics, and determined that the Haligtree was their best chance for eventual salvation.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 9
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 10
+      },
+      {
+        "name": "Pierce",
+        "amount": 9
+      },
+      {
+        "name": "Magic",
+        "amount": 8
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 31
+      },
+      {
+        "name": "Robustness",
+        "amount": 41
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 22
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 9.6
+  },
+  {
+    "id": "17f69926916l0i0ppuay8pv5dyeuhm",
+    "name": "Ronin's Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69926916l0i0ppuay8pv5dyeuhm.png",
+    "description": "Greaves of the man who calls himself Shabriri. Highly functional and heavily worn.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 46
+      },
+      {
+        "name": "Robustness",
+        "amount": 35
+      },
+      {
+        "name": "Focus",
+        "amount": 36
+      },
+      {
+        "name": "Vitality",
+        "amount": 38
+      },
+      {
+        "name": "Poise",
+        "amount": 5
+      }
+    ],
+    "weight": 5.7
+  },
+  {
+    "id": "17f6968ce06l0i0ppwtihb11ddohl",
+    "name": "Royal Remains Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6968ce06l0i0ppwtihb11ddohl.png",
+    "description": "Greaves graced with gold human bones. Worn by the unspeaking adherent of Sir Gideon the All-Knowing.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 4
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 35
+      },
+      {
+        "name": "Focus",
+        "amount": 15
+      },
+      {
+        "name": "Vitality",
+        "amount": 7
+      },
+      {
+        "name": "Poise",
+        "amount": 9
+      }
+    ],
+    "weight": 6.6
+  },
+  {
+    "id": "17f69338194l0i0ppyr6tos8ohwj6f",
+    "name": "Sage Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69338194l0i0ppyr6tos8ohwj6f.png",
+    "description": "Thick burgundy trousers. Attire of the wise sages who were deemed heretical. Evidence that the wearer was driven from town.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 22
+      },
+      {
+        "name": "Robustness",
+        "amount": 13
+      },
+      {
+        "name": "Focus",
+        "amount": 39
+      },
+      {
+        "name": "Vitality",
+        "amount": 41
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.5
+  },
+  {
+    "id": "17f69335b9cl0i0pq12v7srw2r2bo",
+    "name": "Shaman Leggings",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69335b9cl0i0pq12v7srw2r2bo.png",
+    "description": "Leggings fashioned from bristly pelts. Worn by ancestral follower shamans.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 4
+      },
+      {
+        "name": "Fire",
+        "amount": 4
+      },
+      {
+        "name": "Ligt",
+        "amount": 4
+      },
+      {
+        "name": "Holy",
+        "amount": 3
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 39
+      },
+      {
+        "name": "Robustness",
+        "amount": 26
+      },
+      {
+        "name": "Focus",
+        "amount": 34
+      },
+      {
+        "name": "Vitality",
+        "amount": 22
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 3.1
+  },
+  {
+    "id": "17f698e65e9l0i0pq2pl5205ajnfq8",
+    "name": "Snow Witch Skirt",
+    "image": "https://eldenring.fanapis.com/images/armors/17f698e65e9l0i0pq2pl5205ajnfq8.png",
+    "description": "Witch's skirt in the color of snow. Once worn by the snowy crone who the young Ranni encountered deep in the woods. She was a witch, and well versed in cold sorceries. It is said that the doll that houses Ranni's soul was modeled after her. That old witch was Ranni's secret mentor.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 24
+      },
+      {
+        "name": "Robustness",
+        "amount": 20
+      },
+      {
+        "name": "Focus",
+        "amount": 44
+      },
+      {
+        "name": "Vitality",
+        "amount": 44
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 3.1
+  },
+  {
+    "id": "17f696addc9l0i0pq2z3pa3ns5r3n8",
+    "name": "Scaled Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f696addc9l0i0pq2z3pa3ns5r3n8.png",
+    "description": "Gauntlets worn by Old Knight Istvan. The corroded metal is reinforced with rock-hard scales, making it high effective against non-physical attacks. Istvan is one of a few wizened Tarnished who survived to this day.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 9
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 10
+      },
+      {
+        "name": "Pierce",
+        "amount": 9
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 35
+      },
+      {
+        "name": "Robustness",
+        "amount": 51
+      },
+      {
+        "name": "Focus",
+        "amount": 24
+      },
+      {
+        "name": "Vitality",
+        "amount": 24
+      },
+      {
+        "name": "Poise",
+        "amount": 16
+      }
+    ],
+    "weight": 9.9
+  },
+  {
+    "id": "17f694aee12l0i0pq3r741go0agkve",
+    "name": "Rotten Duelist Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f694aee12l0i0pq3r741go0agkve.png",
+    "description": "Greaves wrapped with bronze snakes, eaten through by scarlet rot. Worn by gladiators who were driven from the colosseum. The wearer becomes a slightly easier target for foes. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 7
+      },
+      {
+        "name": "Pierce",
+        "amount": 7
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 35
+      },
+      {
+        "name": "Robustness",
+        "amount": 35
+      },
+      {
+        "name": "Focus",
+        "amount": 15
+      },
+      {
+        "name": "Vitality",
+        "amount": 15
+      },
+      {
+        "name": "Poise",
+        "amount": 10
+      }
+    ],
+    "weight": 7.3
+  },
+  {
+    "id": "17f695f474el0i0pq4ahf7oqqv96qc",
+    "name": "Spellblade's Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695f474el0i0pq4ahf7oqqv96qc.png",
+    "description": "Glintstone sorcerer Rogier's traveling attire, graced with an intricate, aristocratic decoration. Strengthens glintstone sorcery skills.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 2
+      },
+      {
+        "name": "Strike",
+        "amount": 2
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 25
+      },
+      {
+        "name": "Robustness",
+        "amount": 13
+      },
+      {
+        "name": "Focus",
+        "amount": 38
+      },
+      {
+        "name": "Vitality",
+        "amount": 41
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.6
+  },
+  {
+    "id": "17f6937579el0i0pq4dn4l0mcnf8of",
+    "name": "Sorcerer Leggings",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6937579el0i0pq4dn4l0mcnf8of.png",
+    "description": "Leggings worn by Raya Lucaria's magic scholars. Made by wrapping a simple cloth around the legs.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 1
+      },
+      {
+        "name": "Strike",
+        "amount": 1
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 4
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 2
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 15
+      },
+      {
+        "name": "Robustness",
+        "amount": 25
+      },
+      {
+        "name": "Focus",
+        "amount": 25
+      },
+      {
+        "name": "Death",
+        "amount": 19
+      },
+      {
+        "name": "",
+        "amount": 0
+      }
+    ],
+    "weight": 2
+  },
+  {
+    "id": "17f69542e8fl0i0pr2zy2b4ue7gwb",
+    "name": "Traveler's Slops",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69542e8fl0i0pr2zy2b4ue7gwb.png",
+    "description": "Slops of a traveling perfumer of no renown. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 2
+      },
+      {
+        "name": "Pierce",
+        "amount": 1
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 34
+      },
+      {
+        "name": "Robustness",
+        "amount": 13
+      },
+      {
+        "name": "Focus",
+        "amount": 41
+      },
+      {
+        "name": "Vitality",
+        "amount": 39
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 2.5
+  },
+  {
+    "id": "17f6945e6ael0i0pr623lqn3c1udgz",
+    "name": "Veteran's Greaves",
+    "image": null,
+    "description": "An old greaves that has seen many battles.Worn by Niall, the great veteran general of Sol.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 10
+      },
+      {
+        "name": "Strike",
+        "amount": 9
+      },
+      {
+        "name": "Slash",
+        "amount": 10
+      },
+      {
+        "name": "Pierce",
+        "amount": 10
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 8
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 39
+      },
+      {
+        "name": "Robustness",
+        "amount": 56
+      },
+      {
+        "name": "Focus",
+        "amount": 29
+      },
+      {
+        "name": "Vitality",
+        "amount": 29
+      },
+      {
+        "name": "Poise",
+        "amount": 22
+      }
+    ],
+    "weight": 11.7
+  },
+  {
+    "id": "17f6994f78al0i0pr6h1pvaerk641i",
+    "name": "Traveler's Boots",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6994f78al0i0pr6h1pvaerk641i.png",
+    "description": "Light yet sturdy leather boots.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 24
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 47
+      },
+      {
+        "name": "Vitality",
+        "amount": 47
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 3.1
+  },
+  {
+    "id": "17f69bca269l0i0pr7lry4j301atl",
+    "name": "Traveling Maiden Boots",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69bca269l0i0pr7lry4j301atl.png",
+    "description": "Boots worn by traveling maidens.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 3
+      },
+      {
+        "name": "Slash",
+        "amount": 3
+      },
+      {
+        "name": "Pierce",
+        "amount": 2
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 7
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 7
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 29
+      },
+      {
+        "name": "Robustness",
+        "amount": 15
+      },
+      {
+        "name": "Focus",
+        "amount": 47
+      },
+      {
+        "name": "Vitality",
+        "amount": 51
+      },
+      {
+        "name": "Poise",
+        "amount": 1
+      }
+    ],
+    "weight": 3.1
+  },
+  {
+    "id": "17f69359c78l0i0pr7xhn2h4bop5rd",
+    "name": "Twinned Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69359c78l0i0pr7xhn2h4bop5rd.png",
+    "description": "Greaves depicting entwined twins of gold and silver. ",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 7
+      },
+      {
+        "name": "Slash",
+        "amount": 8
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 5
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 34
+      },
+      {
+        "name": "Focus",
+        "amount": 13
+      },
+      {
+        "name": "Vitality",
+        "amount": 34
+      },
+      {
+        "name": "Poise",
+        "amount": 10
+      }
+    ],
+    "weight": 7.3
+  },
+  {
+    "id": "17f6983e0c4l0i0pr8jcvho8sjpyrv",
+    "name": "Tree Sentinel Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6983e0c4l0i0pr8jcvho8sjpyrv.png",
+    "description": "Golden greaves of the heavy cavalry Tree Sentinels who serve the Erdtree.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 10
+      },
+      {
+        "name": "Strike",
+        "amount": 8
+      },
+      {
+        "name": "Slash",
+        "amount": 10
+      },
+      {
+        "name": "Pierce",
+        "amount": 10
+      },
+      {
+        "name": "Magic",
+        "amount": 7
+      },
+      {
+        "name": "Fire",
+        "amount": 9
+      },
+      {
+        "name": "Ligt",
+        "amount": 7
+      },
+      {
+        "name": "Holy",
+        "amount": 8
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 41
+      },
+      {
+        "name": "Robustness",
+        "amount": 56
+      },
+      {
+        "name": "Focus",
+        "amount": 26
+      },
+      {
+        "name": "Vitality",
+        "amount": 29
+      },
+      {
+        "name": "Poise",
+        "amount": 17
+      }
+    ],
+    "weight": 11.7
+  },
+  {
+    "id": "17f6999dba9l0i0pr9eapst72vk1pi",
+    "name": "War Surgeon Trousers",
+    "image": "https://eldenring.fanapis.com/images/armors/17f6999dba9l0i0pr9eapst72vk1pi.png",
+    "description": "Bloodstained trousers of the war surgeons who were effectively mercy killers. Of the surgeons that were abducted by the Lord of Blood none were able to tame the accursed blood. None but Varré, that is; though he was an exception",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 3
+      },
+      {
+        "name": "Strike",
+        "amount": 4
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 3
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 33
+      },
+      {
+        "name": "Robustness",
+        "amount": 23
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 31
+      },
+      {
+        "name": "Poise",
+        "amount": 0
+      }
+    ],
+    "weight": 4.2
+  },
+  {
+    "id": "17f69a73942l0i0pr9fp2dqvcuso7j",
+    "name": "Vulgar Militia Greaves",
+    "image": null,
+    "description": "Greaves worn by lean, mean, and filthy militiamen.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 6
+      },
+      {
+        "name": "Slash",
+        "amount": 5
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 6
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 44
+      },
+      {
+        "name": "Robustness",
+        "amount": 24
+      },
+      {
+        "name": "Focus",
+        "amount": 34
+      },
+      {
+        "name": "Vitality",
+        "amount": 34
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "id": "17f69b331cdl0i0prazfpca0hkqnwd",
+    "name": "Warrior Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69b331cdl0i0prazfpca0hkqnwd.png",
+    "description": "Greaves of a nomadic warrior. Crafted from sturdy leather.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 4
+      },
+      {
+        "name": "Pierce",
+        "amount": 4
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 39
+      },
+      {
+        "name": "Robustness",
+        "amount": 26
+      },
+      {
+        "name": "Focus",
+        "amount": 31
+      },
+      {
+        "name": "Vitality",
+        "amount": 31
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 4.8
+  },
+  {
+    "id": "17f69605a57l0i0prb6fehlfp6ir4g",
+    "name": "Vagabond Knight Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69605a57l0i0prb6fehlfp6ir4g.png",
+    "description": "Greaves of a knight banished from their motherland. Dirty and battered after enduring a lengthy vagabond journey.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 7
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 6
+      },
+      {
+        "name": "Magic",
+        "amount": 5
+      },
+      {
+        "name": "Fire",
+        "amount": 5
+      },
+      {
+        "name": "Ligt",
+        "amount": 4
+      },
+      {
+        "name": "Holy",
+        "amount": 4
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 20
+      },
+      {
+        "name": "Robustness",
+        "amount": 34
+      },
+      {
+        "name": "Focus",
+        "amount": 13
+      },
+      {
+        "name": "Vitality",
+        "amount": 13
+      },
+      {
+        "name": "Poise",
+        "amount": 8
+      }
+    ],
+    "weight": 5.7
+  },
+  {
+    "id": "17f69593610l0i0prq4f20zg6h5g1w",
+    "name": "White Reed Greaves",
+    "image": "https://eldenring.fanapis.com/images/armors/17f69593610l0i0prq4f20zg6h5g1w.png",
+    "description": "Greaves of the White Reeds, fashioned from banded iron plates. Worn by the Inabam head disciples of the great swordsman Okina. The Inaba traveled in pursuit of not only the master who abandoned them, but also proper deaths, won honorably through hard-fought combat. To be a White Reed is to seek death; fitting for the Inaba, who desired nothingmore than to die by the sword.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 5
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 6
+      },
+      {
+        "name": "Fire",
+        "amount": 6
+      },
+      {
+        "name": "Ligt",
+        "amount": 6
+      },
+      {
+        "name": "Holy",
+        "amount": 5
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 41
+      },
+      {
+        "name": "Robustness",
+        "amount": 26
+      },
+      {
+        "name": "Focus",
+        "amount": 34
+      },
+      {
+        "name": "Vitality",
+        "amount": 31
+      },
+      {
+        "name": "Poise",
+        "amount": 4
+      }
+    ],
+    "weight": 5.1
+  },
+  {
+    "id": "17f695e6e41l0i0prslappmip8fo8i",
+    "name": "Zamor Legwraps",
+    "image": "https://eldenring.fanapis.com/images/armors/17f695e6e41l0i0prslappmip8fo8i.png",
+    "description": "Legwraps worn by knights of Zamor, hailed as heroes in the War against the Giants. These long-lived warriors, clad in biting, freezing winds, are said to have been the mortal enemies of the Fire Giants since time immemorial.",
+    "category": "Leg Armor",
+    "dmgNegation": [
+      {
+        "name": "Phy",
+        "amount": 6
+      },
+      {
+        "name": "Strike",
+        "amount": 5
+      },
+      {
+        "name": "Slash",
+        "amount": 6
+      },
+      {
+        "name": "Pierce",
+        "amount": 5
+      },
+      {
+        "name": "Magic",
+        "amount": 4
+      },
+      {
+        "name": "Fire",
+        "amount": 4
+      },
+      {
+        "name": "Ligt",
+        "amount": 3
+      },
+      {
+        "name": "Holy",
+        "amount": 4
+      }
+    ],
+    "resistance": [
+      {
+        "name": "Immunity",
+        "amount": 11
+      },
+      {
+        "name": "Robustness",
+        "amount": 37
+      },
+      {
+        "name": "Focus",
+        "amount": 0
+      },
+      {
+        "name": "Vitality",
+        "amount": 7
+      },
+      {
+        "name": "Poise",
+        "amount": 7
+      }
+    ],
+    "weight": 5.1
+  }
+]
