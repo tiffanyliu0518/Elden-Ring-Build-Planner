@@ -514,7 +514,7 @@
   {
     "id": "17f69727c7el0i0o6hgopjq1dozrl",
     "name": "Black Knife Gauntlets",
-    "image": null,
+    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/black_knife_gauntlets_elden_ring_wiki_guide_200px.png",
     "description": "Gauntlets used by the Black Knife Assassins. Crafted with scale armor that makes no sound. The assassins that carried out the deeds of the Night of the Black Knives were all women, and rumored to be Numen who had close ties with Marika herself. ",
     "category": "Gauntlets",
     "dmgNegation": [
@@ -2498,7 +2498,7 @@
   {
     "id": "17f69654affl0i0oc85nksgx9drm8",
     "name": "Highwayman Gauntlets",
-    "image": null,
+    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/highwayman_gauntlets_elden_ring_wiki_guide_200px.png",
     "description": "Hideously stained and dented gauntlets. Worn by former foot soldiers who have turned to banditry.",
     "category": "Gauntlets",
     "dmgNegation": [
@@ -2754,7 +2754,7 @@
   {
     "id": "17f69633e9el0i0ocfz1gvzw0dagvj",
     "name": "Hoslow's Gauntlets",
-    "image": null,
+    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/hoslows_gauntlets_elden_ring_wiki_guide_200px.png",
     "description": "Garish silver gauntlets decorated with red embellishments. Passed down through the Hoslow family.",
     "category": "Gauntlets",
     "dmgNegation": [
@@ -2818,7 +2818,7 @@
   {
     "id": "17f6956de05l0i0ocg5j3bh9loxbym",
     "name": "Kaiden Gauntlets",
-    "image": null,
+    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/kaiden_gauntlets_elden_ring_wiki_guide_200px.png",
     "description": "Gauntlets worn by Kaiden sellswords.",
     "category": "Gauntlets",
     "dmgNegation": [
@@ -3458,7 +3458,7 @@
   {
     "id": "17f698690e2l0i0odxho9jo3dx4m2t",
     "name": "Leather Gloves",
-    "image": null,
+    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/leather_gloves_elden_ring_wiki_guide_200px.png",
     "description": "Lightweight and battle-proven leather gloves worn by a savvy soldier. Many admire the wearer of this armor for his chivalrous and forthright spirit.",
     "category": "Gauntlets",
     "dmgNegation": [
@@ -4864,70 +4864,6 @@
     "weight": 3.1
   },
   {
-    "id": "17f693ced0bl0i0oh402gmm7bjbdty",
-    "name": "Redmane Knight Helm",
-    "image": "https://eldenring.fanapis.com/images/armors/17f693ced0bl0i0oh402gmm7bjbdty.png",
-    "description": null,
-    "category": "Gauntlets",
-    "dmgNegation": [
-      {
-        "name": "Phy",
-        "amount": 3
-      },
-      {
-        "name": "Strike",
-        "amount": 2
-      },
-      {
-        "name": "Slash",
-        "amount": 3
-      },
-      {
-        "name": "Pierce",
-        "amount": 3
-      },
-      {
-        "name": "Magic",
-        "amount": 2
-      },
-      {
-        "name": "Fire",
-        "amount": 3
-      },
-      {
-        "name": "Ligt",
-        "amount": 2
-      },
-      {
-        "name": "Holy",
-        "amount": 2
-      }
-    ],
-    "resistance": [
-      {
-        "name": "Immunity",
-        "amount": 12
-      },
-      {
-        "name": "Robustness",
-        "amount": 18
-      },
-      {
-        "name": "Focus",
-        "amount": 8
-      },
-      {
-        "name": "Vitality",
-        "amount": 8
-      },
-      {
-        "name": "Poise",
-        "amount": 4
-      }
-    ],
-    "weight": 3.9
-  },
-  {
     "id": "17f6965e1c4l0i0oh5u13b51hwsrb6i",
     "name": "Queen's Bracelets",
     "image": "https://eldenring.fanapis.com/images/armors/17f6965e1c4l0i0oh5u13b51hwsrb6i.png",
@@ -5058,7 +4994,7 @@
   {
     "id": "17f699b7af3l0i0oipdsndvnog1dpo",
     "name": "Traveler's Gloves",
-    "image": null,
+    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/travelers_manchettes_elden_ring_wiki_guide_200px.png",
     "description": "Gloves of a traveling perfumer of no renown. ",
     "category": "Gauntlets",
     "dmgNegation": [
@@ -5506,7 +5442,7 @@
   {
     "id": "17f69601d4al0i0oiyy2ixfq183jgb",
     "name": "Veteran's Gauntlets",
-    "image": null,
+    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/veterans_gauntlets_elden_ring_wiki_guide_200px.png",
     "description": "Old gauntlets that has seen many battles. Worn by Niall, the veteran general of Sol.",
     "category": "Gauntlets",
     "dmgNegation": [
@@ -5634,7 +5570,7 @@
   {
     "id": "17f693a7860l0i0oknl7694p0mh7v",
     "name": "Vulgar Militia Gauntlets",
-    "image": null,
+    "image": "https://eldenring.wiki.fextralife.com/file/Elden-Ring/vulgar_militia_gauntlets_elden_ring_wiki_guide_200px.png",
     "description": "Gauntlets worn by lean, mean, and filthy militiamen.",
     "category": "Gauntlets",
     "dmgNegation": [

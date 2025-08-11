@@ -7,25 +7,22 @@ interface ArmorItem {
   id: string;
   name: string;
 }
-
 interface fullArmorItem {
   id: string;
   name: string;
   image: string;
 }
 
-const globalStyles = ` * {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+interface WeaponItem {
+  id: string;
+  name: string;
 }
-  html, body, #root {
-  width: 100%;
-  height: 100%;
-  margin: 0;
-  padding: 0;
-} `;
 
+interface fullWeaponItem {
+  id: string;
+  name: string;
+  image: string;
+}
 
 
 function App() {
@@ -38,6 +35,15 @@ function App() {
   const [selectedChest, setSelectedChest] = useState<fullArmorItem | null>(null);
   const [selectedLegs, setSelectedLegs] = useState<fullArmorItem | null>(null);
   const [selectedGauntlets, setSelectedGauntlets] = useState<fullArmorItem | null>(null);
+
+  const [weapons, setWeapons] = useState<WeaponItem[]> ([]);
+  const [selectedLWeapon1, setSelectedLWeapon1] = useState<fullWeaponItem | null>(null);
+  const [selectedLWeapon2, setSelectedLWeapon2] = useState<fullWeaponItem | null>(null);
+  const [selectedLWeapon3, setSelectedLWeapon3] = useState<fullWeaponItem | null>(null);
+  const [selectedRWeapon1, setSelectedRWeapon1] = useState<fullWeaponItem | null>(null);
+  const [selectedRWeapon2, setSelectedRWeapon2] = useState<fullWeaponItem | null>(null);
+  const [selectedRWeapon3, setSelectedRWeapon3] = useState<fullWeaponItem | null>(null);
+
 
   useEffect(() => {
 
@@ -52,6 +58,9 @@ function App() {
 
     fetch('/data/gauntlets_dropdown.json').then(res => res.json())
       .then(data => setGauntlets(data))
+
+      fetch('/data/weapons_dropdown.json').then(res => res.json())
+      .then(data => setWeapons(data))
     }, []);
 
     const helmetChange = async (e: React.ChangeEvent<HTMLSelectElement>) => {
@@ -61,7 +70,7 @@ function App() {
         return;
       }
 
-      const response = await fetch('data/helmets.json');
+      const response = await fetch('/data/helmets.json');
       const fullHelmets = await response.json();
       const helmet = fullHelmets.find((h: fullArmorItem) => h.id === check);
       setSelectedHelmet(helmet || null);
@@ -106,6 +115,30 @@ function App() {
       setSelectedLegs(legs || null);
     }
 
+    const weaponChangeHandler = (setSelectedWeapon: (weapon: fullWeaponItem | null) => void) =>
+      async (e: React.ChangeEvent<HTMLSelectElement>) => {
+        const check = e.target.value;
+        if (!check) {
+          setSelectedWeapon(null);
+          return;
+        }
+
+        const response = await fetch('/data/weapons.json');
+        const fullWeapons = await response.json();
+        const weapon = fullWeapons.find((w: fullWeaponItem) => w.id === check);
+        setSelectedWeapon(weapon || null);
+      }
+
+    const Lweapon1Change = weaponChangeHandler(setSelectedLWeapon1);
+    const Lweapon2Change = weaponChangeHandler(setSelectedLWeapon2);
+    const Lweapon3Change = weaponChangeHandler(setSelectedLWeapon3);
+    const Rweapon1Change = weaponChangeHandler(setSelectedRWeapon1);
+    const Rweapon2Change = weaponChangeHandler(setSelectedRWeapon2);
+    const Rweapon3Change = weaponChangeHandler(setSelectedRWeapon3);
+
+
+
+
   return (
     <div className = " bg-gray-300 p-6">
 
@@ -115,10 +148,10 @@ function App() {
       <div className = "flex gap-6 justify-center">
 
         {/* left section to select things */}
-        <div className = "flex gap-4 mb-8">
+        <div className = "flex flex-col gap-4 mb-8">
 
           {/* section for armor at the top */}
-          <div className = "flex gap-4 mb-8">
+          <div className = "flex gap-4 mb-8 justify-center">
 
             {/* helemt stuff */}
             <div className = "text-center">
@@ -154,6 +187,7 @@ function App() {
               </div>
             </div>
 
+            {/* gauntlets */}
             <div className = "text-center">
               <div className = "text-sm text-gray-700 mb-2"> Select Gauntlets </div>
 
@@ -170,6 +204,7 @@ function App() {
               </div>
             </div>
 
+            {/* legs */}
             <div className = "text-center">
               <div className = "text-sm text-gray-700 mb-2"> Select Leg Piece </div>
 
@@ -185,7 +220,110 @@ function App() {
                 )}
               </div>
             </div>
-          
+          </div>
+
+
+          {/* WEAPONS */}
+          <div className = "flex gap-4 justify-center">
+              {/* left hand stuff */}
+
+            {/* left hand 1 */}
+            <div className = "text-center">
+              <div className = "text-xs text-gray-700 mb-2"> Select Left Hand Weapon 1 </div>
+
+              <select className = "w-full text-center text-xs mb-2 p-1 border border-gray-400 rounded" onChange = {Lweapon1Change}>
+                <option value = ""> None </option> 
+                {weapons.map (weapon => (
+                  <option key = {weapon.id} value = {weapon.id}> {weapon.name} </option>
+                ))}
+              </select>
+              <div className = "w-18 h-18 bg-black mx-auto">
+                {selectedLWeapon1 && selectedLWeapon1.image && (
+                  <img src = {selectedLWeapon1.image} alt = {selectedLWeapon1.name} className = "w-full h-full object-cover"/>
+                )}
+              </div>
+            </div>
+
+            <div className = "text-center">
+              <div className = "text-xs text-gray-700 mb-2"> Select Left Hand Weapon 2 </div>
+
+              <select className = "w-full text-center text-xs mb-2 p-1 border border-gray-400 rounded" onChange = {Lweapon2Change}>
+                <option value = ""> None </option> 
+                {weapons.map (weapon => (
+                  <option key = {weapon.id} value = {weapon.id}> {weapon.name} </option>
+                ))}
+              </select>
+              <div className = "w-18 h-18 bg-black mx-auto">
+                {selectedLWeapon2 && selectedLWeapon2.image && (
+                  <img src = {selectedLWeapon2.image} alt = {selectedLWeapon2.name} className = "w-full h-full object-cover"/>
+                )}
+              </div>
+            </div>
+
+            <div className = "text-center">
+              <div className = "text-xs text-gray-700 mb-2"> Select Left Hand Weapon 3 </div>
+
+              <select className = "w-full text-center text-xs mb-2 p-1 border border-gray-400 rounded" onChange = {Lweapon3Change}>
+                <option value = ""> None </option> 
+                {weapons.map (weapon => (
+                  <option key = {weapon.id} value = {weapon.id}> {weapon.name} </option>
+                ))}
+              </select>
+              <div className = "w-18 h-18 bg-black mx-auto">
+                {selectedLWeapon3 && selectedLWeapon3.image && (
+                  <img src = {selectedLWeapon3.image} alt = {selectedLWeapon3.name} className = "w-full h-full object-cover"/>
+                )}
+              </div>
+            </div>
+
+            <div className = "text-center">
+              <div className = "text-xs text-gray-700 mb-2"> Select Right Hand Weapon 1 </div>
+
+              <select className = "w-full text-center text-xs mb-2 p-1 border border-gray-400 rounded" onChange = {Rweapon1Change}>
+                <option value = ""> None </option> 
+                {weapons.map (weapon => (
+                  <option key = {weapon.id} value = {weapon.id}> {weapon.name} </option>
+                ))}
+              </select>
+              <div className = "w-18 h-18 bg-black mx-auto">
+                {selectedRWeapon1 && selectedRWeapon1.image && (
+                  <img src = {selectedRWeapon1.image} alt = {selectedRWeapon1.name} className = "w-full h-full object-cover"/>
+                )}
+              </div>
+            </div>
+
+            <div className = "text-center">
+              <div className = "text-xs text-gray-700 mb-2"> Select Right Hand Weapon 2 </div>
+
+              <select className = "w-full text-center text-xs mb-2 p-1 border border-gray-400 rounded" onChange = {Rweapon2Change}>
+                <option value = ""> None </option> 
+                {weapons.map (weapon => (
+                  <option key = {weapon.id} value = {weapon.id}> {weapon.name} </option>
+                ))}
+              </select>
+              <div className = "w-18 h-18 bg-black mx-auto">
+                {selectedRWeapon2 && selectedRWeapon2.image && (
+                  <img src = {selectedRWeapon2.image} alt = {selectedRWeapon2.name} className = "w-full h-full object-cover"/>
+                )}
+              </div>
+            </div>
+
+            <div className = "text-center">
+              <div className = "text-xs text-gray-700 mb-2"> Select Right Hand Weapon 3 </div>
+
+              <select className = "w-full text-center text-xs mb-2 p-1 border border-gray-400 rounded" onChange = {Rweapon3Change}>
+                <option value = ""> None </option> 
+                {weapons.map (weapon => (
+                  <option key = {weapon.id} value = {weapon.id}> {weapon.name} </option>
+                ))}
+              </select>
+              <div className = "w-18 h-18 bg-black mx-auto">
+                {selectedRWeapon3 && selectedRWeapon3.image && (
+                  <img src = {selectedRWeapon3.image} alt = {selectedRWeapon3.name} className = "w-full h-full object-cover"/>
+                )}
+              </div>
+            </div>
+
           </div>
 
         </div>
