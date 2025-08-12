@@ -24,6 +24,16 @@ interface fullWeaponItem {
   image: string;
 }
 
+interface TalismanItem {
+  id: string;
+  name: string;
+}
+
+interface fullTalismanItem {
+  id: string;
+  name: string;
+  image: string;
+}
 
 function App() {
   const [helmets, setHelmets] = useState<ArmorItem[]>([]);
@@ -44,6 +54,13 @@ function App() {
   const [selectedRWeapon2, setSelectedRWeapon2] = useState<fullWeaponItem | null>(null);
   const [selectedRWeapon3, setSelectedRWeapon3] = useState<fullWeaponItem | null>(null);
 
+  const [talismans, setTalismans] = useState<TalismanItem[]> ([]);
+  const [selectedTalisman1, setSelectedTalisman1] = useState<fullTalismanItem | null>(null);
+  const [selectedTalisman2, setSelectedTalisman2] = useState<fullTalismanItem | null>(null);
+  const [selectedTalisman3, setSelectedTalisman3] = useState<fullTalismanItem | null>(null);
+  const [selectedTalisman4, setSelectedTalisman4] = useState<fullTalismanItem | null>(null);
+
+
 
   useEffect(() => {
 
@@ -59,8 +76,12 @@ function App() {
     fetch('/data/gauntlets_dropdown.json').then(res => res.json())
       .then(data => setGauntlets(data))
 
-      fetch('/data/weapons_dropdown.json').then(res => res.json())
+    fetch('/data/weapons_dropdown.json').then(res => res.json())
       .then(data => setWeapons(data))
+
+    fetch('/data/talismans_dropdown.json').then(res => res.json())
+      .then(data => setTalismans(data))
+
     }, []);
 
     const helmetChange = async (e: React.ChangeEvent<HTMLSelectElement>) => {
@@ -136,7 +157,24 @@ function App() {
     const Rweapon2Change = weaponChangeHandler(setSelectedRWeapon2);
     const Rweapon3Change = weaponChangeHandler(setSelectedRWeapon3);
 
+    const talismanChangeHandler = (setSelectedTalisman: (weapon: fullTalismanItem | null) => void) =>
+      async (e: React.ChangeEvent<HTMLSelectElement>) => {
+        const check = e.target.value;
+        if (!check) {
+          setSelectedTalisman(null);
+          return;
+        }
 
+        const response = await fetch('/data/talismans.json');
+        const fullTalismans = await response.json();
+        const talisman = fullTalismans.find((w: fullTalismanItem) => w.id === check);
+        setSelectedTalisman(talisman || null);
+      }
+
+    const Talisman1Change = talismanChangeHandler(setSelectedTalisman1);
+    const Talisman2Change = talismanChangeHandler(setSelectedTalisman2);
+    const Talisman3Change = talismanChangeHandler(setSelectedTalisman3);
+    const Talisman4Change = talismanChangeHandler(setSelectedTalisman4);
 
 
   return (
@@ -323,8 +361,79 @@ function App() {
                 )}
               </div>
             </div>
-
           </div>
+
+        {/* TALISMANS */}
+        <div className = "flex gap-4 justify-center">
+
+            <div className = "text-center">
+              <div className = "text-xs text-gray-700 mb-2"> Select Talisman 1 </div>
+
+              <select className = "w-full text-center text-xs mb-2 p-1 border border-gray-400 rounded" onChange = {Talisman1Change}>
+                <option value = ""> None </option> 
+                {talismans.map (talisman => (
+                  <option key = {talisman.id} value = {talisman.id}> {talisman.name} </option>
+                ))}
+              </select>
+              <div className = "w-18 h-18 bg-black mx-auto">
+                {selectedTalisman1 && selectedTalisman1.image && (
+                  <img src = {selectedTalisman1.image} alt = {selectedTalisman1.name} className = "w-full h-full object-cover"/>
+                )}
+              </div>
+            </div>
+
+            <div className = "text-center">
+              <div className = "text-xs text-gray-700 mb-2"> Select Talisman 2 </div>
+
+              <select className = "w-full text-center text-xs mb-2 p-1 border border-gray-400 rounded" onChange = {Talisman2Change}>
+                <option value = ""> None </option> 
+                {talismans.map (talisman => (
+                  <option key = {talisman.id} value = {talisman.id}> {talisman.name} </option>
+                ))}
+              </select>
+              <div className = "w-18 h-18 bg-black mx-auto">
+                {selectedTalisman2 && selectedTalisman2.image && (
+                  <img src = {selectedTalisman2.image} alt = {selectedTalisman2.name} className = "w-full h-full object-cover"/>
+                )}
+              </div>
+            </div>
+
+            <div className = "text-center">
+              <div className = "text-xs text-gray-700 mb-2"> Select Talisman 3 </div>
+
+              <select className = "w-full text-center text-xs mb-2 p-1 border border-gray-400 rounded" onChange = {Talisman3Change}>
+                <option value = ""> None </option> 
+                {talismans.map (talisman => (
+                  <option key = {talisman.id} value = {talisman.id}> {talisman.name} </option>
+                ))}
+              </select>
+              <div className = "w-18 h-18 bg-black mx-auto">
+                {selectedTalisman3 && selectedTalisman3.image && (
+                  <img src = {selectedTalisman3.image} alt = {selectedTalisman3.name} className = "w-full h-full object-cover"/>
+                )}
+              </div>
+            </div>
+
+
+            <div className = "text-center">
+              <div className = "text-xs text-gray-700 mb-2"> Select Talisman 4 </div>
+
+              <select className = "w-full text-center text-xs mb-2 p-1 border border-gray-400 rounded" onChange = {Talisman4Change}>
+                <option value = ""> None </option> 
+                {talismans.map (talisman => (
+                  <option key = {talisman.id} value = {talisman.id}> {talisman.name} </option>
+                ))}
+              </select>
+              <div className = "w-18 h-18 bg-black mx-auto">
+                {selectedTalisman4 && selectedTalisman4.image && (
+                  <img src = {selectedTalisman4.image} alt = {selectedTalisman4.name} className = "w-full h-full object-cover"/>
+                )}
+              </div>
+            </div>
+
+
+        </div>
+
 
         </div>
         </div>
