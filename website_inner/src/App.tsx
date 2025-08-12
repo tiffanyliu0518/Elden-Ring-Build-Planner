@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+import StatsSection from './Stats';
 import './App.css'
 
 interface ArmorItem {
@@ -35,6 +34,17 @@ interface fullTalismanItem {
   image: string;
 }
 
+interface Stats {
+    vigor: number;
+    mind: number;
+    endurance: number;
+    strength: number;
+    dexterity: number;
+    intelligence: number;
+    faith: number;
+    arcane: number;
+}
+
 function App() {
   const [helmets, setHelmets] = useState<ArmorItem[]>([]);
   const [chests, setChests] = useState<ArmorItem[]>([]);
@@ -60,7 +70,9 @@ function App() {
   const [selectedTalisman3, setSelectedTalisman3] = useState<fullTalismanItem | null>(null);
   const [selectedTalisman4, setSelectedTalisman4] = useState<fullTalismanItem | null>(null);
 
-
+  const [stats, setStats] = useState<Stats>({
+    vigor: 0, mind: 0, endurance: 0, strength: 0, dexterity: 0, intelligence: 0, faith: 0, arcane: 0
+  });
 
   useEffect(() => {
 
@@ -430,9 +442,9 @@ function App() {
                 )}
               </div>
             </div>
-
-
         </div>
+
+        <StatsSection stats = {stats} onStatsChange = {setStats}></StatsSection>
 
 
         </div>
