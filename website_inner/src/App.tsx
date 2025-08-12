@@ -21,6 +21,7 @@ interface fullWeaponItem {
   id: string;
   name: string;
   image: string;
+  requiredAttributes?: RequiredAttribute[]; 
 }
 
 interface TalismanItem {
@@ -43,6 +44,11 @@ interface Stats {
     intelligence: number;
     faith: number;
     arcane: number;
+}
+
+interface RequiredAttribute {
+  name: string;
+  amount: number;
 }
 
 function App() {
@@ -73,6 +79,49 @@ function App() {
   const [stats, setStats] = useState<Stats>({
     vigor: 0, mind: 0, endurance: 0, strength: 0, dexterity: 0, intelligence: 0, faith: 0, arcane: 0
   });
+
+
+const calculateStats = (): Stats => {
+    const selectedWeapons = [selectedLWeapon1, selectedLWeapon2, selectedLWeapon3,
+      selectedRWeapon1, selectedRWeapon2, selectedRWeapon3].filter(weapon => weapon !== null) as fullWeaponItem[];
+  
+
+  const requiredStats: Stats = {
+    vigor: 0,
+    mind: 0,
+    endurance: 0,
+    strength: 0,
+    dexterity: 0,
+    intelligence: 0,
+    faith: 0,
+    arcane: 0
+  };
+
+  const mapping: {[key : string] : keyof Stats} = {
+    'Str': 'strength',
+    'Dex': 'dexterity',
+    'Int': 'intelligence',
+    'Arc': 'arcane',
+    'Vig': 'vigor',
+    'Min': 'mind',
+    'End': 'endurance',
+    'Fai': 'faith'
+  }
+
+  selectedWeapons.forEach(weapon => {
+    if (weapon.requiredAttributes) {
+      weapon.requiredAttributes?.forEach(attr => {
+        const statKey = mapping[attr.name];
+        if (statKey) {
+          requiredStats[statKey] = Math.max(requiredStats[statKey], attr.amount);
+        }
+      });
+    }
+  });
+  return requiredStats;
+
+}
+
 
   useEffect(() => {
 
@@ -187,6 +236,10 @@ function App() {
     const Talisman2Change = talismanChangeHandler(setSelectedTalisman2);
     const Talisman3Change = talismanChangeHandler(setSelectedTalisman3);
     const Talisman4Change = talismanChangeHandler(setSelectedTalisman4);
+
+
+
+
 
 
   return (
@@ -444,7 +497,7 @@ function App() {
             </div>
         </div>
 
-        <StatsSection stats = {stats} onStatsChange = {setStats}></StatsSection>
+        <StatsSection stats = {stats} onStatsChange = {setStats} requiredStats = {calculateStats()}></StatsSection>
 
 
         </div>

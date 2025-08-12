@@ -14,7 +14,7 @@ interface Stats {
 interface StatsProperties {
     stats: Stats;
     onStatsChange: (newStats: Stats) => void;
-    requiredStats?: Partial<Stats>;
+    requiredStats: Stats;
 }
 
 const labels = [
@@ -28,27 +28,57 @@ const labels = [
     {key: 'arcane' as keyof Stats, label: 'Arcane', color: 'text-pink-600'},
     ];
 
-const StatsSection = ({ stats, onStatsChange, requiredStats = {}}: StatsProperties) => {
+const emptyStats: Stats = {
+  vigor: 0,
+  mind: 0,
+  endurance: 0,
+  strength: 0,
+  dexterity: 0,
+  intelligence: 0,
+  faith: 0,
+  arcane: 0
+};
+
+const StatsSection = ({ stats, onStatsChange, requiredStats = emptyStats}: StatsProperties) => {
     const handleStatChange = (statName: keyof Stats, value: string) => {
         const v = Math.max(0, Math.min(99, parseInt(value) || 0));
         onStatsChange({ ... stats, [statName]: v});
     };
 
     return (
-        <div className = "bg-gray-200 p-3 shadow-md">
-            <h3 className = "space-y-2 text-sm font-semibold text-gray-800 mb-4 text-center"> Character Stats </h3>
-            <div className = "flex-cols gap-4 max-w-4xl mx-auto">
-                {labels.map(({key, label}) => (
+        <div className = "bg-gray-200 p-6">
+            <h3 className = "text-lg font-semibold text-gray-800 mb-4 text-center"> Character Stats </h3>
+                <div className = "flex gap-6">
+                    {/* required stats parts */}
+                    <div className = "flex-1">
+                        <h4 className = "font-sm mb-2 text-gray-800"> Required Level </h4>
+                        <div className = "space-y-2">
+                            {labels.map(({key, label}) => (
+                                <div key = {key} className = "flex items-center gap-4">
+                                    <span className = {"w-28 text-xs font-sm"}> {label}</span>
+                                    <div className = "w-10 h-8 text-center text-xs"> {requiredStats[key] || '-'}
+                                    </div>
+                                </div>
+                          ))}
+                    </div>
+                </div>
+
+        <div className = "flex-1">
+            <h4 className = "font-sm text-gray-800 mb-2"> Current Level </h4>
+            <div className = "space-y-2">
+                {labels.map(({key}) => (
                     <div key = {key} className = "flex items-center gap-4">
-                        <label className = {`text-xs w-32 font-medium mb-2`}> {label} </label>
-                        <input type = "number" min = "0" max = "99" value = {stats[key]}
+                        <input type = "number" max = "99" value = {stats[key]}
                             onChange = {(e) => handleStatChange(key, e.target.value)}
                             className = "w-10 h-8 text-xs text-center">
                         </input>
                     </div>
 
                 ))}
+            </div>
         </div>
+    </div>
+
 
         <div className = "mt-4 w-1/2">
             <div className = "text-xs text-gray-600">
